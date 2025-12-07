@@ -13,14 +13,14 @@
             </div>
             <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
               <ul class="mt-35 footer-link flex justify-center">
-                <li><a href="about.html">About Basilico</a></li>
-                <li><a href="order.html">Order Food</a></li>
-                <li><a href="recruitment.html">Careers</a></li>
-                <li><a href="offers.html">Offers</a></li>
-                <li><a href="blog.html">Blog</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="menu-restaurant.html">Gift Voucher</a></li>
-                <li><a href="faq.html">FAQs</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About Deliciouso</a></li>
+                <li><a href="menu-restaurant.php">Menu</a></li>
+                <li><a href="offers.php">Offers</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="book-table.php">Book Table</a></li>
+                <li><a href="faq.php">FAQs</a></li>
               </ul>
             </div>
 
