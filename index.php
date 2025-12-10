@@ -86,7 +86,7 @@
                   <div class="swiper-slide">
                     <div class="slide-inner">
                       <div class="image">
-                        <img src="assets/images/common/slider_1.jpg" alt="" />
+                        <img src="assets/images/common/slider_4.jpg" alt="" />
                       </div>
                       <div class="content">
                         <p class="mb-14 uppercase white font_600">
