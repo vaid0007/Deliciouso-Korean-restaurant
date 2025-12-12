@@ -82,30 +82,19 @@
               <div class="footer-social flex items-center justify-center">
                 <ul class="social flex items-center justify-center">
                   <li>
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                  </li>
+  <a href="https://www.facebook.com/share/p/1BatFW5DeL/" target="_blank">
+    <i class="fab fa-facebook"></i>
+  </a>
+</li>
+
+<li>
+  <a href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D" target="_blank">
+    <i class="fab fa-instagram"></i>
+  </a>
+</li>
+
                   <li>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-skype"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-facebook-messenger"></i></a>
-                  </li>
-                  <li>
-                    <a href="#">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        height="1em"
-                        viewBox="0 0 448 512"
-                      >
-                        <!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. -->
-                        <path
-                          d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"
-                        />
-                      </svg>
-                    </a>
                   </li>
                 </ul>
               </div>
