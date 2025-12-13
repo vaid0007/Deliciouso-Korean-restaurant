@@ -91,19 +91,23 @@
                         <img src="assets/images/common/slider_4.jpg" alt="" />
                       </div>
                       <div class="content">
-                        <p class="mb-14 uppercase white font_600">
-                          Crazy Beefy Burgers
-                        </p>
-                        <h2 class="capitalize mb-40">
-                          Up To 20% <br class="show-desktop" />
-                          Off All Products
-                        </h2>
-                        <div class="flex">
-                          <a href="shop-details.html" class="tf-button"
-                            >view detail</a
-                          >
-                        </div>
-                      </div>
+  <p class="mb-14 uppercase white font_600">
+    ASIAN FLAVOUR SPECIAL
+  </p>
+
+  <h2 class="mb-40" style="text-transform:none;">
+    Up To 20% <br class="show-desktop" />
+    Off Asian Dishes
+  </h2>
+
+  <div class="flex">
+    <a href="shop-details.html" class="tf-button">
+      VIEW DETAIL
+    </a>
+  </div>
+</div>
+
+
                     </div>
                   </div>
                   <div class="swiper-slide">
@@ -112,19 +116,22 @@
                         <img src="assets/images/common/slider_2.jpg" alt="" />
                       </div>
                       <div class="content">
-                        <p class="mb-14 uppercase white font_600">
-                          Crazy Beefy Burgers
-                        </p>
-                        <h2 class="capitalize mb-40">
-                          Quality Ingredients. <br class="show-desktop" />
-                          Quality Burgers.
-                        </h2>
-                        <div class="flex">
-                          <a href="shop-details.html" class="tf-button"
-                            >view detail</a
-                          >
-                        </div>
-                      </div>
+  <p class="mb-14 uppercase white font_600">
+    CRISPY CHICKEN SPECIAL
+  </p>
+
+  <h2 class="mb-40" style="text-transform:none;">
+    Fresh Ingredients. <br class="show-desktop" />
+    Crispy Chicken Bowls.
+  </h2>
+
+  <div class="flex">
+    <a href="shop-details.html" class="tf-button">
+      VIEW DETAIL
+    </a>
+  </div>
+</div>
+
                     </div>
                   </div>
                   <div class="swiper-slide">
@@ -132,20 +139,23 @@
                       <div class="image">
                         <img src="assets/images/common/slider_3.jpg" alt="" />
                       </div>
-                      <div class="content">
-                        <p class="mb-14 uppercase white font_600">
-                          Crazy Beefy Burgers
-                        </p>
-                        <h2 class="capitalize mb-40">
-                          Quality Ingredients. <br class="show-desktop" />
-                          Quality Burgers.
-                        </h2>
-                        <div class="flex">
-                          <a href="shop-details.html" class="tf-button"
-                            >view detail</a
-                          >
-                        </div>
-                      </div>
+                        <div class="content">
+  <p class="mb-14 uppercase white font_600">
+    KOREAN CORN DOGS
+  </p>
+
+  <h2 class="mb-40" style="text-transform:none;">
+    Crispy Outside. <br class="show-desktop" />
+    Cheesy Inside.
+  </h2>
+
+  <div class="flex">
+    <a href="shop-details.html" class="tf-button">
+      VIEW DETAIL
+    </a>
+  </div>
+</div>
+
                     </div>
                   </div>
                 </div>
@@ -372,9 +382,11 @@
                 <p class="sub-title">discovery menu</p>
                 <h2 class="mb-16">What Eats Today?</h2>
                 <p class="fz-17">
-                  The Basilico menu is diverse and extensive, with many choices
-                  for you, your family and friends. <br class="show-desktop" />
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  The Deliciouso menu is diverse and extensive, with delicious choices
+for you, your family, and friends. <br class="show-desktop" />
+From Korean favorites to modern street food, every dish is crafted
+with fresh ingredients and bold flavors.
+
                 </p>
               </div>
             </div>
@@ -385,12 +397,19 @@
                   <img src="assets/images/common/item-01.png" alt="" class="item-1">
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">Minced Chicken With Tofu.</h4>
+  <h4 class="title mb-12">
+    Cheesy <br />
+    Puff Straws.
+  </h4>
+
   <p class="white">
-    A comforting Korean-style dish made with tender minced chicken,
-    soft tofu cubes, and rich flavors cooked to perfection.
+    Crispy and flaky savory pastry straws made with buttery puff pastry
+    and rich cheese, perfect as a snack or appetizer with soups, salads,
+    or cocktails.
   </p>
 </div>
+
+
                 <a class="link" href="menu-restaurant.html">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -425,13 +444,19 @@
                   <img src="assets/images/common/item_2.jpg" alt="" />
                   <img src="assets/images/common/item-02.png" alt="" class="item-1">
                 </div>
-                <div class="content">
-  <h4 class="title mb-12">Korean Chicken Wings.</h4>
+               <div class="content">
+  <h4 class="title mb-12">
+    Tom Yum <br />
+    Soup.
+  </h4>
+
   <p class="white">
-    Crispy, juicy wings coated in a sweet & spicy Korean glaze that delivers
-    the perfect balance of heat and flavor.
+    A hot and sour Thai soup known for its bold, aromatic flavors,
+    prepared with lemongrass, lime juice, chili peppers, and fish sauce
+    to deliver the perfect balance of spice and tang.
   </p>
 </div>
+
 
                 <a class="link" href="menu-restaurant.html">
                   <svg
@@ -467,13 +492,20 @@
                   <img src="assets/images/common/item_3.jpg" alt="" />
                   <img src="assets/images/common/item-03.png" alt="" class="item-1">
                 </div>
-                <div class="content">
-  <h4 class="title mb-12">Scallion Chicken.</h4>
+               <div class="content">
+  <h4 class="title mb-12">
+    Korean Chicken <br />
+    Wings.
+  </h4>
+
   <p class="white">
-    Flavorful stir-fried chicken tossed with fresh scallions, garlic,
-    and Korean-style seasoning for an aromatic delight.
+    Crispy and juicy chicken wings tossed in a sweet and spicy Korean
+    glaze, delivering a bold flavor with the perfect balance of heat
+    and crunch.
   </p>
 </div>
+
+
 
                 <a class="link" href="menu-restaurant.html">
                   <svg
@@ -511,12 +543,18 @@
                   <img src="assets/images/common/item-04.png" alt="" class="item-1">
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">Katsu Chicken Sizzler.</h4>
+  <h4 class="title mb-12">
+    Ninja Garlic <br />
+    Ramen.
+  </h4>
+
   <p class="white">
-    Crispy chicken katsu served sizzling hot with bold sauces and
-    aromatic flavors for the perfect Korean-inspired feast.
+    A rich and comforting bowl of ramen infused with garlic flavors,
+    served with noodles, broth, and toppings that create a deeply
+    satisfying Japanese-style experience.
   </p>
 </div>
+
 
                 <a class="link" href="menu-restaurant.html">
                   <svg
@@ -553,12 +591,17 @@
                   <img src="assets/images/common/item-05.png" alt="" class="item-1">
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">Crispy Lotus Roots.</h4>
+  <h4 class="title mb-12">
+    Crispy Cheese <br />
+    Corn Dog.
+  </h4>
+
   <p class="white">
-    Thinly sliced lotus roots fried to golden perfection, tossed in a
-    sweet-spicy Korean glaze for an irresistible crunch.
+    A popular Korean street food made with a crunchy coating and gooey
+    melted cheese inside, perfectly fried for a crispy and cheesy bite.
   </p>
 </div>
+
 
                 <a class="link" href="menu-restaurant.html">
                   <svg
@@ -595,12 +638,18 @@
                   <img src="assets/images/common/item-06.png" alt="" class="item-1 t1">
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">Dimsum.</h4>
+  <h4 class="title mb-12">
+    Pad Thai <br />
+    Noodles.
+  </h4>
+
   <p class="white">
-    Soft, flavorful dumplings filled with authentic Asian ingredients and
-    served with a rich, savory dipping sauce.
+    Classic Thai stir-fried noodles cooked with tangy, sweet, and savory
+    flavors, mixed with vegetables and sauces for a well-balanced,
+    flavorful meal.
   </p>
 </div>
+
 
                 <a class="link" href="menu-restaurant.html">
                   <svg
@@ -726,165 +775,129 @@
               <div class="swiper-container sl-product-1">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                    <div class="product-item">
-                      <span class="price gradient">$20.25</span>
-                      <div class="inner">
-                        <div class="overlay">
-                          <img
-                            src="assets/images/backgroup/bg-box.png"
-                            alt=""
-                          />
-                        </div>
-                        <div class="overlay-2"></div>
-                        <div class="content">
-                          <h5
-                            class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5"
-                          >
-                            <a href="#">Beef Burger Big Combo</a>
-                          </h5>
-                          <p class="desc">
-                            Duis sit amet libero volutpat, tempus augue quis,
-                            suscipit sapien. Phasellus a cursus enim.
-                          </p>
-                          <ul>
-                            <li>A Large Size Beef Burger</li>
-                            <li>A Portion Of French Fries</li>
-                            <li>A Cup Of Cold Pepsi</li>
-                          </ul>
-                          <div class="flex">
-                            <a href="order.html" class="tf-button"
-                              >add to cart combo</a
-                            >
-                          </div>
-                        </div>
-                        <div class="image">
-                          <img
-                            src="assets/images/common/product-2.png"
-                            alt=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+  <div class="product-item">
+    <span class="price gradient">$18.99</span>
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5">
+          <a href="#">Korean Chicken Wings Combo</a>
+        </h5>
+        <p class="desc">
+          A perfect combo for spice lovers featuring crispy Korean-style wings.
+        </p>
+        <ul>
+          <li>Korean Chicken Wings</li>
+          <li>Steamed Rice or Fries</li>
+          <li>Chilled Soft Drink</li>
+        </ul>
+        <div class="flex">
+          <a href="order.html" class="tf-button">add to cart combo</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/product-1.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
                   <div class="swiper-slide">
-                    <div class="product-item">
-                      <span class="price gradient">$14.50</span>
-                      <div class="inner">
-                        <div class="overlay">
-                          <img
-                            src="assets/images/backgroup/bg-box.png"
-                            alt=""
-                          />
-                        </div>
-                        <div class="overlay-2"></div>
-                        <div class="content">
-                          <h5
-                            class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5"
-                          >
-                            <a href="#">Fried Chicken & Cake Combo</a>
-                          </h5>
-                          <p class="desc">
-                            Duis sit amet libero volutpat, tempus augue quis,
-                            suscipit sapien. Phasellus a cursus enim.
-                          </p>
-                          <ul>
-                            <li>2 Pieces Of Fried Chicken</li>
-                            <li>A Baked Custard Pie</li>
-                            <li>A Cup Of Cold Pepsi</li>
-                          </ul>
-                          <div class="flex">
-                            <a href="order.html" class="tf-button"
-                              >add to cart combo</a
-                            >
-                          </div>
-                        </div>
-                        <div class="image">
-                          <img
-                            src="assets/images/common/product-1.png"
-                            alt=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+  <div class="product-item">
+    <span class="price gradient">$17.50</span>
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5">
+          <a href="#">Ninja Garlic Ramen Combo</a>
+        </h5>
+        <p class="desc">
+          Comforting ramen meal packed with rich garlic flavors.
+        </p>
+        <ul>
+          <li>Ninja Garlic Ramen Bowl</li>
+          <li>Veg Spring Roll</li>
+          <li>Chilled Soft Drink</li>
+        </ul>
+        <div class="flex">
+          <a href="order.html" class="tf-button">add to cart combo</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/product-2.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
                   <div class="swiper-slide">
-                    <div class="product-item">
-                      <span class="price gradient">$20.25</span>
-                      <div class="inner">
-                        <div class="overlay">
-                          <img
-                            src="assets/images/backgroup/bg-box.png"
-                            alt=""
-                          />
-                        </div>
-                        <div class="overlay-2"></div>
-                        <div class="content">
-                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
-                            <a href="#">Beef Burger Big Combo</a>
-                          </h5>
-                          <p class="desc">
-                            Duis sit amet libero volutpat, tempus augue quis,
-                            suscipit sapien. Phasellus a cursus enim.
-                          </p>
-                          <ul>
-                            <li>A Large Size Beef Burger</li>
-                            <li>A Portion Of French Fries</li>
-                            <li>A Cup Of Cold Pepsi</li>
-                          </ul>
-                          <div class="flex">
-                            <a href="order.html" class="tf-button"
-                              >add to cart combo</a
-                            >
-                          </div>
-                        </div>
-                        <div class="image">
-                          <img
-                            src="assets/images/common/product-2.png"
-                            alt=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+  <div class="product-item">
+    <span class="price gradient">$15.25</span>
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Korean Corn Dog Combo</a>
+        </h5>
+        <p class="desc">
+          A popular Korean street-food combo with crispy goodness.
+        </p>
+        <ul>
+          <li>Crispy Cheese Corn Dog</li>
+          <li>Seasoned French Fries</li>
+          <li>Soft Drink</li>
+        </ul>
+        <div class="flex">
+          <a href="order.html" class="tf-button">add to cart combo</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/product-1.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
                   <div class="swiper-slide">
-                    <div class="product-item">
-                      <span class="price gradient">$14.50</span>
-                      <div class="inner">
-                        <div class="overlay">
-                          <img
-                            src="assets/images/backgroup/bg-box.png"
-                            alt=""
-                          />
-                        </div>
-                        <div class="overlay-2"></div>
-                        <div class="content">
-                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
-                            <a href="#">Fried Chicken & Cake Combo</a>
-                          </h5>
-                          <p class="desc">
-                            Duis sit amet libero volutpat, tempus augue quis,
-                            suscipit sapien. Phasellus a cursus enim.
-                          </p>
-                          <ul>
-                            <li>2 Pieces Of Fried Chicken</li>
-                            <li>A Baked Custard Pie</li>
-                            <li>A Cup Of Cold Pepsi</li>
-                          </ul>
-                          <div class="flex">
-                            <a href="order.html" class="tf-button"
-                              >add to cart combo</a
-                            >
-                          </div>
-                        </div>
-                        <div class="image">
-                          <img
-                            src="assets/images/common/product-1.png"
-                            alt=""
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+  <div class="product-item">
+    <span class="price gradient">$19.25</span>
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Tom Yum Thai Meal Combo</a>
+        </h5>
+        <p class="desc">
+          A classic Thai combo with bold hot & sour flavors.
+        </p>
+        <ul>
+          <li>Tom Yum Soup</li>
+          <li>Veg or Chicken Fried Rice</li>
+          <li>Soft Drink</li>
+        </ul>
+        <div class="flex">
+          <a href="order.html" class="tf-button">add to cart combo</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/product-2.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
                 </div>
               </div>
             </div>
@@ -1375,90 +1388,85 @@
                 <div class="swiper-container mb-38 sl-testimonial">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="testimonial-item">
-                        <div class="icon">
-                          <img src="assets/images/icon/quote.png" alt="" />
-                        </div>
-                        <p class="color-3 mb-28">
-                          Amazing food, great people. Know the owner he is a
-                          hardworking family man. They prepare delicious and
-                          clean food. What I like most is that they wear gloves
-                          and hygiene is of pivotal importance. For now their
-                          food portions are good.
-                        </p>
-                        <p class="name color-3">
-                          <span>-</span> Derrick Widmark <span>-</span>
-                        </p>
-                      </div>
-                    </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      The food quality here is outstanding. Everything tastes fresh and
+      flavorful, especially the Korean dishes. Hygiene standards are
+      excellent, and the staff is always friendly.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Rahul Mehta <span>-</span>
+    </p>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="testimonial-item">
-                        <div class="icon">
-                          <img src="assets/images/icon/quote.png" alt="" />
-                        </div>
-                        <p class="color-3 mb-28">
-                          Amazing food, great people. Know the owner he is a
-                          hardworking family man. They prepare delicious and
-                          clean food. What I like most is that they wear gloves
-                          and hygiene is of pivotal importance. For now their
-                          food portions are good.
-                        </p>
-                        <p class="name color-3">
-                          <span>-</span> Derrick Widmark <span>-</span>
-                        </p>
-                      </div>
-                    </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      Absolutely love this place! Portions are generous and the flavors
+      are spot on. You can really tell they care about cleanliness and
+      food safety.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Neha Kapoor <span>-</span>
+    </p>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="testimonial-item">
-                        <div class="icon">
-                          <img src="assets/images/icon/quote.png" alt="" />
-                        </div>
-                        <p class="color-3 mb-28">
-                          Amazing food, great people. Know the owner he is a
-                          hardworking family man. They prepare delicious and
-                          clean food. What I like most is that they wear gloves
-                          and hygiene is of pivotal importance. For now their
-                          food portions are good.
-                        </p>
-                        <p class="name color-3">
-                          <span>-</span> Derrick Widmark <span>-</span>
-                        </p>
-                      </div>
-                    </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      One of the best Asian food spots in town. The corn dogs and ramen
+      are my favorites. Fast service, clean kitchen, and great value
+      for money.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Arjun Singh <span>-</span>
+    </p>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="testimonial-item">
-                        <div class="icon">
-                          <img src="assets/images/icon/quote.png" alt="" />
-                        </div>
-                        <p class="color-3 mb-28">
-                          Amazing food, great people. Know the owner he is a
-                          hardworking family man. They prepare delicious and
-                          clean food. What I like most is that they wear gloves
-                          and hygiene is of pivotal importance. For now their
-                          food portions are good.
-                        </p>
-                        <p class="name color-3">
-                          <span>-</span> Derrick Widmark <span>-</span>
-                        </p>
-                      </div>
-                    </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      A perfect place to dine with family and friends. The food is
+      delicious, well-presented, and always served hot. Highly
+      recommended!
+    </p>
+    <p class="name color-3">
+      <span>-</span> Simran Kaur <span>-</span>
+    </p>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="testimonial-item">
-                        <div class="icon">
-                          <img src="assets/images/icon/quote.png" alt="" />
-                        </div>
-                        <p class="color-3 mb-28">
-                          Amazing food, great people. Know the owner he is a
-                          hardworking family man. They prepare delicious and
-                          clean food. What I like most is that they wear gloves
-                          and hygiene is of pivotal importance. For now their
-                          food portions are good.
-                        </p>
-                        <p class="name color-3">
-                          <span>-</span> Derrick Widmark <span>-</span>
-                        </p>
-                      </div>
-                    </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      Great ambiance, amazing food, and top-notch hygiene. The staff
+      wears gloves and follows cleanliness seriously, which makes the
+      experience even better.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Daniel Foster <span>-</span>
+    </p>
+  </div>
+</div>
+
                   </div>
                 </div>
 
@@ -1537,126 +1545,128 @@
       </section>
 
       <section class="tf-section pb-130">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div
-                class="tf-title center pb-30 mb-75 wow fadeInUp"
-                data-wow-delay=".2s"
-              >
-                <p class="sub-title">Read news from us</p>
-                <h2 class="mb-20">What’s New Today?</h2>
-                <p>
-                  Hand-crafted fresh to order. Smashed to lock in flavor on a
-                  toasted brioche bun.
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div
+          class="tf-title center pb-30 mb-75 wow fadeInUp"
+          data-wow-delay=".2s"
+        >
+          <p class="sub-title">Latest from Deliciouso</p>
+          <h2 class="mb-20">What’s New Today?</h2>
+          <p>
+            Freshly prepared Korean and Asian dishes made with bold flavors,
+            premium ingredients, and a passion for great food.
+          </p>
+        </div>
+      </div>
+
+      <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
+        <div class="swiper-container sl-post">
+          <div class="swiper-wrapper">
+
+            <!-- Post 1 -->
+            <div class="swiper-slide">
+              <div class="post">
+                <a href="blog-details.html" class="flex image mb-22">
+                  <img src="assets/images/post/post_1.jpg" alt="" />
+                  <ul class="tag flex items-center">
+                    <li>
+                      <i class="fas fa-calendar-alt"></i>
+                      <span>August 24, 2023</span>
+                    </li>
+                    <li>
+                      <i class="fas fa-tag"></i>
+                      <span>Korean Food, Street Food</span>
+                    </li>
+                  </ul>
+                </a>
+                <h6 class="title center color-3 mb-0">
+                  <a href="blog-details.html">
+                    Why Korean Corn Dogs Are Everyone’s Favorite
+                  </a>
+                </h6>
+                <p class="desc center">
+                  Discover what makes Korean corn dogs so irresistible,
+                  from their crispy coating to their cheesy, flavorful
+                  fillings.
                 </p>
-              </div>
-            </div>
-            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
-              <div class="swiper-container sl-post">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <div class="post">
-                      <a href="blog-details.html" class="flex image mb-22">
-                        <img src="assets/images/post/post_1.jpg" alt="" />
-                        <ul class="tag flex items-center">
-                          <li>
-                            <i class="fas fa-calendar-alt"></i
-                            ><span>August 24, 2023</span>
-                          </li>
-                          <li>
-                            <i class="fas fa-tag"></i
-                            ><span>Burger, Fast food</span>
-                          </li>
-                        </ul>
-                      </a>
-                      <h6 class="title center color-3 mb-0">
-                        <a href="blog-details.html"
-                          >Review: Which Fish Burger is the Best Catch?</a
-                        >
-                      </h6>
-                      <p class="desc center">
-                        Holistically pontificate installed base portals after
-                        maintainable products. Phosfluorescently engage
-                        worldwide methodologies.
-                      </p>
-                      <div class="btn-post flex justify-center">
-                        <a href="blog-details.html" class="tf-button"
-                          >read more</a
-                        >
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="post">
-                      <a href="blog-details.html" class="flex image mb-22">
-                        <img src="assets/images/post/post_2.jpg" alt="" />
-                        <ul class="tag flex items-center">
-                          <li>
-                            <i class="fas fa-calendar-alt"></i
-                            ><span>August 24, 2023</span>
-                          </li>
-                          <li>
-                            <i class="fas fa-tag"></i
-                            ><span>Burger, Fast food</span>
-                          </li>
-                        </ul>
-                      </a>
-                      <h6 class="title center color-3 mb-0">
-                        <a href="blog-details.html"
-                          >Viral YouTube Burger Changing the Industry</a
-                        >
-                      </h6>
-                      <p class="desc center">
-                        Holistically pontificate installed base portals after
-                        maintainable products. Phosfluorescently engage
-                        worldwide methodologies.
-                      </p>
-                      <div class="btn-post flex justify-center">
-                        <a href="blog-details.html" class="tf-button"
-                          >read more</a
-                        >
-                      </div>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="post">
-                      <a href="blog-details.html" class="flex image mb-22">
-                        <img src="assets/images/post/post_3.jpg" alt="" />
-                        <ul class="tag flex items-center">
-                          <li>
-                            <i class="fas fa-calendar-alt"></i
-                            ><span>August 24, 2023</span>
-                          </li>
-                          <li>
-                            <i class="fas fa-tag"></i
-                            ><span>Burger, Fast food</span>
-                          </li>
-                        </ul>
-                      </a>
-                      <h6 class="title center color-3 mb-0">
-                        <a href="blog-details.html"
-                          >The Ultimate Hangover Burger Egg in a Hole Burger</a
-                        >
-                      </h6>
-                      <p class="desc center">
-                        Holistically pontificate installed base portals after
-                        maintainable products. Phosfluorescently engage
-                        worldwide methodologies.
-                      </p>
-                      <div class="btn-post flex justify-center">
-                        <a href="blog-details.html" class="tf-button"
-                          >read more</a
-                        >
-                      </div>
-                    </div>
-                  </div>
+                <div class="btn-post flex justify-center">
+                  <a href="blog-details.html" class="tf-button">read more</a>
                 </div>
               </div>
             </div>
+
+            <!-- Post 2 -->
+            <div class="swiper-slide">
+              <div class="post">
+                <a href="blog-details.html" class="flex image mb-22">
+                  <img src="assets/images/post/post_2.jpg" alt="" />
+                  <ul class="tag flex items-center">
+                    <li>
+                      <i class="fas fa-calendar-alt"></i>
+                      <span>August 24, 2023</span>
+                    </li>
+                    <li>
+                      <i class="fas fa-tag"></i>
+                      <span>Ramen, Asian Cuisine</span>
+                    </li>
+                  </ul>
+                </a>
+                <h6 class="title center color-3 mb-0">
+                  <a href="blog-details.html">
+                    Ramen Love: A Comfort Bowl for Every Mood
+                  </a>
+                </h6>
+                <p class="desc center">
+                  From rich garlic broth to spicy toppings, explore why
+                  ramen remains one of the most loved comfort foods.
+                </p>
+                <div class="btn-post flex justify-center">
+                  <a href="blog-details.html" class="tf-button">read more</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- Post 3 -->
+            <div class="swiper-slide">
+              <div class="post">
+                <a href="blog-details.html" class="flex image mb-22">
+                  <img src="assets/images/post/post_3.jpg" alt="" />
+                  <ul class="tag flex items-center">
+                    <li>
+                      <i class="fas fa-calendar-alt"></i>
+                      <span>August 24, 2023</span>
+                    </li>
+                    <li>
+                      <i class="fas fa-tag"></i>
+                      <span>Thai Food, Soups</span>
+                    </li>
+                  </ul>
+                </a>
+                <h6 class="title center color-3 mb-0">
+                  <a href="blog-details.html">
+                    Tom Yum Soup: The Perfect Balance of Spice & Tang
+                  </a>
+                </h6>
+                <p class="desc center">
+                  Learn what makes Tom Yum soup a Thai classic, packed
+                  with aromatic herbs, bold spice, and refreshing flavors.
+                </p>
+                <div class="btn-post flex justify-center">
+                  <a href="blog-details.html" class="tf-button">read more</a>
+                </div>
+              </div>
+            </div>
+
           </div>
         </div>
-      </section>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
       <section>
         <div class="container">

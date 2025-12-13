@@ -155,196 +155,198 @@
       </section>
 
       <section class="tf-section pb-130 pt-72">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_1.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >Review: Which Fish Burger is the Best Catch?</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_2.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >Viral YouTube Burger Changing the Industry</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_3.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >The Ultimate Hangover Burger Egg in a Hole Burger</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
+  <div class="container">
+    <div class="row">
 
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_4.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >New Restaurant Town that Looking think that</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_5.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >Order Fast Food Without Destroying Your Diet</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
-              <div class="post mb-76">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_6.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i
-                      ><span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i><span>Burger, Fast food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html"
-                    >Order Fast Food Without Destroying Your Diet</a
-                  >
-                </h6>
-                <p class="desc center">
-                  Holistically pontificate installed base portals after
-                  maintainable products. Phosfluorescently engage worldwide
-                  methodologies.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-12">
-              <ul class="panigation wow fadeIn" data-wow-delay=".3s">
-                <li><a href="#" class="active">1</a></li>
-                <li><a href="#">2</a></li>
-                <li>
-                  <a href="#"><i class="fas fa-chevron-double-right"></i></a>
-                </li>
-              </ul>
-            </div>
+      <!-- Post 1 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_1.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Korean Food, Street Food</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              Why Korean Corn Dogs Are a Global Sensation
+            </a>
+          </h6>
+          <p class="desc center">
+            From crispy coatings to cheesy centers, explore why Korean corn
+            dogs have become one of the most loved street foods worldwide.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
           </div>
         </div>
-      </section>
+      </div>
+
+      <!-- Post 2 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_2.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Ramen, Japanese Cuisine</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              Ramen Bowls That Comfort the Soul
+            </a>
+          </h6>
+          <p class="desc center">
+            Discover how rich broths, noodles, and toppings come together
+            to create the ultimate comfort bowl loved across generations.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Post 3 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_3.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Thai Food, Soups</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              Tom Yum Soup: Bold, Spicy & Refreshing
+            </a>
+          </h6>
+          <p class="desc center">
+            Learn what makes Tom Yum soup a Thai classic, known for its
+            hot, sour flavors and aromatic herbs.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Post 4 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_4.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Korean Cuisine</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              The Secret Behind Perfect Korean Fried Chicken
+            </a>
+          </h6>
+          <p class="desc center">
+            Double-fried for crunch and glazed with bold sauces, discover
+            what makes Korean fried chicken truly special.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Post 5 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_5.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Asian Bowls</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              Why Sticky Rice Bowls Are So Satisfying
+            </a>
+          </h6>
+          <p class="desc center">
+            From teriyaki chicken to spicy toppings, sticky rice bowls
+            deliver comfort, flavor, and fullness in every bite.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Post 6 -->
+      <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
+        <div class="post mb-76">
+          <a href="blog-details.html" class="flex image mb-22">
+            <img src="assets/images/post/post_6.jpg" alt="" />
+            <ul class="tag flex items-center">
+              <li>
+                <i class="fas fa-calendar-alt"></i><span>August 24, 2023</span>
+              </li>
+              <li>
+                <i class="fas fa-tag"></i><span>Healthy Asian Food</span>
+              </li>
+            </ul>
+          </a>
+          <h6 class="title center color-3 mb-0">
+            <a href="blog-details.html">
+              Enjoy Asian Food Without Compromising Balance
+            </a>
+          </h6>
+          <p class="desc center">
+            Learn how to enjoy flavorful Asian dishes that are both
+            satisfying and thoughtfully prepared.
+          </p>
+          <div class="btn-post flex justify-center">
+            <a href="blog-details.html" class="tf-button">read more</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Pagination -->
+      <div class="col-md-12">
+        <ul class="panigation wow fadeIn" data-wow-delay=".3s">
+          <li><a href="#" class="active">1</a></li>
+          <li><a href="#">2</a></li>
+          <li>
+            <a href="#"><i class="fas fa-chevron-double-right"></i></a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 
       <?php include 'footer.php'; ?>
     </div>

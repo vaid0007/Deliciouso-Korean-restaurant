@@ -412,90 +412,84 @@
               <div class="swiper-container mb-38 sl-testimonial">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="icon">
-                        <img src="assets/images/icon/quote.png" alt="" />
-                      </div>
-                      <p class="color-3 mb-28">
-                        Amazing food, great people. Know the owner he is a
-                        hardworking family man. They prepare delicious and
-                        clean food. What I like most is that they wear gloves
-                        and hygiene is of pivotal importance. For now their
-                        food portions are good.
-                      </p>
-                      <p class="name color-3">
-                        <span>-</span> Derrick Widmark <span>-</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="icon">
-                        <img src="assets/images/icon/quote.png" alt="" />
-                      </div>
-                      <p class="color-3 mb-28">
-                        Amazing food, great people. Know the owner he is a
-                        hardworking family man. They prepare delicious and
-                        clean food. What I like most is that they wear gloves
-                        and hygiene is of pivotal importance. For now their
-                        food portions are good.
-                      </p>
-                      <p class="name color-3">
-                        <span>-</span> Derrick Widmark <span>-</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="icon">
-                        <img src="assets/images/icon/quote.png" alt="" />
-                      </div>
-                      <p class="color-3 mb-28">
-                        Amazing food, great people. Know the owner he is a
-                        hardworking family man. They prepare delicious and
-                        clean food. What I like most is that they wear gloves
-                        and hygiene is of pivotal importance. For now their
-                        food portions are good.
-                      </p>
-                      <p class="name color-3">
-                        <span>-</span> Derrick Widmark <span>-</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="icon">
-                        <img src="assets/images/icon/quote.png" alt="" />
-                      </div>
-                      <p class="color-3 mb-28">
-                        Amazing food, great people. Know the owner he is a
-                        hardworking family man. They prepare delicious and
-                        clean food. What I like most is that they wear gloves
-                        and hygiene is of pivotal importance. For now their
-                        food portions are good.
-                      </p>
-                      <p class="name color-3">
-                        <span>-</span> Derrick Widmark <span>-</span>
-                      </p>
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="icon">
-                        <img src="assets/images/icon/quote.png" alt="" />
-                      </div>
-                      <p class="color-3 mb-28">
-                        Amazing food, great people. Know the owner he is a
-                        hardworking family man. They prepare delicious and
-                        clean food. What I like most is that they wear gloves
-                        and hygiene is of pivotal importance. For now their
-                        food portions are good.
-                      </p>
-                      <p class="name color-3">
-                        <span>-</span> Derrick Widmark <span>-</span>
-                      </p>
-                    </div>
-                  </div>
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      The food quality here is outstanding. Everything tastes fresh and
+      flavorful, especially the Korean dishes. Hygiene standards are
+      excellent, and the staff is always friendly.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Rahul Mehta <span>-</span>
+    </p>
+  </div>
+</div>
+
+                    <div class="swiper-slide">
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      Absolutely love this place! Portions are generous and the flavors
+      are spot on. You can really tell they care about cleanliness and
+      food safety.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Neha Kapoor <span>-</span>
+    </p>
+  </div>
+</div>
+
+                    <div class="swiper-slide">
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      One of the best Asian food spots in town. The corn dogs and ramen
+      are my favorites. Fast service, clean kitchen, and great value
+      for money.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Arjun Singh <span>-</span>
+    </p>
+  </div>
+</div>
+
+                    <div class="swiper-slide">
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      A perfect place to dine with family and friends. The food is
+      delicious, well-presented, and always served hot. Highly
+      recommended!
+    </p>
+    <p class="name color-3">
+      <span>-</span> Simran Kaur <span>-</span>
+    </p>
+  </div>
+</div>
+
+                    <div class="swiper-slide">
+  <div class="testimonial-item">
+    <div class="icon">
+      <img src="assets/images/icon/quote.png" alt="" />
+    </div>
+    <p class="color-3 mb-28">
+      Great ambiance, amazing food, and top-notch hygiene. The staff
+      wears gloves and follows cleanliness seriously, which makes the
+      experience even better.
+    </p>
+    <p class="name color-3">
+      <span>-</span> Daniel Foster <span>-</span>
+    </p>
+  </div>
+</div>
                 </div>
               </div>
 
