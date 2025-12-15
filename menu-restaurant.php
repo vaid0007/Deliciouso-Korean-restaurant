@@ -34,20 +34,20 @@
                 <div class="bg-page-title-inner">
                   <img
                     class="parallax"
-                    src="assets/images/backgroup/page-title_4.jpg"
+                    src="assets/images/backgroup/page-title_12.jpg"
                     alt=""
                   />
                 </div>
                 <img
                   class="icon_1 wow fadeInLeft"
                   data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_page-title.png"
+                  src="assets/images/backgroup/icon_page-title_4.png"
                   alt=""
                 />
                 <img
                   class="icon_2 wow fadeInRight"
                   data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_2_page-title.png"
+                  src="assets/images/backgroup/icon_2_page-title_4.png"
                   alt=""
                 />
                 <div class="overlay"></div>
@@ -275,17 +275,17 @@
                   <li>
                     <div class="item-box-2 style2">
                       <div class="image mb-10">
-                        <img src="assets/images/common/item_23.png" alt="" />
+                        <img src="assets/images/common/item_24.png" alt="" />
                       </div>
-                      <h6 class="center color-3 mb-0">Fire-up Starters Veg</h6>
+                      <h6 class="center color-3 mb-0">Fire-up Starters Non- Veg</h6>
                     </div>
                   </li>
                   <li>
                     <div class="item-box-2 style2">
                       <div class="image mb-10">
-                        <img src="assets/images/common/item_24.png" alt="" />
+                        <img src="assets/images/common/item_23.png" alt="" />
                       </div>
-                      <h6 class="center color-3 mb-0">Fire-up Starters non-Veg</h6>
+                      <h6 class="center color-3 mb-0">Fire-up Starters Veg</h6>
                     </div>
                   </li>
                   <li>
@@ -338,7 +338,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_43.png" alt="Tom Kha Gai (Tumkha) Soup" />
+      <img src="assets/images/common/item_43a.png" alt="Tom Kha Gai (Tumkha) Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -372,7 +372,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_44.png" alt="Thai Ball Soup" />
+      <img src="assets/images/common/item_44a.png" alt="Thai Ball Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -406,7 +406,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_45.png" alt="Tom Yum Soup" />
+      <img src="assets/images/common/item_45a.png" alt="Tom Yum Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -440,7 +440,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_46.png" alt="Talumein Soup" />
+      <img src="assets/images/common/item_46a.png" alt="Talumein Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -457,7 +457,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_43.png" alt="Lemon Coriander Soup" />
+      <img src="assets/images/common/item_46b.png" alt="Lemon Coriander Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -474,7 +474,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_44.png" alt="Chilli Garlic Crab Meat Soup" />
+      <img src="assets/images/common/item_46c.png" alt="Chilli Garlic Crab Meat Soup" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -493,7 +493,7 @@
 
                   <div class="content-inner">
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Korean Chicken Wings" /></div>
+    <div class="icon"><img src="assets/images/common/item_69.png" alt="Korean Chicken Wings" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Chicken Wings</h6>
@@ -508,7 +508,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Honey Glazed Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_70.png" alt="Honey Glazed Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Honey Glazed Chicken</h6>
@@ -523,7 +523,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Gochujung Chicken Popcorn" /></div>
+    <div class="icon"><img src="assets/images/common/item_71.png" alt="Gochujung Chicken Popcorn" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Gochujung Chicken Popcorn</h6>
@@ -538,7 +538,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Korean Sesame Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_72.png" alt="Korean Sesame Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Sesame Chicken</h6>
@@ -553,7 +553,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chicken Fried Wonton" /></div>
+    <div class="icon"><img src="assets/images/common/item_73.png" alt="Chicken Fried Wonton" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chicken Fried Wonton</h6>
@@ -568,7 +568,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chicken Leg Hakka" /></div>
+    <div class="icon"><img src="assets/images/common/item_74.png" alt="Chicken Leg Hakka" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chicken Leg Hakka</h6>
@@ -583,7 +583,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Kung Pao Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_75.png" alt="Kung Pao Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Kung Pao Chicken (Dry/Wet)</h6>
@@ -598,7 +598,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Black Pepper Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_76.png" alt="Black Pepper Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Black Pepper Chicken (Dry/Wet)</h6>
@@ -613,7 +613,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Hunan Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_77.png" alt="Hunan Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Hunan Chicken (Dry/Wet)</h6>
@@ -628,7 +628,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Yakitori Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_78.png" alt="Yakitori Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Yakitori Chicken</h6>
@@ -643,7 +643,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Schezwan Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_79.png" alt="Schezwan Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Schezwan Chicken (Dry/Wet)</h6>
@@ -658,7 +658,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Stir-Fried Chicken With Veggies" /></div>
+    <div class="icon"><img src="assets/images/common/item_80.png" alt="Stir-Fried Chicken With Veggies" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Stir-Fried Chicken With Veggies</h6>
@@ -673,7 +673,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chilli Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_81.png" alt="Chilli Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chilli Chicken (Dry/Wet)</h6>
@@ -688,7 +688,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Dragon Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_82.png" alt="Dragon Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Dragon Chicken</h6>
@@ -703,7 +703,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Teriyaki Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_83.png" alt="Teriyaki Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Teriyaki Chicken</h6>
@@ -718,7 +718,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Garlic Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_84.png" alt="Garlic Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Garlic Chicken (Dry/Wet)</h6>
@@ -733,7 +733,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Honey Chilli Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_85.png" alt="Honey Chilli Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Honey Chilli Chicken</h6>
@@ -748,7 +748,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Lemon Chicken (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_86.png" alt="Lemon Chicken (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Lemon Chicken (Dry/Wet)</h6>
@@ -763,7 +763,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Korean Fried Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_87.png" alt="Korean Fried Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Fried Chicken</h6>
@@ -778,7 +778,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Drums Of Heaven" /></div>
+    <div class="icon"><img src="assets/images/common/item_88.png" alt="Drums Of Heaven" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Drums Of Heaven</h6>
@@ -793,7 +793,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chicken Sausage With Rice Cake Stir-Fried" /></div>
+    <div class="icon"><img src="assets/images/common/item_89.png" alt="Chicken Sausage With Rice Cake Stir-Fried" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chicken Sausage With Rice Cake Stir-Fried</h6>
@@ -809,7 +809,7 @@
 
   <!-- Fish/Prawn preparations (Dry/Wet) -->
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Lemon Pepper (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_90.png" alt="Lemon Pepper (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Lemon Pepper (Fish/Prawn) Dry/Wet</h6>
@@ -824,7 +824,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Schezwan (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_91.png" alt="Schezwan (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Schezwan (Fish/Prawn) Dry/Wet</h6>
@@ -839,7 +839,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Chilly (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_92.png" alt="Chilly (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chilly (Fish/Prawn) Dry/Wet</h6>
@@ -854,7 +854,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Black Pepper (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_93.png" alt="Black Pepper (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Black Pepper (Fish/Prawn) Dry/Wet</h6>
@@ -869,7 +869,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Hot Garlic (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_94.png" alt="Hot Garlic (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Hot Garlic (Fish/Prawn) Dry/Wet</h6>
@@ -884,7 +884,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Hong Kong (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_95.png" alt="Hong Kong (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Hong Kong (Fish/Prawn) Dry/Wet</h6>
@@ -899,7 +899,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Hunan (Fish/Prawn) Dry/Wet" /></div>
+    <div class="icon"><img src="assets/images/common/item_96.png" alt="Hunan (Fish/Prawn) Dry/Wet" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Hunan (Fish/Prawn) Dry/Wet</h6>
@@ -914,7 +914,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Scallion Chicken" /></div>
+    <div class="icon"><img src="assets/images/common/item_97.png" alt="Scallion Chicken" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Scallion Chicken</h6>
@@ -929,7 +929,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Burnt Garlic Chicken Steam Wonton With Chilli Oil Sesame Seed" /></div>
+    <div class="icon"><img src="assets/images/common/item_98.png" alt="Burnt Garlic Chicken Steam Wonton With Chilli Oil Sesame Seed" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Burnt Garlic Chicken Steam Wonton With Chilli Oil Sesame Seed</h6>
@@ -947,7 +947,7 @@
 
                   <div class="content-inner">
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Honey Chilli Lotus" /></div>
+    <div class="icon"><img src="assets/images/common/item_a.png" alt="Honey Chilli Lotus" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Honey Chilli Lotus</h6>
@@ -962,7 +962,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Dragon Paneer" /></div>
+    <div class="icon"><img src="assets/images/common/item_b.png" alt="Dragon Paneer" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Dragon Paneer</h6>
@@ -977,7 +977,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Schezwan Tofu Cubes" /></div>
+    <div class="icon"><img src="assets/images/common/item_c.png" alt="Schezwan Tofu Cubes" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Schezwan Tofu Cubes</h6>
@@ -992,7 +992,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Veg Spring Roll" /></div>
+    <div class="icon"><img src="assets/images/common/item_d.png" alt="Veg Spring Roll" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Veg Spring Roll</h6>
@@ -1007,7 +1007,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Crispy Veg" /></div>
+    <div class="icon"><img src="assets/images/common/item_e.png" alt="Crispy Veg" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Crispy Veg</h6>
@@ -1022,7 +1022,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chilli Paneer (Dry/Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_f.png" alt="Chilli Paneer (Dry/Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chilli Paneer (Dry/Wet)</h6>
@@ -1037,7 +1037,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Mushroom Salt & Pepper" /></div>
+    <div class="icon"><img src="assets/images/common/item_g.png" alt="Mushroom Salt & Pepper" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Mushroom Salt & Pepper</h6>
@@ -1052,7 +1052,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Veg Salt & Pepper" /></div>
+    <div class="icon"><img src="assets/images/common/item_h.png" alt="Veg Salt & Pepper" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Veg Salt & Pepper</h6>
@@ -1067,7 +1067,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Wok Tossed Veg Manchurian" /></div>
+    <div class="icon"><img src="assets/images/common/item_i.png" alt="Wok Tossed Veg Manchurian" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Wok Tossed Veg Manchurian</h6>
@@ -1082,7 +1082,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_43.png" alt="Beijing Chilli Potato" /></div>
+    <div class="icon"><img src="assets/images/common/item_j.png" alt="Beijing Chilli Potato" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Beijing Chilli Potato</h6>
@@ -1097,7 +1097,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Chilli Garlic Tofu (Wet)" /></div>
+    <div class="icon"><img src="assets/images/common/item_k.png" alt="Chilli Garlic Tofu (Wet)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chilli Garlic Tofu (Wet)</h6>
@@ -1112,7 +1112,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Stir-Fried Veg with Sesame Seed" /></div>
+    <div class="icon"><img src="assets/images/common/item_l.png" alt="Stir-Fried Veg with Sesame Seed" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Stir-Fried Veg with Sesame Seed</h6>
@@ -1127,7 +1127,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Fire Tossed Schezwan Babycorn" /></div>
+    <div class="icon"><img src="assets/images/common/item_m.png" alt="Fire Tossed Schezwan Babycorn" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Fire Tossed Schezwan Babycorn</h6>
@@ -1142,7 +1142,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Korean Cauliflower" /></div>
+    <div class="icon"><img src="assets/images/common/item_n.png" alt="Korean Cauliflower" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Cauliflower</h6>
