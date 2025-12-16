@@ -1155,7 +1155,7 @@
 
                   <div class="content-inner">
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_42.png" alt="Korean Spice Chicken Momo (Panfried)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a1.png" alt="Korean Spice Chicken Momo (Panfried)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Spice Chicken Momo (Panfried)</h6>
@@ -1170,7 +1170,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_42.png" alt="Japanese Style Chicken Momo (Panfried)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a2.png" alt="Japanese Style Chicken Momo (Panfried)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Japanese Style Chicken Momo (Panfried)</h6>
@@ -1185,7 +1185,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Fire Dragon Chicken Momo (Steamed)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a3.png" alt="Fire Dragon Chicken Momo (Steamed)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Fire Dragon Chicken Momo (Steamed)</h6>
@@ -1200,7 +1200,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Chicken Steamed Momo" /></div>
+    <div class="icon"><img src="assets/images/common/item_a4.png" alt="Chicken Steamed Momo" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chicken Steamed Momo</h6>
@@ -1215,7 +1215,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Honey Glazed Chicken Momo (Panfried)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a5.png" alt="Honey Glazed Chicken Momo (Panfried)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Honey Glazed Chicken Momo (Panfried)</h6>
@@ -1230,7 +1230,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Cheese Corn Veg Kurkure Momo (Fried)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a6.png" alt="Cheese Corn Veg Kurkure Momo (Fried)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Cheese Corn Veg Kurkure Momo (Fried)</h6>
@@ -1245,7 +1245,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Korean Delicious Special Chicken Momo (Steamed)" /></div>
+    <div class="icon"><img src="assets/images/common/item_a7.png" alt="Korean Delicious Special Chicken Momo (Steamed)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Special Chicken Momo (Steamed)</h6>
@@ -1260,7 +1260,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Mushroom Steamed Momo" /></div>
+    <div class="icon"><img src="assets/images/common/item_a8.png" alt="Mushroom Steamed Momo" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Mushroom Steamed Momo</h6>
@@ -1278,7 +1278,7 @@
 
                   <div class="content-inner">
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Korean Flame Tossed Chicken With Buldak Noodles" /></div>
+    <div class="icon"><img src="assets/images/common/item_b1.png" alt="Korean Flame Tossed Chicken With Buldak Noodles" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Korean Flame Tossed Chicken With Buldak Noodles</h6>
@@ -1293,7 +1293,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_44.png" alt="Katsu Bowl On Sizzler (Chicken)" /></div>
+    <div class="icon"><img src="assets/images/common/item_b2.png" alt="Katsu Bowl On Sizzler (Chicken)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Katsu Bowl On Sizzler (Chicken)</h6>
@@ -1308,7 +1308,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Ninja Momo Sizzler (Veg/Non Veg)" /></div>
+    <div class="icon"><img src="assets/images/common/item_b3.png" alt="Ninja Momo Sizzler (Veg/Non Veg)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Ninja Momo Sizzler (Veg/Non Veg)</h6>
@@ -1323,7 +1323,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_45.png" alt="Chicken in Beijing Style Sizzler" /></div>
+    <div class="icon"><img src="assets/images/common/item_b4.png" alt="Chicken in Beijing Style Sizzler" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Chicken in Beijing Style Sizzler</h6>
@@ -1338,7 +1338,7 @@
   </div>
 
   <div class="product-item-style2 flex items-center">
-    <div class="icon"><img src="assets/images/common/item_46.png" alt="Tofu way Sizzler (Egg Japanese Rice)" /></div>
+    <div class="icon"><img src="assets/images/common/item_b5.png" alt="Tofu way Sizzler (Egg Japanese Rice)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
         <h6 class="color-3 mb-0">Tofu way Sizzler (Egg Japanese Rice)</h6>
@@ -1358,7 +1358,7 @@
   
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_44.png" alt="Crispy Fried Futomaki Roll (Veg)" />
+      <img src="assets/images/common/item_b6.png" alt="Crispy Fried Futomaki Roll (Veg)" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -1375,7 +1375,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_44.png" alt="California Roll (Crab)" />
+      <img src="assets/images/common/item_b7.png" alt="California Roll (Crab)" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -1392,7 +1392,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_45.png" alt="Crispy Tempura Roll (Prawns)" />
+      <img src="assets/images/common/item_b8.png" alt="Crispy Tempura Roll (Prawns)" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
@@ -1409,7 +1409,7 @@
 
   <div class="product-item-style2 flex items-center">
     <div class="icon">
-      <img src="assets/images/common/item_45.png" alt="Crispy Teriyaki Chicken Roll" />
+      <img src="assets/images/common/item_b9.png" alt="Crispy Teriyaki Chicken Roll" />
     </div>
     <div class="content">
       <div class="top flex items-center mb-8">
