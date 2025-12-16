@@ -101,7 +101,7 @@
   </h2>
 
   <div class="flex">
-    <a href="shop-details.html" class="tf-button">
+    <a href="menu-restaurant.php" class="tf-button">
       VIEW DETAIL
     </a>
   </div>
@@ -126,7 +126,7 @@
   </h2>
 
   <div class="flex">
-    <a href="shop-details.html" class="tf-button">
+    <a href="menu-restaurant.php" class="tf-button">
       VIEW DETAIL
     </a>
   </div>
@@ -150,7 +150,7 @@
   </h2>
 
   <div class="flex">
-    <a href="shop-details.html" class="tf-button">
+    <a href="menu-restaurant.php" class="tf-button">
       VIEW DETAIL
     </a>
   </div>
@@ -196,14 +196,14 @@
                             </h5>
                           </div>
                           <div class="hover-effect">
-  <h5 class="mb-20">
-    <a href="about.html">Quality Product</a>
-  </h5>
-  <p class="color-5">
-    Our Korean dishes are prepared with authentic spices and high-quality 
-    ingredients, bringing you rich flavors and a true traditional taste.
-  </p>
-</div>
+                           <h5 class="mb-20">
+                             <a href="about.html">Quality Product</a>
+                           </h5>
+                            <p class="color-5">
+                              Our Korean dishes are prepared with authentic spices and high-quality 
+                              ingredients, bringing you rich flavors and a true traditional taste.
+                            </p>
+                          </div>
 
                         </div>
                       </div>
@@ -367,7 +367,7 @@ with fresh ingredients and bold flavors.
 </div>
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -415,7 +415,7 @@ with fresh ingredients and bold flavors.
 </div>
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -464,7 +464,7 @@ with fresh ingredients and bold flavors.
 
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -513,7 +513,7 @@ with fresh ingredients and bold flavors.
 </div>
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -560,7 +560,7 @@ with fresh ingredients and bold flavors.
 </div>
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -608,7 +608,7 @@ with fresh ingredients and bold flavors.
 </div>
 
 
-                <a class="link" href="menu-restaurant.html">
+                <a class="link" href="menu-restaurant.php">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     version="1.1"
@@ -733,7 +733,7 @@ with fresh ingredients and bold flavors.
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">$18.99</span>
+    <span class="price gradient">₹249</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -752,7 +752,7 @@ with fresh ingredients and bold flavors.
           <li>Chilled Soft Drink</li>
         </ul>
         <div class="flex">
-          <a href="order.html" class="tf-button">add to cart combo</a>
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
       <div class="image">
@@ -764,7 +764,7 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">$17.50</span>
+    <span class="price gradient">₹269</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -783,7 +783,7 @@ with fresh ingredients and bold flavors.
           <li>Chilled Soft Drink</li>
         </ul>
         <div class="flex">
-          <a href="order.html" class="tf-button">add to cart combo</a>
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
       <div class="image">
@@ -795,7 +795,7 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">$15.25</span>
+    <span class="price gradient">₹289</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -814,7 +814,7 @@ with fresh ingredients and bold flavors.
           <li>Soft Drink</li>
         </ul>
         <div class="flex">
-          <a href="order.html" class="tf-button">add to cart combo</a>
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
       <div class="image">
@@ -826,7 +826,7 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">$19.25</span>
+    <span class="price gradient">₹249</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -845,7 +845,7 @@ with fresh ingredients and bold flavors.
           <li>Soft Drink</li>
         </ul>
         <div class="flex">
-          <a href="order.html" class="tf-button">add to cart combo</a>
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
       <div class="image">
@@ -1061,14 +1061,14 @@ with fresh ingredients and bold flavors.
                   </ul>
                   <div class="wrap-button flex-wrap">
                     <a
-                      href="about.html"
+                      href="about.php"
                       class="tf-button flex items-center mr-15 mb-10"
                       >READ MORE ABOUT US</a
                     >
                     <a
-                      href="book-table.html"
+                      href="menu-restaurant.php"
                       class="tf-button style2 flex items-center"
-                      >book a table</a
+                      >See our menu</a
                     >
                   </div>
                 </div>
@@ -1088,7 +1088,7 @@ with fresh ingredients and bold flavors.
                   Give gift vouchers to your friends and relatives to enjoy our
                   fast food, Nunc id ullamcorper.
                 </p>
-                <a class="action" href="offers.html"
+                <a class="action" href="menu-restaurant.php"
                   >buy gift now
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -1135,7 +1135,7 @@ with fresh ingredients and bold flavors.
                   20% discount on first order, Nam ut augue pulvinar turpis
                   malesuada condimentum.
                 </p>
-                <a class="action" href="order.html"
+                <a class="action" href="menu-restaurant.php"
                   >order now
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -1179,7 +1179,7 @@ with fresh ingredients and bold flavors.
                   Discover new items at the store this summer, Aliquam faucibus
                   lacus et dolor iaculis!
                 </p>
-                <a class="action" href="menu-restaurant.html"
+                <a class="action" href="menu-restaurant.php"
                   >discovery new food
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -1431,27 +1431,27 @@ with fresh ingredients and bold flavors.
                   <ul>
                     <li class="testimonial-list-item">
                       <a class="active" href="#0" data-slide-index="0">
-                        <img src="assets/images/common/avt_1.png" alt="" />
+                        <img src="assets/images/post/test_1.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="1">
-                        <img src="assets/images/common/avt_2.png" alt="" />
+                        <img src="assets/images/post/test_2.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="2">
-                        <img src="assets/images/common/avt_3.png" alt="" />
+                        <img src="assets/images/post/test_3.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="3">
-                        <img src="assets/images/common/avt_4.png" alt="" />
+                        <img src="assets/images/post/test_4.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="4">
-                        <img src="assets/images/common/avt_5.png" alt="" />
+                        <img src="assets/images/post/test_5.jpg" alt="" />
                       </a>
                     </li>
                     <li>
@@ -1489,9 +1489,9 @@ with fresh ingredients and bold flavors.
                   <p>Order! Order!</p>
                   <div class="flex">
                     <a
-                      href="order.html"
+                      href="contact.php"
                       class="tf-button style2 flex items-center"
-                      >order now today</a
+                      >Contact Us</a
                     >
                   </div>
                 </div>
@@ -1549,7 +1549,7 @@ with fresh ingredients and bold flavors.
                   fillings.
                 </p>
                 <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
+                  <a href="blog.blog" class="tf-button">read more</a>
                 </div>
               </div>
             </div>
@@ -1580,7 +1580,7 @@ with fresh ingredients and bold flavors.
                   ramen remains one of the most loved comfort foods.
                 </p>
                 <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
+                  <a href="blog.php" class="tf-button">read more</a>
                 </div>
               </div>
             </div>
@@ -1611,7 +1611,7 @@ with fresh ingredients and bold flavors.
                   with aromatic herbs, bold spice, and refreshing flavors.
                 </p>
                 <div class="btn-post flex justify-center">
-                  <a href="blog-details.html" class="tf-button">read more</a>
+                  <a href="blog.php" class="tf-button">read more</a>
                 </div>
               </div>
             </div>

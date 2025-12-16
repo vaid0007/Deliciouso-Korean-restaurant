@@ -7,7 +7,7 @@
             >
               <div class="line mr-30"></div>
               <a class="flex justify-center footer-logo">
-                <img src="assets/images/logo/logo1.png" alt="" />
+                <img src="assets/images/logo/logo1-footer.png" alt="" />
               </a>
               <div class="line ml-30"></div>
             </div>
@@ -16,11 +16,9 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About Deliciouso</a></li>
                 <li><a href="menu-restaurant.php">Menu</a></li>
-                <li><a href="offers.php">Offers</a></li>
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="book-table.php">Book Table</a></li>
-                <li><a href="faq.php">FAQs</a></li>
               </ul>
             </div>
 
@@ -54,7 +52,7 @@
                 <li><a class="call" href="tel:9103447520">798-221-3237</a></li>
               </ul>
               <div class="flex justify-center">
-                <a href="order.html" class="tf-button">order online now</a>
+                <a href="menu-restaurant.php" class="tf-button">order now</a>
               </div>
             </div>
 

@@ -6,14 +6,14 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Basilico - Fastfood</title>
+    <title>Deliciouso - Contact</title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="app/dist/app.css" />
     <link rel="stylesheet" href="assets/font/font-awesome.css" />
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
+    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   </head>
@@ -35,22 +35,10 @@
                 <div class="bg-page-title-inner">
                   <img
                     class="parallax"
-                    src="assets/images/backgroup/page-title_2.jpg"
+                    src="assets/images/backgroup/contact_banner.jpg"
                     alt=""
                   />
                 </div>
-                <img
-                  class="icon_1 wow fadeInLeft"
-                  data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_page-title.png"
-                  alt=""
-                />
-                <img
-                  class="icon_2 wow fadeInRight"
-                  data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_2_page-title.png"
-                  alt=""
-                />
                 <div class="overlay"></div>
                 <div
                   class="breadcrumb flex flex-column items-center wow fadeIn"
@@ -263,8 +251,6 @@
       </section>
 
       <section class="tf-section pb-130 pt-115 mobile-mb70">
-        <img class="item-snack-bottom left t1" src="assets/images/common/item-07.png" alt="">
-        <img class="item-snack-bottom right t1" src="assets/images/common/item-07.png" alt="">
         <div class="container">
           <div class="row">
             <div class="col-md-12">

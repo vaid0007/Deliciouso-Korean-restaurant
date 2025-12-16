@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
   <!-- Mirrored from themesflat.co/html/restaurant/fastfood/menu-restaurant.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:12:06 GMT -->
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Basilico - Fastfood</title>
+    <title>Deliciouso - Menu </title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="app/dist/app.css" />
     <link rel="stylesheet" href="assets/font/font-awesome.css" />
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
+    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   </head>
@@ -153,103 +153,98 @@
                 <div class="swiper-container sl-product-5 visible">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="product-box">
-                        <div class="overlay">
-                          <img
-                            class="radius-20"
-                            src="assets/images/backgroup/bg-box-6.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div class="content relative">
-                          <p class="uppercase color-main mb8 text-spacing-1_5">
-                            Speical food
-                          </p>
-                          <h2 class="text-spacing-1 mb-24">
-                            Burger Beef Cheese
-                          </h2>
-                          <p class="mb-34 white pr-55">
-                            100 % Grass-fed beef patty, cheddar cheese, special
-                            sauce, tomato, pickles, lettuce, sesame seed bun
-                          </p>
-                          <div class="flex">
-                            <ul class="flex items-center ml--20">
-                              <li class="style white">220 Gr / 600 Cal</li>
-                              <li class="color-main">$12.00</li>
-                              <li>
-                                <a href="#" class="icon"
-                                  ><i class="fal fa-plus"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+  <div class="product-box">
+    <div class="overlay">
+      <img
+        class="radius-20"
+        src="assets/images/common/slider_2.jpg"
+        alt=""
+      />
+    </div>
+    <div class="content relative">
+      <p class="uppercase color-main mb8 text-spacing-1_5">
+        Special Food
+      </p>
+      <h2 class="text-spacing-1 mb-24">
+        Crispy Chicken Cutlet Bowl
+      </h2>
+      <p class="mb-34 white pr-55">
+        Golden fried chicken cutlet served over fresh shredded vegetables,
+        topped with sesame seeds and rich Korean-style sauce.
+      </p>
+      <div class="flex">
+        <ul class="flex items-center ml--20">
+          <li class="style white">280 Gr / 720 Cal</li>
+          <li class="color-main">₹249</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="product-box">
-                        <div class="overlay">
-                          <img
-                            class="radius-20"
-                            src="assets/images/backgroup/bg-box-6.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div class="content relative">
-                          <p class="uppercase color-main mb-20">Speical food</p>
-                          <h2 class="text-spacing-1 mb-25">
-                            Burger Beef Cheese
-                          </h2>
-                          <p class="mb-30 white">
-                            100 % Grass-fed beef patty, cheddar cheese, special
-                            sauce, tomato, pickles, lettuce, sesame seed bun
-                          </p>
-                          <div class="flex">
-                            <ul class="flex items-center">
-                              <li class="style white">220 Gr / 600 Cal</li>
-                              <li class="color-main">$12.00</li>
-                              <li>
-                                <a href="#" class="icon"
-                                  ><i class="fal fa-plus"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+  <div class="product-box">
+    <div class="overlay">
+      <img
+        class="radius-20"
+        src="assets/images/common/slider_1.jpg"
+        alt=""
+      />
+    </div>
+    <div class="content relative">
+      <p class="uppercase color-main mb-20">
+        Special Food
+      </p>
+      <h2 class="text-spacing-1 mb-25">
+        Korean BBQ Skewers Platter
+      </h2>
+      <p class="mb-30 white">
+        Juicy grilled chicken skewers glazed with sweet and spicy Korean BBQ
+        sauce, served with rice, veggies, and dipping sauces.
+      </p>
+      <div class="flex">
+        <ul class="flex items-center">
+          <li class="style white">350 Gr / 850 Cal</li>
+          <li class="color-main">₹299</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
                     <div class="swiper-slide">
-                      <div class="product-box">
-                        <div class="overlay">
-                          <img
-                            class="radius-20"
-                            src="assets/images/backgroup/bg-box-6.jpg"
-                            alt=""
-                          />
-                        </div>
-                        <div class="content relative">
-                          <p class="uppercase color-main mb-20">Speical food</p>
-                          <h2 class="text-spacing-1 mb-25">
-                            Burger Beef Cheese
-                          </h2>
-                          <p class="mb-30 white">
-                            100 % Grass-fed beef patty, cheddar cheese, special
-                            sauce, tomato, pickles, lettuce, sesame seed bun
-                          </p>
-                          <div class="flex">
-                            <ul class="flex items-center">
-                              <li class="style white">220 Gr / 600 Cal</li>
-                              <li class="color-main">$12.00</li>
-                              <li>
-                                <a href="#" class="icon"
-                                  ><i class="fal fa-plus"></i
-                                ></a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+  <div class="product-box">
+    <div class="overlay">
+      <img
+        class="radius-20"
+        src="assets/images/common/slider_3.jpg"
+        alt=""
+      />
+    </div>
+    <div class="content relative">
+      <p class="uppercase color-main mb-20">
+        Special Food
+      </p>
+      <h2 class="text-spacing-1 mb-25">
+        Korean Cheese Corn Dogs
+      </h2>
+      <p class="mb-30 white">
+        Crispy Korean-style corn dogs filled with cheese and sausage,
+        drizzled with spicy mayo, mustard, and signature sauces.
+      </p>
+      <div class="flex">
+        <ul class="flex items-center">
+          <li class="style white">260 Gr / 680 Cal</li>
+          <li class="color-main">₹150 – ₹160</li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
                   </div>
                 </div>
               </div>
@@ -1431,41 +1426,6 @@
 
 </div>
 
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <section
-        class="tf-section restaurant-section-style2 hidden pt-118 pb-130"
-      >
-        <div class="overlay absolute w-full h-full t-0 l-0"></div>
-        <div class="img-bg absolute w-full h-full t-0 l-0">
-          <img
-            class="w-full h-full parallax"
-            src="assets/images/backgroup/bg-section-15.jpg"
-            alt=""
-          />
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12">
-              <div class="content center">
-                <h2 class="mb-20 text-spacing-1">
-                  Are You Looking for Fast food? <br class="show-desktop" />
-                  Book A Table or Order Online.
-                </h2>
-                <p class="white desc tex text-spacing-0_5">
-                  enjoy great food and family moments with basilico, we always
-                  welcome you.
-                </p>
-                <div class="flex justify-center">
-                  <a href="book-table.html" class="tf-button">book a table</a>
-                  <a href="order.html" class="tf-button style2 ml-15"
-                    >order online</a
-                  >
                 </div>
               </div>
             </div>

@@ -6,14 +6,14 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Basilico - Fastfood</title>
+    <title>Deliciouso - Blog </title>
     <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="app/dist/app.css" />
     <link rel="stylesheet" href="assets/font/font-awesome.css" />
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/favicon.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
+    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   </head>
@@ -36,22 +36,10 @@
                 <div class="bg-page-title-inner">
                   <img
                     class="parallax"
-                    src="assets/images/backgroup/page-title_9.jpg"
+                    src="assets/images/backgroup/page-title.jpg"
                     alt=""
                   />
                 </div>
-                <img
-                  class="icon_1 wow fadeInLeft"
-                  data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_page-title.png"
-                  alt=""
-                />
-                <img
-                  class="icon_2 wow fadeInRight"
-                  data-wow-delay=".2s"
-                  src="assets/images/backgroup/icon_2_page-title.png"
-                  alt=""
-                />
                 <div class="overlay"></div>
                 <div
                   class="breadcrumb flex flex-column items-center wow fadeIn"
@@ -161,7 +149,7 @@
       <!-- Post 1 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_1.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -173,7 +161,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               Why Korean Corn Dogs Are a Global Sensation
             </a>
           </h6>
@@ -182,7 +170,7 @@
             dogs have become one of the most loved street foods worldwide.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>
@@ -190,7 +178,7 @@
       <!-- Post 2 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_2.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -202,7 +190,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               Ramen Bowls That Comfort the Soul
             </a>
           </h6>
@@ -211,7 +199,7 @@
             to create the ultimate comfort bowl loved across generations.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>
@@ -219,7 +207,7 @@
       <!-- Post 3 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_3.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -231,7 +219,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               Tom Yum Soup: Bold, Spicy & Refreshing
             </a>
           </h6>
@@ -240,7 +228,7 @@
             hot, sour flavors and aromatic herbs.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>
@@ -248,7 +236,7 @@
       <!-- Post 4 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".2s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_4.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -260,7 +248,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               The Secret Behind Perfect Korean Fried Chicken
             </a>
           </h6>
@@ -269,7 +257,7 @@
             what makes Korean fried chicken truly special.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>
@@ -277,7 +265,7 @@
       <!-- Post 5 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".4s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_5.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -289,7 +277,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               Why Sticky Rice Bowls Are So Satisfying
             </a>
           </h6>
@@ -298,7 +286,7 @@
             deliver comfort, flavor, and fullness in every bite.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>
@@ -306,7 +294,7 @@
       <!-- Post 6 -->
       <div class="col-md-4 wow fadeIn" data-wow-delay=".6s">
         <div class="post mb-76">
-          <a href="blog-details.html" class="flex image mb-22">
+          <a href="blog.php" class="flex image mb-22">
             <img src="assets/images/post/post_6.jpg" alt="" />
             <ul class="tag flex items-center">
               <li>
@@ -318,7 +306,7 @@
             </ul>
           </a>
           <h6 class="title center color-3 mb-0">
-            <a href="blog-details.html">
+            <a href="blog.php">
               Enjoy Asian Food Without Compromising Balance
             </a>
           </h6>
@@ -327,7 +315,7 @@
             satisfying and thoughtfully prepared.
           </p>
           <div class="btn-post flex justify-center">
-            <a href="blog-details.html" class="tf-button">read more</a>
+            <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
       </div>

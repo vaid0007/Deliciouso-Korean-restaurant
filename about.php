@@ -4,20 +4,20 @@
 
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:11:19 GMT -->
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Korean Deliciouso - Korean Restaurant</title>
-  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-  <link rel="stylesheet" href="app/dist/app.css" />
-  <link rel="stylesheet" href="assets/font/font-awesome.css" />
-  <!-- Favicon and Touch Icons  -->
-  <link rel="shortcut icon" href="assets/images/favicon.png" />
-  <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Deliciouso - About Us</title>
+    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="app/dist/app.css" />
+    <link rel="stylesheet" href="assets/font/font-awesome.css" />
+    <!-- Favicon and Touch Icons  -->
+    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-</head>
+  </head>
 
 <body class="body header-fixed main">
   <!-- preloade -->
@@ -37,10 +37,6 @@
               <div class="bg-page-title-inner">
                 <img class="parallax" src="assets/images/backgroup/page-title.jpg" alt="" />
               </div>
-              <img class="icon_1 wow fadeInLeft" data-wow-delay=".2s"
-                src="assets/images/backgroup/icon_page-title.png" alt="" />
-              <img class="icon_2 wow fadeInRight" data-wow-delay=".2s"
-                src="assets/images/backgroup/icon_2_page-title.png" alt="" />
               <div class="overlay"></div>
               <div class="breadcrumb flex flex-column items-center wow fadeIn" data-wow-delay=".2s">
                 <h1 class="title center">About Us</h1>
@@ -70,7 +66,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-12 tablet-mb-30">
             <div class="image h-full wow fadeIn" data-wow-delay=".3s">
-              <img class="radius-20 h-full w-full" src="assets/images/common/item_34.jpg" alt="" />
+              <img class="radius-20 h-full w-full" src="assets/images/gallery/IMG-20251216-WA0023.jpg" alt="" />
             </div>
           </div>
           <div class="col-lg-8 col-md-12 wow fadeIn" data-wow-delay=".5s">
@@ -78,12 +74,12 @@
               <img class="absolute r-0 b-0" src="assets/images/backgroup/layer_1.png" alt="" />
               <div class="content pr-30 mobile-mb-30 mobile-pr0">
                 <h2 class="color-3 title text-spacing-1 mb-25 mt--5">
-                  Our Story — Korean Deliciouso Since 1996.
+                  Our Story — Korean Deliciouso
                 </h2>
                 <p class="mb-15">
                   Korean Deliciouso began with one simple idea: share the bold,
                   comforting flavors of Korean home cooking with our community.
-                  Since 1996 we've focused on fresh ingredients, time-honored
+                  we've focused on fresh ingredients, time-honored
                   techniques, and recipes passed down through generations.
                 </p>
                 <p>
@@ -100,7 +96,7 @@
                   and the highest standards of food safety and freshness.
                 </p>
                 <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
-                  Derrick Widmark
+                  Debabrata
                 </h6>
                 <p class="uppercase fz-13 color-7 text-spacing-0_5">
                   founder of Korean Deliciouso
@@ -131,19 +127,14 @@
                   to ensure every bite is vibrant and satisfying.
                 </p>
                 <div class="flex">
-                  <a href="book-table.html" class="tf-button">book a table</a>
+                  <a href="contact.php" class="tf-button">Contact Us</a>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 col-md-12 wow fadeIn" data-wow-delay=".5s">
             <div class="video wow fadeIn h-full radius-20" data-wow-delay=".2s">
-              <img class="img_video w-full h-full radius-20" src="assets/images/backgroup/video_1.jpg" alt="" />
-              <div class="wrap-video">
-                <a href="https://www.youtube.com/watch?v=HS24PywYlxg" class="popup-youtube pulse_three">
-                  <img src="assets/images/icon/video.svg" alt="" />
-                </a>
-              </div>
+              <img class="img_video w-full h-full radius-20" src="assets/images/common/item_9.jpg" alt="" />
             </div>
           </div>
 
@@ -153,7 +144,7 @@
 
           <div class="col-lg-4 col-md-12 tablet-mb-30 wow fadeIn" data-wow-delay=".3s">
             <div class="image h-full">
-              <img class="radius-20 h-full w-full" src="assets/images/common/item_35.jpg" alt="" />
+              <img class="radius-20 h-full w-full" src="assets/images/common/item_10.jpg" alt="" />
             </div>
           </div>
           <div class="col-lg-8 col-md-12 wow fadeIn" data-wow-delay=".5s">
@@ -228,13 +219,13 @@
                   Call Us To Order
                 </h6>
                 <h3 class="phone italic mb-0 white text-spacing-0_5">
-                  910-344-7520
+                  798-221-3237
                 </h3>
                 <p class="white mb-30">
                   Call us to order today, or order online!
                 </p>
                 <div class="flex">
-                  <a href="order.html" class="tf-button flex items-center">order online now</a>
+                  <a href="contact.php" class="tf-button flex items-center">Contact Us</a>
                 </div>
               </div>
             </div>
@@ -258,45 +249,27 @@
                 <div class="swiper-container mySwiper2 w-full h-full">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                      <div class="box">
-                        <div class="inner">
-                          <div class="icon mb-28">
-                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
-                              xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 511.992 511.992"
-                              style="
-                                  enable-background: new 0 0 511.992 511.992;
-                                " xml:space="preserve">
-                              <g>
-                                <path
-                                  d="M481.274,389.111H30.732c-16.936,0-30.719,13.783-30.719,30.719c0,28.22,22.957,51.198,51.198,51.198h409.584
-                                    c28.241,0,51.198-22.978,51.198-51.198C511.992,402.893,498.21,389.111,481.274,389.111z" />
-                                <path d="M10.764,225.277h490.149c2.56,0,5.345-1.27,7.25-2.99c1.864-1.7,3.031-4.014,3.256-6.512
-                                    c3.318-32.971-8.335-65.226-33.729-93.324c-45.464-50.256-130.411-81.487-221.687-81.487
-                                    c-91.419,0-176.449,31.292-221.851,81.671C8.757,150.795-2.834,183.09,0.586,216.103C1.119,221.304,5.522,225.277,10.764,225.277
-                                    z M392.107,125.871c3.993-3.993,10.485-3.993,14.479,0l20.479,20.479c3.993,4.014,3.993,10.485,0,14.479
-                                    c-1.987,2.007-4.608,3.01-7.229,3.01s-5.243-1.003-7.25-3.01l-20.479-20.479C388.114,136.357,388.114,129.885,392.107,125.871z
-                                    M310.19,166.83l20.479-20.479c3.993-3.993,10.485-3.993,14.479,0c3.993,4.014,3.993,10.485,0,14.479l-20.479,20.479
-                                    c-1.987,2.007-4.608,3.01-7.229,3.01s-5.243-1.003-7.25-3.01C306.197,177.315,306.197,170.844,310.19,166.83z M248.753,84.913
-                                    c3.993-3.993,10.485-3.993,14.479,0l20.479,20.479c3.993,4.014,3.993,10.485,0,14.479c-1.986,2.007-4.608,3.01-7.229,3.01
-                                    s-5.243-1.003-7.25-3.01l-20.479-20.479C244.759,95.398,244.759,88.927,248.753,84.913z M166.836,125.871l20.479-20.479
-                                    c3.993-3.993,10.485-3.993,14.479,0c3.993,4.014,3.993,10.485,0,14.479l-20.479,20.479c-1.987,2.007-4.608,3.01-7.229,3.01
-                                    s-5.243-1.003-7.25-3.01C162.843,136.357,162.843,129.885,166.836,125.871z M84.919,146.351c3.993-3.993,10.485-3.993,14.479,0
-                                    l20.479,20.479c3.993,4.014,3.993,10.485,0,14.479c-1.987,2.007-4.608,3.01-7.229,3.01c-2.621,0-5.243-1.003-7.25-3.01
-                                    l-20.479-20.479C80.926,156.836,80.926,150.365,84.919,146.351z" />
-                              </g>
-                            </svg>
+                        <div class="box">
+                          <div class="inner">
+                            <div class="icon mb-28">
+                           <img src="assets/images/icon/ic.png" alt="">
+                            </div>
+                            <h5 class="mb-0">
+                              <a href="about.html">Quality Product</a>
+                            </h5>
                           </div>
-                          <h5 class="mb-0">Quality Product</h5>
-                        </div>
-                        <div class="hover-effect">
-                          <h5 class="mb-20">Quality Product</h5>
-                          <p class="color-5">
-                            We use carefully selected ingredients and authentic Korean
-                            recipes to ensure every dish tastes true to its roots.
-                          </p>
+                          <div class="hover-effect">
+                           <h5 class="mb-20">
+                             <a href="about.html">Quality Product</a>
+                           </h5>
+                            <p class="color-5">
+                              Our Korean dishes are prepared with authentic spices and high-quality 
+                              ingredients, bringing you rich flavors and a true traditional taste.
+                            </p>
+                          </div>
+
                         </div>
                       </div>
-                    </div>
                     <div class="swiper-slide">
                       <div class="box">
                         <div class="inner">
@@ -381,8 +354,6 @@
     </section>
 
     <section class="tf-section pb-134 pt-125">
-      <img class="item-snack-bottom left" src="assets/images/common/item-07.png" alt="">
-      <img class="item-snack-bottom right" src="assets/images/common/item-07.png" alt="">
       <div class="container w_1650">
         <div class="row">
           <div class="col-md-12 testimonial-wrapper style3 wow fadeIn" data-wow-delay=".3s">
@@ -497,27 +468,27 @@
                 <ul>
                   <li class="testimonial-list-item">
                     <a class="active" href="#0" data-slide-index="0">
-                      <img src="assets/images/common/avt_1.png" alt="" />
+                      <img src="assets/images/post/test_1.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="1">
-                      <img src="assets/images/common/avt_2.png" alt="" />
+                      <img src="assets/images/post/test_2.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="2">
-                      <img src="assets/images/common/avt_3.png" alt="" />
+                      <img src="assets/images/post/test_3.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="3">
-                      <img src="assets/images/common/avt_4.png" alt="" />
+                      <img src="assets/images/post/test_4.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="4">
-                      <img src="assets/images/common/avt_5.png" alt="" />
+                      <img src="assets/images/post/test_5.jpg" alt="" />
                     </a>
                   </li>
                   <li>
@@ -537,7 +508,7 @@
       <div class="container w_1920 pd0">
         <div class="row">
           <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".2s">
-            <img class="w-full h-full mb--8" src="assets/images/common/item_37.jpg" alt="" />
+            <img class="w-full h-full mb--8" src="assets/images/gallery/IMG-20251216-WA0007.jpg" alt="" />
           </div>
           <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".4s">
             <div class="content-box pd-50 relative h-full tablet-center">
@@ -552,13 +523,13 @@
                   to contemporary interpretations of classic dishes.
                 </p>
                 <div class="flex">
-                  <a href="teams.html" class="tf-button">view teams</a>
+                  <a href="contact.php" class="tf-button">Contact Us</a>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".6s">
-            <img class="w-full h-full mb--8" src="assets/images/common/item_38.jpg" alt="" />
+            <img class="w-full h-full mb--8" src="assets/images/gallery/IMG-20251216-WA0006.jpg" alt="" />
           </div>
           <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".8s">
             <div class="content-box pd-50 relative h-full tablet-center">
@@ -572,7 +543,7 @@
                   We're hiring passionate people who love Korean food and hospitality.
                 </p>
                 <div class="flex">
-                  <a href="recruitment.html" class="tf-button">join now today</a>
+                  <a href="contact.php" class="tf-button">Contact Us</a>
                 </div>
               </div>
             </div>

@@ -18,11 +18,16 @@
                       <i class="fas fa-phone-alt"></i>
                     </div>
                     <ul class="phone">
-                      <li>
-                        <p>Call and Order in</p>
-                        <p>798-221-3237</p>
-                      </li>
-                    </ul>
+  <li>
+    <p>Call and Order in</p>
+    <p>
+      <a href="tel:7982213237" style="color:inherit; text-decoration:none;">
+        798-221-3237
+      </a>
+    </p>
+  </li>
+</ul>
+
                   </div>
                   <div class="mr-25 hide-tablet">
                     <img src="assets/images/icon/dashed.png" alt="" />
@@ -146,11 +151,16 @@
                   <li class="menu-item">
                     <a href="menu-restaurant.php"> Our Menu </a>
                   </li>
+                  <li class="menu-item">
+                    <a href="gallery.php">Gallery </a>
+
+                  </li>
                   
                   <li class="menu-item">
                     <a href="blog.php"> Blog </a>
 
                   </li>
+                  
                   <li class="menu-item">
                     <a href="contact.php"> Contact </a>
                   </li>
