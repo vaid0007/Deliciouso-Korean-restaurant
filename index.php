@@ -88,7 +88,7 @@
                   <div class="swiper-slide">
                     <div class="slide-inner">
                       <div class="image">
-                        <img src="assets/images/common/slider_4.jpg" alt="" />
+                        <img src="assets/images/common/slider_1.png" alt="" />
                       </div>
                       <div class="content">
   <p class="mb-14 uppercase white font_600">
@@ -545,7 +545,7 @@ with fresh ingredients and bold flavors.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_5.jpg" alt="" />
-                  <img src="assets/images/common/item-05.png" alt="" class="item-1">
+                  <img src="assets/images/common/slider_31.png" alt="" class="item-1">
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
@@ -755,7 +755,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/product-1.png" alt="" />
+        <img src="assets/images/common/combo1b.png" alt="" />
       </div>
     </div>
   </div>
@@ -785,7 +785,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/product-2.png" alt="" />
+        <img src="assets/images/common/combo2.png" alt="" />
       </div>
     </div>
   </div>
@@ -816,7 +816,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/product-3.png" alt="" />
+        <img src="assets/images/common/combo3.png" alt="" />
       </div>
     </div>
   </div>
@@ -847,7 +847,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/product-4.png" alt="" />
+        <img src="assets/images/common/combo4.png" alt="" />
       </div>
     </div>
   </div>
@@ -1123,7 +1123,7 @@ with fresh ingredients and bold flavors.
                   <div class="left">
                     <h4>
                       First Order <br class="show-desktop" />
-                      Frist Discount
+                      First Discount
                     </h4>
                   </div>
                   <div class="icon">

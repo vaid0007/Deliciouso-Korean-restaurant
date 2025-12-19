@@ -31,7 +31,7 @@
               </h5>
               <ul class="list center">
                 <li>
-                  <span>12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, N.D-05</span>
+                  <span>12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, New Delhi-110005</span>
                 </li>
                 <li><span>koreandelicious40@gmail.com</span></li>
                 <li><span>Terms and Conditions</span></li>
@@ -47,7 +47,7 @@
               </h5>
               <ul class="list center mb-30">
                 <li class="mb-10">
-                  <span>Call Us To Order or Order Online</span>
+                  <span>Call us to place an order or order online</span>
                 </li>
                 <li><a class="call" href="tel:9103447520">798-221-3237</a></li>
               </ul>
@@ -62,13 +62,13 @@
               </h5>
               <ul class="list center mb-30">
                 <li>
-                  <span>Monday – Thursday: <span>8.00am – 21.00pm</span></span>
+                  <span>Monday – Thursday: <span>8.00am – 9.00pm</span></span>
                 </li>
                 <li>
-                  <span>Friday – Saturday : <span>9.00am – 22.00pm</span></span>
+                  <span>Friday – Saturday : <span>9.00am – 10.00pm</span></span>
                 </li>
                 <li>
-                  <span>Sunday: <span>8.00 – 23.00pm</span></span>
+                  <span>Sunday: <span>8.00 – 11.00pm</span></span>
                 </li>
                 <li>
                   <span>Holiday: <span class="color-main">Closed</span></span>
