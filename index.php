@@ -355,15 +355,15 @@ with fresh ingredients and bold flavors.
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
-    Cheesy <br />
-    Puff Straws.
-  </h4>
+  Toro Fries.
+</h4>
 
-  <p class="white">
-    Crispy and flaky savory pastry straws made with buttery puff pastry
-    and rich cheese, perfect as a snack or appetizer with soups, salads,
-    or cocktails.
-  </p>
+<p class="white">
+  Crispy and golden torpedo-shaped fries seasoned to perfection, served hot
+  and crunchy. A bold and satisfying snack or side dish, perfect with dips,
+  burgers, or as a standalone treat.
+</p>
+
 </div>
 
 
@@ -403,8 +403,7 @@ with fresh ingredients and bold flavors.
                 </div>
                <div class="content">
   <h4 class="title mb-12">
-    Tom Yum <br />
-    Soup.
+    Tom Yum Soup.
   </h4>
 
   <p class="white">
@@ -451,8 +450,7 @@ with fresh ingredients and bold flavors.
                 </div>
                <div class="content">
   <h4 class="title mb-12">
-    Korean Chicken <br />
-    Wings.
+    Korean Chicken Wings.
   </h4>
 
   <p class="white">
@@ -501,8 +499,7 @@ with fresh ingredients and bold flavors.
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
-    Ninja Garlic <br />
-    Ramen.
+    Ninja Garlic Ramen.
   </h4>
 
   <p class="white">
@@ -549,8 +546,7 @@ with fresh ingredients and bold flavors.
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
-    Crispy Cheese <br />
-    Corn Dog.
+    Crispy Cheese Corn Dog.
   </h4>
 
   <p class="white">
@@ -596,8 +592,7 @@ with fresh ingredients and bold flavors.
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
-    Pad Thai <br />
-    Noodles.
+    Pad Thai Noodles.
   </h4>
 
   <p class="white">
@@ -733,7 +728,6 @@ with fresh ingredients and bold flavors.
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹249</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -763,7 +757,6 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹259</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -794,7 +787,6 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹269</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -825,7 +817,6 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹269</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />

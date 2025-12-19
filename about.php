@@ -64,6 +64,7 @@
     <section class="pt-130">
       <div class="container w_1650">
         <div class="row">
+
           <div class="col-lg-4 col-md-12 tablet-mb-30">
             <div class="image h-full wow fadeIn" data-wow-delay=".3s">
               <img class="radius-20 h-full w-full" src="assets/images/gallery/IMG-20251216-WA0023.jpg" alt="" />
@@ -105,6 +106,61 @@
             </div>
           </div>
           <div class="col-md-12">
+            <div class="h50"></div>
+          </div>
+
+          <section class="banner-1">
+  <div class="container w_1920 pd0">
+    <div class="row">
+      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".2s">
+        <img class="w-full h-full mb--8" src="assets/images/gallery/direct_1.jpg" alt="" />
+      </div>
+
+      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".4s">
+        <div class="content-box pd-50 relative h-full tablet-center">
+          <div class="overlay absolute l-0 t-0 w-full h-full">
+            <img class="w-full h-full" src="assets/images/backgroup/bg-box-3.jpg" alt="" />
+          </div>
+          <div class="relative z-1">
+            <h4 class="fz-40 mb-10 text-spacing-1_5">Meet The Founders</h4>
+            <p class="fz-17 mb-42 white">
+              Founded by two industry veterans with years of experience as a
+              Head Chef and Operations Lead, having worked with multiple top
+              food brands across India and abroad. Their combined expertise
+              brings global standards, consistency, and authentic flavors
+              to every dish we serve.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".6s">
+        <img class="w-full h-full mb--8" src="assets/images/gallery/direct_2.jpg" alt="" />
+      </div>
+
+      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".8s">
+        <div class="content-box pd-50 relative h-full tablet-center">
+          <div class="overlay absolute l-0 t-0 w-full h-full">
+            <img class="w-full h-full" src="assets/images/backgroup/bg-box-4.jpg" alt="" />
+          </div>
+          <div class="relative z-1">
+            <h4 class="fz-40 mb-10 text-spacing-1_5">Driven by Experience</h4>
+            <p class="fz-17 mb-42 white">
+              With hands-on leadership in kitchens and large-scale operations,
+              our founders ensure quality, hygiene, and customer satisfaction
+              at every level — blending culinary creativity with operational
+              excellence.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+    <div class="col-md-12">
             <div class="h50"></div>
           </div>
 
@@ -497,54 +553,6 @@
                     </a>
                   </li>
                 </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="banner-1">
-      <div class="container w_1920 pd0">
-        <div class="row">
-          <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".2s">
-            <img class="w-full h-full mb--8" src="assets/images/gallery/IMG-20251216-WA0007.jpg" alt="" />
-          </div>
-          <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".4s">
-            <div class="content-box pd-50 relative h-full tablet-center">
-              <div class="overlay absolute l-0 t-0 w-full h-full">
-                <img class="w-full h-full" src="assets/images/backgroup/bg-box-3.jpg" alt="" />
-              </div>
-              <div class="relative z-1">
-                <img class="mb-20 w-96 h-96" src="assets/images/icon/ic-about_1.png" alt="" />
-                <h3 class="fz-40 mb-10 text-spacing-1_5">Meet The Teams</h3>
-                <p class="fz-17 mb-42 white">
-                  Our chefs bring real Korean expertise — from traditional techniques
-                  to contemporary interpretations of classic dishes.
-                </p>
-                <div class="flex">
-                  <a href="contact.php" class="tf-button">Contact Us</a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".6s">
-            <img class="w-full h-full mb--8" src="assets/images/gallery/IMG-20251216-WA0006.jpg" alt="" />
-          </div>
-          <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".8s">
-            <div class="content-box pd-50 relative h-full tablet-center">
-              <div class="overlay absolute l-0 t-0 w-full h-full">
-                <img class="w-full h-full" src="assets/images/backgroup/bg-box-4.jpg" alt="" />
-              </div>
-              <div class="relative z-1">
-                <img class="mb-20 w-96 h-96" src="assets/images/icon/ic-about_2.png" alt="" />
-                <h3 class="fz-40 mb-10 text-spacing-1_5">Join Our Team</h3>
-                <p class="fz-17 mb-42 white">
-                  We're hiring passionate people who love Korean food and hospitality.
-                </p>
-                <div class="flex">
-                  <a href="contact.php" class="tf-button">Contact Us</a>
-                </div>
               </div>
             </div>
           </div>
