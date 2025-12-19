@@ -1248,7 +1248,7 @@
     <div class="icon"><img src="assets/images/common/item_46.png" alt="Korean Delicious Special Chicken Momo (Steamed)" /></div>
     <div class="content">
       <div class="top flex items-center mb-8">
-        <h6 class="color-3 mb-0">Korean Special Chicken Momo (Steamed)</h6>
+        <h6 class="color-3 mb-0">Korean Special Deliciouso Chicken Momo (Steamed)</h6>
         <span class="pl4 dot">................................</span>
         <span class="pl4 price">180</span>
       </div>

@@ -740,16 +740,15 @@ with fresh ingredients and bold flavors.
       </div>
       <div class="overlay-2"></div>
       <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5">
-          <a href="#">Korean Chicken Wings Combo</a>
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Veg Manchurian Combo</a>
         </h5>
         <p class="desc">
-          A perfect combo for spice lovers featuring crispy Korean-style wings.
+          Classic Indo-Chinese veg combo with perfectly balanced flavours.
         </p>
         <ul>
-          <li>Korean Chicken Wings</li>
-          <li>Steamed Rice or Fries</li>
-          <li>Chilled Soft Drink</li>
+          <li>Veg Fried Rice / Noodles</li>
+          <li>Wok Tossed Veg Manchurian</li>
         </ul>
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
@@ -764,23 +763,22 @@ with fresh ingredients and bold flavors.
 
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹269</span>
+    <span class="price gradient">₹259</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
       </div>
       <div class="overlay-2"></div>
       <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom text-spacing-0_5">
-          <a href="#">Ninja Garlic Ramen Combo</a>
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Chilli Paneer Combo</a>
         </h5>
         <p class="desc">
-          Comforting ramen meal packed with rich garlic flavors.
+          Spicy paneer tossed in bold sauces served with fried rice or noodles.
         </p>
         <ul>
-          <li>Ninja Garlic Ramen Bowl</li>
-          <li>Veg Spring Roll</li>
-          <li>Chilled Soft Drink</li>
+          <li>Veg Fried Rice / Noodles</li>
+          <li>3 Pepper Chilli Paneer</li>
         </ul>
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
@@ -793,9 +791,10 @@ with fresh ingredients and bold flavors.
   </div>
 </div>
 
+
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹289</span>
+    <span class="price gradient">₹269</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -803,15 +802,14 @@ with fresh ingredients and bold flavors.
       <div class="overlay-2"></div>
       <div class="content">
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Korean Corn Dog Combo</a>
+          <a href="#">Kung Pao Chicken Combo</a>
         </h5>
         <p class="desc">
-          A popular Korean street-food combo with crispy goodness.
+          A fiery chicken combo tossed with peanuts and oriental spices.
         </p>
         <ul>
-          <li>Crispy Cheese Corn Dog</li>
-          <li>Seasoned French Fries</li>
-          <li>Soft Drink</li>
+          <li>Chicken Fried Rice / Noodles</li>
+          <li>Kung Pao Chicken</li>
         </ul>
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
@@ -824,9 +822,10 @@ with fresh ingredients and bold flavors.
   </div>
 </div>
 
+
                   <div class="swiper-slide">
   <div class="product-item">
-    <span class="price gradient">₹249</span>
+    <span class="price gradient">₹269</span>
     <div class="inner">
       <div class="overlay">
         <img src="assets/images/backgroup/bg-box.png" alt="" />
@@ -834,15 +833,14 @@ with fresh ingredients and bold flavors.
       <div class="overlay-2"></div>
       <div class="content">
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Tom Yum Thai Meal Combo</a>
+          <a href="#">Schezwan Chicken Combo</a>
         </h5>
         <p class="desc">
-          A classic Thai combo with bold hot & sour flavors.
+          Hot & spicy Schezwan chicken paired with fried rice or noodles.
         </p>
         <ul>
-          <li>Tom Yum Soup</li>
-          <li>Veg or Chicken Fried Rice</li>
-          <li>Soft Drink</li>
+          <li>Chicken Fried Rice / Noodles</li>
+          <li>Schezwan Chicken</li>
         </ul>
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
@@ -854,6 +852,7 @@ with fresh ingredients and bold flavors.
     </div>
   </div>
 </div>
+
 
                 </div>
               </div>
@@ -941,7 +940,7 @@ with fresh ingredients and bold flavors.
                   alt=""
                 />
                 <div class="image wow fadeInLeft" data-wow-delay=".3s">
-                  <img src="assets/images/common/item_11.jpg" alt="" />
+                  <img src="assets/images/common/item_39.jpg" alt="" />
                 </div>
                 <div class="content wow fadeIn" data-wow-delay=".5s">
                   <h2 class="mb-24 color-3 text-spacing-1">

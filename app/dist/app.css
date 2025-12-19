@@ -564,7 +564,7 @@
   position: absolute;
   bottom: 0;
   left: 50%;
-  transform: translate(-50%, 44%);
+  transform: translate(-50%, 30%);
   transition: all 0.3s;
 }
 .item-box .image .item-1.t1 {
@@ -8004,7 +8004,7 @@ img.item-snack-bottom.t1 {
   width: calc(100% - 196px);
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: center;
   margin-top: -5px;
 }
 .topbar .topbar-info .phone p:nth-child(1) {

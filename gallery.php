@@ -126,7 +126,7 @@
       <div class="col-md-12 text-center">
         <h2 style="margin-bottom:12px; color:black;">Our Gallery</h2>
         <p style="color:#777; margin-bottom:20px;">
-          A glimpse of our signature dishes & delicious moments
+          A glimpse of our signature dishes & deliciouso moments
         </p>
       </div>
     </div>
