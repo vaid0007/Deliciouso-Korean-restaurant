@@ -749,7 +749,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/combo1b.png" alt="" />
+        <img src="assets/images/common/comboa1.png" alt="" />
       </div>
     </div>
   </div>
@@ -778,7 +778,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/combo2.png" alt="" />
+        <img src="assets/images/common/comboa2..png" alt="" />
       </div>
     </div>
   </div>
@@ -808,7 +808,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/combo3.png" alt="" />
+        <img src="assets/images/common/comboa3.png" alt="" />
       </div>
     </div>
   </div>
@@ -838,7 +838,7 @@ with fresh ingredients and bold flavors.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/combo4.png" alt="" />
+        <img src="assets/images/common/comboa4.png" alt="" />
       </div>
     </div>
   </div>
