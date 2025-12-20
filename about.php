@@ -71,40 +71,69 @@
             </div>
           </div>
           <div class="col-lg-8 col-md-12 wow fadeIn" data-wow-delay=".5s">
-            <div class="about-content style1 relative radius-20 flex items-center justify-between">
-              <img class="absolute r-0 b-0" src="assets/images/backgroup/layer_1.png" alt="" />
-              <div class="content pr-30 mobile-mb-30 mobile-pr0">
-                <h2 class="color-3 title text-spacing-1 mb-25 mt--5">
-                  Our Story — Korean Deliciouso
-                </h2>
-                <p class="mb-15">
-                  Korean Deliciouso began with one simple idea: share the bold,
-                  comforting flavors of Korean home cooking with our community.
-                  we've focused on fresh ingredients, time-honored
-                  techniques, and recipes passed down through generations.
-                </p>
-                <p>
-                  From sizzling barbecue to savory stews and handcrafted dumplings,
-                  each dish is prepared with care and respect for tradition. We
-                  blend authentic Korean taste with modern presentation to create
-                  meals everyone can enjoy.
-                </p>
-              </div>
-              <div class="inner-box gradient radius-20">
-                <img class="icon" src="assets/images/common/quote.png" alt="" />
-                <p class="font-1 fz-20 lh-1_75 white mb-28">
-                  Korean Deliciouso is committed to authentic flavors, warm hospitality,
-                  and the highest standards of food safety and freshness.
-                </p>
-                <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
-                  Debabrata
-                </h6>
-                <p class="uppercase fz-13 color-7 text-spacing-0_5">
-                  founder of Korean Deliciouso
-                </p>
-              </div>
-            </div>
-          </div>
+  <div class="about-content style1 relative radius-20 flex items-center justify-between">
+    <img class="absolute r-0 b-0" src="assets/images/backgroup/layer_1.png" alt="" />
+
+    <div class="content pr-30 mobile-mb-30 mobile-pr0">
+      <h3 class="color-3 title text-spacing-1 mb-25 mt--5">
+        Our Story — Korean Deliciouso
+      </h3>
+
+      <p class="mb-15">
+        Korean Deliciouso began with one simple idea: to share bold, comforting
+        Asian flavors with our community. We focus on fresh ingredients,
+        time-honored techniques, and recipes inspired by authentic Asian cuisines.
+      </p>
+
+      <p class="mb-20">
+        From sizzling dishes to handcrafted specialties, every meal is prepared
+        with care, consistency, and respect for taste. We blend authentic flavors
+        with modern presentation to create food everyone can enjoy.
+      </p>
+
+      <!-- About the Brand -->
+      <h3 class="color-3 title text-spacing-1 mb-25 mt--5">
+        About the Brand
+      </h3>
+      <p class="mb-20">
+        <strong>Korean Deliciouso</strong> is a modern Pan-Asian food brand
+        specializing in authentic <strong>Chinese, Thai, Korean, and Japanese</strong>
+        cuisines. Our menu includes popular favorites such as
+        <strong>Corn Dogs, Ramen, Sticky Rice, Sushi, Rice Bowls, Sizzlers,
+        Korean Rice Cakes</strong>, and more.
+        <br /><br />
+        The brand is built on <strong>consistency, quality, and affordable pricing</strong>,
+        ensuring delicious food experiences for all our customers.
+      </p>
+
+      <!-- Franchise Opportunity -->
+      <h3 class="color-3 title text-spacing-1 mb-25 mt--5">
+        Franchise Opportunity
+      </h3>
+      <p>
+        We invite passionate partners to join the
+        <strong>Korean Deliciouso franchise network</strong> and grow together
+        in India’s fast-growing Korean and Pan-Asian food segment.
+        Be part of a brand that values quality, scalability, and long-term success.
+      </p>
+    </div>
+
+    <div class="inner-box gradient radius-20">
+      <img class="icon" src="assets/images/common/quote.png" alt="" />
+      <p class="font-1 fz-20 lh-1_75 white mb-28">
+        Korean Deliciouso is committed to authentic flavors, warm hospitality,
+        and the highest standards of food safety and freshness.
+      </p>
+      <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
+        Debabrata
+      </h6>
+      <p class="uppercase fz-13 color-7 text-spacing-0_5">
+        Founder of Korean Deliciouso
+      </p>
+    </div>
+  </div>
+</div>
+
           <div class="col-md-12">
             <div class="h50"></div>
           </div>
