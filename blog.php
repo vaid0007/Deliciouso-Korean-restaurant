@@ -3,20 +3,79 @@
   
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:12:21 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - Blog </title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </head>
+  <!-- SEO Title -->
+  <title>Blog | Korean Deliciouso – Korean & Pan Asian Food Stories</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Read the Korean Deliciouso blog for stories, food culture, Korean cuisine insights, Pan Asian recipes, food trends and updates from our kitchen."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="Korean Deliciouso blog, Korean food blog, Pan Asian food blog, Korean cuisine stories, food trends, restaurant blog"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (update when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/blog" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Korean Deliciouso Blog – The Asian Way" />
+  <meta
+    property="og:description"
+    content="Explore food stories, culture and updates from Korean Deliciouso’s Pan Asian kitchen."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/blog" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Korean Deliciouso Blog" />
+  <meta
+    name="twitter:description"
+    content="Insights, food stories and Pan Asian cuisine updates from Korean Deliciouso."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+
   <body class="body header-fixed main">
     <!-- preloade -->
     <div class="preload preload-container">
@@ -160,11 +219,11 @@
               </li>
             </ul>
           </a>
-          <h6 class="title center color-3 mb-0">
+          <h2 class="title center color-3 mb-0">
             <a href="blog.php">
               Why Korean Corn Dogs Are a Global Sensation
             </a>
-          </h6>
+          </h2>
           <p class="desc center">
             From crispy coatings to cheesy centers, explore why Korean corn
             dogs have become one of the most loved street foods worldwide.
@@ -189,11 +248,11 @@
               </li>
             </ul>
           </a>
-          <h6 class="title center color-3 mb-0">
+          <h3 class="title center color-3 mb-0">
             <a href="blog.php">
               Ramen Bowls That Comfort the Soul
             </a>
-          </h6>
+          </h3>
           <p class="desc center">
             Discover how rich broths, noodles, and toppings come together
             to create the ultimate comfort bowl loved across generations.
@@ -218,11 +277,11 @@
               </li>
             </ul>
           </a>
-          <h6 class="title center color-3 mb-0">
+          <h4 class="title center color-3 mb-0">
             <a href="blog.php">
               Tom Yum Soup: Bold, Spicy & Refreshing
             </a>
-          </h6>
+          </h4><h6></h6>
           <p class="desc center">
             Learn what makes Tom Yum soup a Thai classic, known for its
             hot, sour flavors and aromatic herbs.
@@ -231,17 +290,6 @@
             <a href="blog.php" class="tf-button">read more</a>
           </div>
         </div>
-      </div>
-
-      <!-- Pagination -->
-      <div class="col-md-12">
-        <ul class="panigation wow fadeIn" data-wow-delay=".3s">
-          <li><a href="#" class="active">1</a></li>
-          <li><a href="#">2</a></li>
-          <li>
-            <a href="#"><i class="fas fa-chevron-double-right"></i></a>
-          </li>
-        </ul>
       </div>
 
     </div>

@@ -4,20 +4,79 @@
 
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:11:19 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - About Us</title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </head>
+  <!-- SEO Title -->
+  <title>About Korean Deliciouso | Authentic Pan Asian Food Brand</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Learn about Korean Deliciouso, a modern Pan Asian food brand serving authentic Korean, Chinese, Thai and Japanese cuisine. Discover our story, values, quality standards and franchise opportunities in India."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="About Korean Deliciouso, Korean food brand India, Pan Asian restaurant, Korean restaurant India, Korean Deliciouso story, food franchise India"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (update when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/about" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="About Korean Deliciouso – The Asian Way" />
+  <meta
+    property="og:description"
+    content="Know the story behind Korean Deliciouso, our commitment to quality, authentic Pan Asian flavors, and growing franchise opportunities across India."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/about" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="About Korean Deliciouso" />
+  <meta
+    name="twitter:description"
+    content="Discover the story, values and vision of Korean Deliciouso – a modern Pan Asian food brand."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+
 
 <body class="body header-fixed main">
   <!-- preloade -->
@@ -91,6 +150,39 @@
         with modern presentation to create food everyone can enjoy.
       </p>
 
+    </div>
+
+    <div class="inner-box gradient radius-20">
+      <img class="icon" src="assets/images/common/quote.png" alt="" />
+      <p class="font-1 fz-20 lh-1_75 white mb-28">
+        Korean Deliciouso is committed to authentic flavors, warm hospitality,
+        and the highest standards of food safety and freshness.
+      </p>
+      <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
+        Debabrata
+      </h6>
+      <p class="uppercase fz-13 color-7 text-spacing-0_5">
+        Founder of Korean Deliciouso
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="col-md-12">
+            <div class="h50"></div>
+          </div>
+
+<div class="col-lg-4 col-md-12 tablet-mb-30">
+            <div class="image h-full wow fadeIn" data-wow-delay=".3s">
+              <img class="radius-20 h-full w-full" src="assets/images/gallery/IMG-20251216-WA0005.jpg" alt="" />
+            </div>
+          </div>
+          <div class="col-lg-8 col-md-12 wow fadeIn" data-wow-delay=".5s">
+  <div class="about-content style1 relative radius-20 flex items-center justify-between">
+    <img class="absolute r-0 b-0" src="assets/images/backgroup/layer_1.png" alt="" />
+
+    <div class="content pr-30 mobile-mb-30 mobile-pr0">
+
       <!-- About the Brand -->
       <h3 class="color-3 title text-spacing-1 mb-25 mt--5">
         About the Brand
@@ -125,7 +217,7 @@
         and the highest standards of food safety and freshness.
       </p>
       <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
-        Debabrata
+        Chef Harry
       </h6>
       <p class="uppercase fz-13 color-7 text-spacing-0_5">
         Founder of Korean Deliciouso
@@ -553,27 +645,27 @@
                 <ul>
                   <li class="testimonial-list-item">
                     <a class="active" href="#0" data-slide-index="0">
-                      <img src="assets/images/post/test_1.jpg" alt="" />
+                      <img src="assets/images/post/avt_1.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="1">
-                      <img src="assets/images/post/test_2.jpg" alt="" />
+                      <img src="assets/images/post/avt_2.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="2">
-                      <img src="assets/images/post/test_3.jpg" alt="" />
+                      <img src="assets/images/post/avt_3.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="3">
-                      <img src="assets/images/post/test_4.jpg" alt="" />
+                      <img src="assets/images/post/avt_4.jpg" alt="" />
                     </a>
                   </li>
                   <li class="testimonial-list-item">
                     <a href="#0" data-slide-index="4">
-                      <img src="assets/images/post/test_5.jpg" alt="" />
+                      <img src="assets/images/post/avt_5.jpg" alt="" />
                     </a>
                   </li>
                   <li>

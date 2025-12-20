@@ -3,18 +3,77 @@
   
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/blog.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:12:21 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - Gallery </title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO Title -->
+  <title>Gallery | Korean Deliciouso – Korean & Pan Asian Food</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Explore the Korean Deliciouso gallery featuring authentic Korean and Pan Asian dishes, restaurant interiors, food presentations and customer moments."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="Korean Deliciouso gallery, Korean food photos, Pan Asian restaurant gallery, Korean dishes images, ramen sushi gallery"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (update when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/gallery" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Korean Deliciouso Gallery – The Asian Way" />
+  <meta
+    property="og:description"
+    content="View mouth-watering photos of Korean and Pan Asian food from Korean Deliciouso."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/gallery" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Korean Deliciouso Gallery" />
+  <meta
+    name="twitter:description"
+    content="Browse our food gallery showcasing authentic Korean & Pan Asian cuisine."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
 
 
     <style>
@@ -80,7 +139,7 @@
                   class="breadcrumb flex flex-column items-center wow fadeIn"
                   data-wow-delay=".2s"
                 >
-                  <h1 class="title center">Gallery</h1>
+                  <h1 class="title center">Gallery</h1><h3></h3>
                   <ul>
                     <li><a href="home-01.html">Home</a></li>
                     <li>
@@ -108,7 +167,7 @@
                           ></path>
                         </g>
                       </svg>
-                      <span>Gallery</span>
+                      <span>Gallery</span><h4></h4>
                     </li>
                   </ul>
                 </div>
@@ -125,9 +184,9 @@
     <div class="row mb-60">
       <div class="col-md-12 text-center">
         <h2 style="margin-bottom:12px; color:black;">Our Gallery</h2>
-        <p style="color:#777; margin-bottom:20px;">
+        <h6 style="color:#777; margin-bottom:20px;">
           A glimpse of our signature dishes & deliciouso moments
-        </p>
+        </h6>
       </div>
     </div>
 
@@ -267,8 +326,16 @@
           <img src="assets/images/gallery/IMG-20251216-WA0024.jpg" alt="Gallery Image">
         </div>
       </div>
-      
-
+      <div class="col-lg-4 col-md-6">
+        <div class="gallery-item">
+          <img src="assets/images/gallery/IMG-20251219-WA0032.jpg" alt="Gallery Image">
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="gallery-item">
+          <img src="assets/images/gallery/WhatsApp Image 2025-12-19 at 16.02.53_7ac1575b.jpg" alt="Gallery Image">
+        </div>
+      </div>
     </div>
   </div>
 </section>

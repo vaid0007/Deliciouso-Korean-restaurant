@@ -3,20 +3,79 @@
   
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:12:29 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - Contact</title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </head>
+  <!-- SEO Title -->
+  <title>Contact Us | Korean Deliciouso – Korean & Pan Asian Restaurant</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Contact Korean Deliciouso for orders, feedback, franchise enquiries and partnerships. Reach out to our team for authentic Korean and Pan Asian food experiences."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="Contact Korean Deliciouso, Korean restaurant contact, Pan Asian food contact, Korean food enquiry, restaurant contact India"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (update when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/contact" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Contact Korean Deliciouso – The Asian Way" />
+  <meta
+    property="og:description"
+    content="Get in touch with Korean Deliciouso for food orders, enquiries and franchise opportunities."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/contact" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Contact Korean Deliciouso" />
+  <meta
+    name="twitter:description"
+    content="Reach out to Korean Deliciouso for authentic Korean & Pan Asian food enquiries."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+
   <body class="body header-fixed main">
     <!-- preloade -->
     <div class="preload preload-container">
@@ -126,7 +185,7 @@
                             </p>
                           </div>
                           <div class="hover-effect w-full">
-                            <h5 class="mb-20">Address Restaurant</h5>
+                            <h5 class="mb-20">Address Restaurant</h5><h6></h6>
                             <p class="color-5">
                               12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, N.D-05
                             </p>
@@ -160,7 +219,7 @@
                                 </g>
                               </svg>
                             </div>
-                            <h5 class="mb-20">Email Address</h5>
+                            <h5 class="mb-20">Email Address</h5><h3></h3>
                             <p class="color-5">
                               Booking: koreandelicious40@gmail.com
                             </p>
@@ -182,7 +241,7 @@
                                 alt=""
                               />
                             </div>
-                            <h5 class="mb-20">Phone Number</h5>
+                            <h5 class="mb-20">Phone Number</h5><h4></h4>
                             <p class="color-5">
                               Support: 7982213237 <br />
                               order: 9632705378 <br />
@@ -305,8 +364,7 @@
             <div class="col-md-12">
               <div class="widget-gg-map flex">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576.2104879159504!2d77.18791310636936!3d28.647435869852785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03002a5cc739%3A0x3275e9f6156c674!2sShop!5e0!3m2!1sen!2sin!4v1765015154259!5m2!1sen!2sin"
-                  height="533"
+                  src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3501.449355174629!2d77.18497857550129!3d28.646261075657293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM4JzQ2LjUiTiA3N8KwMTEnMTUuMiJF!5e0!3m2!1sen!2sin!4v1766227812250!5m2!1sen!2sin"                  height="533"
                   style="border: 0; width: 100%"
                   allowfullscreen=""
                   loading="lazy"

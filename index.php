@@ -3,20 +3,79 @@
   
 <!-- Mirrored from themesflat.co/html/restaurant/fastfood/home-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:08:45 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - Korean food</title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </head>
+  <!-- SEO Title -->
+  <title>Deliciouso – Korean & Pan Asian Food Restaurant in India</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Korean Deliciouso is a modern Pan Asian food brand offering authentic Korean, Chinese, Thai and Japanese dishes including Korean Corn Dogs, Ramen, Sushi, Rice Bowls, Sizzlers and Korean Rice Cakes at affordable prices."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="Korean Deliciouso, Korean food India, Korean restaurant, Pan Asian food, Korean corn dog, ramen, sushi, rice bowls, Korean rice cakes, Thai food, Chinese food, Japanese food"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (change when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Deliciouso – Korean & Pan Asian Food" />
+  <meta
+    property="og:description"
+    content="Experience authentic Korean and Pan Asian flavors at Korean Deliciouso. Fresh ingredients, bold taste and affordable pricing."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Deliciouso – Korean & Pan Asian Food" />
+  <meta
+    name="twitter:description"
+    content="Authentic Korean, Chinese, Thai & Japanese food by Korean Deliciouso."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+
   <body class="body header-fixed main counter-scroll home1">
     <!-- preloade -->
     <div class="preload preload-container">
@@ -95,10 +154,10 @@
     ASIAN FLAVOUR SPECIAL
   </p>
 
-  <h2 class="mb-40" style="text-transform:none;">
+  <h1 class="mb-40" style="text-transform:none;">
     Up To 20% <br class="show-desktop" />
     Off Asian Dishes
-  </h2>
+  </h1>
 
   <div class="flex">
     <a href="menu-restaurant.php" class="tf-button">
@@ -144,10 +203,10 @@
     KOREAN CORN DOGS
   </p>
 
-  <h2 class="mb-40" style="text-transform:none;">
+  <h3 class="mb-40" style="text-transform:none;">
     Crispy Outside. <br class="show-desktop" />
     Cheesy Inside.
-  </h2>
+  </h3>
 
   <div class="flex">
     <a href="menu-restaurant.php" class="tf-button">
@@ -1421,27 +1480,27 @@ with fresh ingredients and bold flavors.
                   <ul>
                     <li class="testimonial-list-item">
                       <a class="active" href="#0" data-slide-index="0">
-                        <img src="assets/images/post/test_1.jpg" alt="" />
+                        <img src="assets/images/post/avt_1.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="1">
-                        <img src="assets/images/post/test_2.jpg" alt="" />
+                        <img src="assets/images/post/avt_2.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="2">
-                        <img src="assets/images/post/test_3.jpg" alt="" />
+                        <img src="assets/images/post/avt_3.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="3">
-                        <img src="assets/images/post/test_4.jpg" alt="" />
+                        <img src="assets/images/post/avt_4.jpg" alt="" />
                       </a>
                     </li>
                     <li class="testimonial-list-item">
                       <a href="#0" data-slide-index="4">
-                        <img src="assets/images/post/test_5.jpg" alt="" />
+                        <img src="assets/images/post/avt_5.jpg" alt="" />
                       </a>
                     </li>
                     <li>

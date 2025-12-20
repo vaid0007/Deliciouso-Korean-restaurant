@@ -2,20 +2,79 @@
 <html lang="en">
   <!-- Mirrored from themesflat.co/html/restaurant/fastfood/menu-restaurant.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:12:06 GMT -->
 <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deliciouso - Menu </title>
-    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="app/dist/app.css" />
-    <link rel="stylesheet" href="assets/font/font-awesome.css" />
-    <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon-16x16.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  </head>
+  <!-- SEO Title -->
+  <title>Menu | Korean Deliciouso – Korean & Pan Asian Food</title>
+
+  <!-- Meta Description -->
+  <meta
+    name="description"
+    content="Explore the Korean Deliciouso menu featuring authentic Korean, Chinese, Thai and Japanese dishes including Korean Corn Dogs, Ramen, Sushi, Rice Bowls, Sizzlers and Korean Rice Cakes."
+  />
+
+  <!-- Meta Keywords -->
+  <meta
+    name="keywords"
+    content="Korean Deliciouso menu, Korean food menu, Pan Asian menu, Korean corn dog menu, ramen menu, sushi menu, rice bowls, Korean rice cakes"
+  />
+
+  <!-- Author & Publisher -->
+  <meta name="author" content="Korean Deliciouso" />
+  <meta name="publisher" content="Korean Deliciouso" />
+
+  <!-- Robots -->
+  <meta name="robots" content="index, follow" />
+
+  <!-- Canonical URL (update when live) -->
+  <link rel="canonical" href="https://www.koreandeliciouso.com/menu" />
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Korean Deliciouso Menu – The Asian Way" />
+  <meta
+    property="og:description"
+    content="Browse the full menu of Korean Deliciouso with authentic Korean and Pan Asian dishes made with fresh ingredients."
+  />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.koreandeliciouso.com/menu" />
+  <meta
+    property="og:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Korean Deliciouso Menu" />
+  <meta
+    name="twitter:description"
+    content="Discover authentic Korean & Pan Asian dishes at Korean Deliciouso."
+  />
+  <meta
+    name="twitter:image"
+    content="assets/images/logo/favicon.png"
+  />
+
+  <!-- Existing CSS (UNCHANGED) -->
+  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="app/dist/app.css" />
+  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+
+  <!-- Favicon (UNCHANGED) -->
+  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+  />
+</head>
+
   <body class="body header-fixed main">
     <!-- preloade -->
     <div class="preload preload-container">
@@ -162,9 +221,9 @@
       />
     </div>
     <div class="content relative">
-      <p class="uppercase color-main mb8 text-spacing-1_5">
+      <h3 class="uppercase color-main mb8 text-spacing-1_5">
         Special Food
-      </p>
+      </h3>
       <h2 class="text-spacing-1 mb-24">
         Crispy Chicken Cutlet Bowl
       </h2>
@@ -191,9 +250,9 @@
       />
     </div>
     <div class="content relative">
-      <p class="uppercase color-main mb-20">
+      <h4 class="uppercase color-main mb-20">
         Special Food
-      </p>
+      </h4>
       <h2 class="text-spacing-1 mb-25">
         Korean BBQ Skewers Platter
       </h2>
@@ -221,9 +280,9 @@
       />
     </div>
     <div class="content relative">
-      <p class="uppercase color-main mb-20">
+      <h4 class="uppercase color-main mb-20">
         Special Food
-      </p>
+      </h4>
       <h2 class="text-spacing-1 mb-25">
         Korean Cheese Corn Dogs
       </h2>
