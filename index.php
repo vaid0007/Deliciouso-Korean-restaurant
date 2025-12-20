@@ -1684,7 +1684,12 @@ with fresh ingredients and bold flavors.
                     <div class="product-3">
                       <img src="assets/images/common/item_17.jpg" alt="" />
                       <div class="action">
-                        <a class="flex icon">
+                        <a 
+    class="flex icon"
+    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1720,7 +1725,12 @@ with fresh ingredients and bold flavors.
                     <div class="product-3">
                       <img src="assets/images/common/item_18.jpg" alt="" />
                       <div class="action">
-                        <a class="flex icon">
+                        <a 
+    class="flex icon"
+    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1756,7 +1766,12 @@ with fresh ingredients and bold flavors.
                     <div class="product-3">
                       <img src="assets/images/common/item_19.jpg" alt="" />
                       <div class="action">
-                        <a class="flex icon">
+                        <a 
+    class="flex icon"
+    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1792,7 +1807,12 @@ with fresh ingredients and bold flavors.
                     <div class="product-3">
                       <img src="assets/images/common/item_20.jpg" alt="" />
                       <div class="action">
-                        <a class="flex icon">
+                        <a 
+    class="flex icon"
+    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1828,7 +1848,12 @@ with fresh ingredients and bold flavors.
                     <div class="product-3">
                       <img src="assets/images/common/item_21.jpg" alt="" />
                       <div class="action">
-                        <a class="flex icon">
+                        <a 
+    class="flex icon"
+    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
