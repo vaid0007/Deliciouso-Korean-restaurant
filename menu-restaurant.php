@@ -225,7 +225,7 @@
         Special Food
       </h3>
       <h2 class="text-spacing-1 mb-24">
-        Crispy Chicken katsu Bowl
+        Crispy Chicken KATSU Bowl
       </h2>
       <p class="mb-34 white pr-55">
         Golden fried chicken katsu served over fresh shredded vegetables,
@@ -324,7 +324,7 @@
                   <li>
                     <div class="item-box-2 style2">
                       <div class="image mb-10">
-                        <img src="assets/images/common/item_24.png" alt="" />
+                        <img src="assets/images/common/item_24aaa.png" alt="" />
                       </div>
                       <h6 class="center color-3 mb-0">Fire-up Starters Non- Veg</h6>
                     </div>
@@ -332,7 +332,7 @@
                   <li>
                     <div class="item-box-2 style2">
                       <div class="image mb-10">
-                        <img src="assets/images/common/item_23.png" alt="" />
+                        <img src="assets/images/common/item_23a.png" alt="" />
                       </div>
                       <h6 class="center color-3 mb-0">Fire-up Starters Veg</h6>
                     </div>
@@ -350,7 +350,7 @@
                   <li>
                     <div class="item-box-2 style2">
                       <div class="image mb-10">
-                        <img src="assets/images/common/item_26.png" alt="" />
+                        <img src="assets/images/common/item_26a.png" alt="" />
                       </div>
                       <h6 class="center color-3 mb-0">
                         Asian Hot Plates(Sizzlers)
@@ -1552,7 +1552,7 @@
       </div>
 
       <div class="image">
-        <img src="assets/images/common/comboa1.png" alt="" />
+        <img src="assets/images/common/comboa11.png" alt="" />
       </div>
     </div>
   </div>
@@ -1577,6 +1577,36 @@
           <a href="#">Chinese Sizzlers</a>
         </h5>
 
+        <p class="desc">
+          Spicy paneer tossed in bold sauces served with fried rice or noodles.
+        </p>
+        <ul>
+          <li>Veg Fried Rice / Noodles</li>
+          <li>3 Pepper Chilli Paneer</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa12.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Kung Pao Chicken Combo</a>
+        </h5>
         <p class="desc">
           Our signature Chinese sizzler featuring soft paneer tossed in fiery sauces,
           served sizzling hot with aromatic fried rice or noodles for a complete
