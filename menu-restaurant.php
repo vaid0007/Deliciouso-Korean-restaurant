@@ -1450,7 +1450,7 @@
                 <p class="sub-title">
                   eat freely without worrying about the price
                 </p>
-                <h2 class="mb-0">Special Combo Offer</h2>
+                <h2 class="mb-0">Our Special specialities</h2>
               </div>
             </div>
             <div class="col-md-4 wow fadeIn" data-wow-delay=".3s">
@@ -1525,21 +1525,32 @@
         <img src="assets/images/backgroup/bg-box.png" alt="" />
       </div>
       <div class="overlay-2"></div>
+
       <div class="content">
+        <!-- Korean Noodles Highlight -->
+        <span class="sub-title mb-10" style="display:block; color:#d32f2f; font-weight:600;">
+          Korean Deliciouso Noodles Special
+        </span>
+
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
           <a href="#">Veg Manchurian Combo</a>
         </h5>
+
         <p class="desc">
-          Classic Indo-Chinese veg combo with perfectly balanced flavours.
+          Experience our Korean-inspired Deliciouso noodles paired with a classic Indo-Chinese
+          veg combo, cooked fresh with bold sauces and authentic wok flavours.
         </p>
+
         <ul>
-          <li>Veg Fried Rice / Noodles</li>
-          <li>Wok Tossed Veg Manchurian</li>
+          <li>Deliciouso Korean Style Veg Noodles / Fried Rice</li>
+          <li>Wok Tossed Veg Manchurian in Signature Sauce</li>
         </ul>
+
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
+
       <div class="image">
         <img src="assets/images/common/comboa1.png" alt="" />
       </div>
@@ -1547,6 +1558,7 @@
   </div>
 </div>
 
+
                   <div class="swiper-slide">
   <div class="product-item">
     <div class="inner">
@@ -1554,88 +1566,40 @@
         <img src="assets/images/backgroup/bg-box.png" alt="" />
       </div>
       <div class="overlay-2"></div>
+
       <div class="content">
+        <!-- Chinese Sizzlers Highlight -->
+        <span class="sub-title mb-10" style="display:block; color:#b71c1c; font-weight:600;">
+          Chinese Sizzlers Special
+        </span>
+
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
           <a href="#">Chilli Paneer Combo</a>
         </h5>
+
         <p class="desc">
-          Spicy paneer tossed in bold sauces served with fried rice or noodles.
+          Our signature Chinese sizzler featuring soft paneer tossed in fiery sauces,
+          served sizzling hot with aromatic fried rice or noodles for a complete
+          Indo-Chinese delight.
         </p>
+
         <ul>
-          <li>Veg Fried Rice / Noodles</li>
-          <li>3 Pepper Chilli Paneer</li>
+          <li>Sizzler Style Veg Fried Rice / Noodles</li>
+          <li>3 Pepper Chilli Paneer on Hot </br> Plate</li>
         </ul>
+
         <div class="flex">
           <a href="menu-restaurant.php" class="tf-button">Order now</a>
         </div>
       </div>
+
+      <!-- Product Image -->
       <div class="image">
-        <img src="assets/images/common/comboa2..png" alt="" />
+        <img src="assets/images/common/comboa2.png" alt="Chinese Sizzler Chilli Paneer Combo" />
       </div>
     </div>
   </div>
 </div>
-
-
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Kung Pao Chicken Combo</a>
-        </h5>
-        <p class="desc">
-          A fiery chicken combo tossed with peanuts and oriental spices.
-        </p>
-        <ul>
-          <li>Chicken Fried Rice / Noodles</li>
-          <li>Kung Pao Chicken</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa3.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
-
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Schezwan Chicken Combo</a>
-        </h5>
-        <p class="desc">
-          Hot & spicy Schezwan chicken paired with fried rice or noodles.
-        </p>
-        <ul>
-          <li>Chicken Fried Rice / Noodles</li>
-          <li>Schezwan Chicken</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa4.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
 
                 </div>
               </div>
@@ -1644,7 +1608,7 @@
         </div>
       </section>
 
-      
+
 
       <?php include 'footer.php'; ?>
     </div>
