@@ -1533,7 +1533,7 @@
         </span>
 
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Veg Manchurian Combo</a>
+          <a href="#">Korean Deliciouso Noodles</a>
         </h5>
 
         <p class="desc">
@@ -1574,7 +1574,7 @@
         </span>
 
         <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Chilli Paneer Combo</a>
+          <a href="#">Chinese Sizzlers</a>
         </h5>
 
         <p class="desc">

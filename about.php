@@ -668,11 +668,6 @@
                       <img src="assets/images/post/avt_5.jpg" alt="" />
                     </a>
                   </li>
-                  <li>
-                    <a href="#">
-                      <img src="assets/images/common/more.png" alt="" />
-                    </a>
-                  </li>
                 </ul>
               </div>
             </div>
