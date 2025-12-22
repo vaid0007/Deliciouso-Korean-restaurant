@@ -307,6 +307,184 @@
         </div>
       </section>
 
+
+            <section class="bg-6 tf-section pb-104">
+        <img
+          class="absolute r-0 t-0 wow fadeIn"
+          data-wow-delay=".3s"
+          src="assets/images/backgroup/icon-bg_2.png"
+          alt=""
+        />
+        <img
+          class="absolute l-0 b-0 wow fadeIn"
+          data-wow-delay=".3s"
+          src="assets/images/backgroup/icon-bg_3.png"
+          alt=""
+        />
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8">
+              <div
+                class="tf-title left pb-30 mb-48 wow fadeInUp"
+                data-wow-delay=".3s"
+              >
+                <p class="sub-title">
+                  eat freely without worrying about the price
+                </p>
+                <h2 class="mb-0">Our Special specialities</h2>
+              </div>
+            </div>
+            <div class="col-md-4 wow fadeIn" data-wow-delay=".3s">
+              <div
+                class="btn-slider justify-end flex items-center pt-30 mobile-pt0 mobile-justify-start"
+              >
+                <div class="ic-slider btn-next-product-1 reverse mr-10">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    version="1.1"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="512"
+                    height="512"
+                    x="0"
+                    y="0"
+                    viewBox="0 0 24 24"
+                    style="enable-background: new 0 0 512 512"
+                    xml:space="preserve"
+                  >
+                    <g>
+                      <path
+                        fill="#0c0c0c"
+                        fill-rule="evenodd"
+                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                        clip-rule="evenodd"
+                        data-original="#000000"
+                        class=""
+                        opacity="1"
+                      ></path>
+                    </g>
+                  </svg>
+                </div>
+                <div class="ic-slider btn-prev-product-1">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    version="1.1"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="512"
+                    height="512"
+                    x="0"
+                    y="0"
+                    viewBox="0 0 24 24"
+                    style="enable-background: new 0 0 512 512"
+                    xml:space="preserve"
+                  >
+                    <g>
+                      <path
+                        fill="#0c0c0c"
+                        fill-rule="evenodd"
+                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                        clip-rule="evenodd"
+                        data-original="#000000"
+                        class=""
+                        opacity="1"
+                      ></path>
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container w_1650">
+          <div class="row">
+            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
+              <div class="swiper-container sl-product-1">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+
+      <div class="content">
+        <!-- Korean Noodles Highlight -->
+        <span class="sub-title mb-10" style="display:block; color:#d32f2f; font-weight:600;">
+          Korean Deliciouso Noodles Special
+        </span>
+
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Korean Deliciouso Noodles</a>
+        </h5>
+
+        <p class="desc">
+          Experience our Korean-inspired Deliciouso noodles paired with a classic Indo-Chinese
+          veg combo, cooked fresh with bold sauces and authentic wok flavours.
+        </p>
+
+        <ul>
+          <li>Deliciouso Korean Style Veg Noodles / Fried Rice</li>
+          <li>Wok Tossed Veg Manchurian in Signature Sauce</li>
+        </ul>
+
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+
+      <div class="image">
+        <img src="assets/images/common/comboa11.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+
+      <div class="content">
+        <!-- Chinese Sizzlers Highlight -->
+        <span class="sub-title mb-10" style="display:block; color:#b71c1c; font-weight:600;">
+          Chinese Sizzlers Special
+        </span>
+
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Chinese Sizzlers</a>
+        </h5>
+
+        <p class="desc">
+          Our signature Chinese sizzler featuring soft paneer tossed in fiery sauces,
+          served sizzling hot with aromatic fried rice or noodles for a complete
+          Indo-Chinese delight.
+        </p>
+        <ul>
+           <li>Sizzler Style Veg Fried Rice / Noodles</li>
+          <li>3 Pepper Chilli Paneer on Hot</br> Plate</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa12.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section class="pb-100">
         <div class="container">
           <div class="row">
@@ -1427,216 +1605,7 @@
       </section>
 
 
-            <section class="bg-6 tf-section pb-104">
-        <img
-          class="absolute r-0 t-0 wow fadeIn"
-          data-wow-delay=".3s"
-          src="assets/images/backgroup/icon-bg_2.png"
-          alt=""
-        />
-        <img
-          class="absolute l-0 b-0 wow fadeIn"
-          data-wow-delay=".3s"
-          src="assets/images/backgroup/icon-bg_3.png"
-          alt=""
-        />
-        <div class="container">
-          <div class="row">
-            <div class="col-md-8">
-              <div
-                class="tf-title left pb-30 mb-48 wow fadeInUp"
-                data-wow-delay=".3s"
-              >
-                <p class="sub-title">
-                  eat freely without worrying about the price
-                </p>
-                <h2 class="mb-0">Our Special specialities</h2>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".3s">
-              <div
-                class="btn-slider justify-end flex items-center pt-30 mobile-pt0 mobile-justify-start"
-              >
-                <div class="ic-slider btn-next-product-1 reverse mr-10">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    version="1.1"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="512"
-                    height="512"
-                    x="0"
-                    y="0"
-                    viewBox="0 0 24 24"
-                    style="enable-background: new 0 0 512 512"
-                    xml:space="preserve"
-                  >
-                    <g>
-                      <path
-                        fill="#0c0c0c"
-                        fill-rule="evenodd"
-                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                        clip-rule="evenodd"
-                        data-original="#000000"
-                        class=""
-                        opacity="1"
-                      ></path>
-                    </g>
-                  </svg>
-                </div>
-                <div class="ic-slider btn-prev-product-1">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    version="1.1"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="512"
-                    height="512"
-                    x="0"
-                    y="0"
-                    viewBox="0 0 24 24"
-                    style="enable-background: new 0 0 512 512"
-                    xml:space="preserve"
-                  >
-                    <g>
-                      <path
-                        fill="#0c0c0c"
-                        fill-rule="evenodd"
-                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                        clip-rule="evenodd"
-                        data-original="#000000"
-                        class=""
-                        opacity="1"
-                      ></path>
-                    </g>
-                  </svg>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="container w_1650">
-          <div class="row">
-            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
-              <div class="swiper-container sl-product-1">
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
 
-      <div class="content">
-        <!-- Korean Noodles Highlight -->
-        <span class="sub-title mb-10" style="display:block; color:#d32f2f; font-weight:600;">
-          Korean Deliciouso Noodles Special
-        </span>
-
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Korean Deliciouso Noodles</a>
-        </h5>
-
-        <p class="desc">
-          Experience our Korean-inspired Deliciouso noodles paired with a classic Indo-Chinese
-          veg combo, cooked fresh with bold sauces and authentic wok flavours.
-        </p>
-
-        <ul>
-          <li>Deliciouso Korean Style Veg Noodles / Fried Rice</li>
-          <li>Wok Tossed Veg Manchurian in Signature Sauce</li>
-        </ul>
-
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-
-      <div class="image">
-        <img src="assets/images/common/comboa11.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
-
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-
-      <div class="content">
-        <!-- Chinese Sizzlers Highlight -->
-        <span class="sub-title mb-10" style="display:block; color:#b71c1c; font-weight:600;">
-          Chinese Sizzlers Special
-        </span>
-
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Chinese Sizzlers</a>
-        </h5>
-
-        <p class="desc">
-          Spicy paneer tossed in bold sauces served with fried rice or noodles.
-        </p>
-        <ul>
-          <li>Veg Fried Rice / Noodles</li>
-          <li>3 Pepper Chilli Paneer</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa12.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
-
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Kung Pao Chicken Combo</a>
-        </h5>
-        <p class="desc">
-          Our signature Chinese sizzler featuring soft paneer tossed in fiery sauces,
-          served sizzling hot with aromatic fried rice or noodles for a complete
-          Indo-Chinese delight.
-        </p>
-
-        <ul>
-          <li>Sizzler Style Veg Fried Rice / Noodles</li>
-          <li>3 Pepper Chilli Paneer on Hot </br> Plate</li>
-        </ul>
-
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-
-      <!-- Product Image -->
-      <div class="image">
-        <img src="assets/images/common/comboa2.png" alt="Chinese Sizzler Chilli Paneer Combo" />
-      </div>
-    </div>
-  </div>
-</div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
 
 
