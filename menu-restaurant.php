@@ -225,10 +225,10 @@
         Special Food
       </h3>
       <h2 class="text-spacing-1 mb-24">
-        Crispy Chicken Cutlet Bowl
+        Crispy Chicken katsu Bowl
       </h2>
       <p class="mb-34 white pr-55">
-        Golden fried chicken cutlet served over fresh shredded vegetables,
+        Golden fried chicken katsu served over fresh shredded vegetables,
         topped with sesame seeds and rich Korean-style sauce.
       </p>
       <div class="flex">
@@ -1425,6 +1425,226 @@
           </div>
         </div>
       </section>
+
+
+            <section class="bg-6 tf-section pb-104">
+        <img
+          class="absolute r-0 t-0 wow fadeIn"
+          data-wow-delay=".3s"
+          src="assets/images/backgroup/icon-bg_2.png"
+          alt=""
+        />
+        <img
+          class="absolute l-0 b-0 wow fadeIn"
+          data-wow-delay=".3s"
+          src="assets/images/backgroup/icon-bg_3.png"
+          alt=""
+        />
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8">
+              <div
+                class="tf-title left pb-30 mb-48 wow fadeInUp"
+                data-wow-delay=".3s"
+              >
+                <p class="sub-title">
+                  eat freely without worrying about the price
+                </p>
+                <h2 class="mb-0">Special Combo Offer</h2>
+              </div>
+            </div>
+            <div class="col-md-4 wow fadeIn" data-wow-delay=".3s">
+              <div
+                class="btn-slider justify-end flex items-center pt-30 mobile-pt0 mobile-justify-start"
+              >
+                <div class="ic-slider btn-next-product-1 reverse mr-10">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    version="1.1"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="512"
+                    height="512"
+                    x="0"
+                    y="0"
+                    viewBox="0 0 24 24"
+                    style="enable-background: new 0 0 512 512"
+                    xml:space="preserve"
+                  >
+                    <g>
+                      <path
+                        fill="#0c0c0c"
+                        fill-rule="evenodd"
+                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                        clip-rule="evenodd"
+                        data-original="#000000"
+                        class=""
+                        opacity="1"
+                      ></path>
+                    </g>
+                  </svg>
+                </div>
+                <div class="ic-slider btn-prev-product-1">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    version="1.1"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="512"
+                    height="512"
+                    x="0"
+                    y="0"
+                    viewBox="0 0 24 24"
+                    style="enable-background: new 0 0 512 512"
+                    xml:space="preserve"
+                  >
+                    <g>
+                      <path
+                        fill="#0c0c0c"
+                        fill-rule="evenodd"
+                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
+                        clip-rule="evenodd"
+                        data-original="#000000"
+                        class=""
+                        opacity="1"
+                      ></path>
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container w_1650">
+          <div class="row">
+            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
+              <div class="swiper-container sl-product-1">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Veg Manchurian Combo</a>
+        </h5>
+        <p class="desc">
+          Classic Indo-Chinese veg combo with perfectly balanced flavours.
+        </p>
+        <ul>
+          <li>Veg Fried Rice / Noodles</li>
+          <li>Wok Tossed Veg Manchurian</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa1.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Chilli Paneer Combo</a>
+        </h5>
+        <p class="desc">
+          Spicy paneer tossed in bold sauces served with fried rice or noodles.
+        </p>
+        <ul>
+          <li>Veg Fried Rice / Noodles</li>
+          <li>3 Pepper Chilli Paneer</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa2..png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Kung Pao Chicken Combo</a>
+        </h5>
+        <p class="desc">
+          A fiery chicken combo tossed with peanuts and oriental spices.
+        </p>
+        <ul>
+          <li>Chicken Fried Rice / Noodles</li>
+          <li>Kung Pao Chicken</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa3.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                  <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+      <div class="content">
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Schezwan Chicken Combo</a>
+        </h5>
+        <p class="desc">
+          Hot & spicy Schezwan chicken paired with fried rice or noodles.
+        </p>
+        <ul>
+          <li>Chicken Fried Rice / Noodles</li>
+          <li>Schezwan Chicken</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+      <div class="image">
+        <img src="assets/images/common/comboa4.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      
 
       <?php include 'footer.php'; ?>
     </div>
