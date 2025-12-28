@@ -130,7 +130,7 @@
                 <div class="bg-page-title-inner">
                   <img
                     class="parallax"
-                    src="assets/images/backgroup/page-title.jpg"
+                    src="assets/images/backgroup/page-titleb.jpg"
                     alt=""
                   />
                 </div>
