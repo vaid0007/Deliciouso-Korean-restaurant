@@ -472,7 +472,7 @@
       </div>
 
       <div class="image">
-        <img src="assets/images/common/comboa12.png" alt="" />
+        <img src="assets/images/common/comboa12a.png" alt="" />
       </div>
     </div>
   </div>
