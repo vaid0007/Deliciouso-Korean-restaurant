@@ -197,25 +197,15 @@
         The brand is built on <strong>consistency, quality, and affordable pricing</strong>,
         ensuring delicious food experiences for all our customers.
       </p>
-
-      <!-- Franchise Opportunity -->
-      <h3 class="color-3 title text-spacing-1 mb-25 mt--5">
-        Franchise Opportunity
-      </h3>
-      <p>
-        We invite passionate partners to join the
-        <strong>Korean Deliciouso franchise network</strong> and grow together
-        in India’s fast-growing Korean and Pan-Asian food segment.
-        Be part of a brand that values quality, scalability, and long-term success.
-      </p>
     </div>
 
     <div class="inner-box gradient radius-20">
       <img class="icon" src="assets/images/common/quote.png" alt="" />
       <p class="font-1 fz-20 lh-1_75 white mb-28">
-        Korean Deliciouso is committed to authentic flavours, warm hospitality,
-        and the highest standards of food safety and freshness.
-      </p>
+  Korean Deliciouso brings you bold Asian flavours crafted with care,
+  fresh ingredients, and a passion for quality in every dish we serve.
+</p>
+
       <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
         Chef Harry
       </h6>
@@ -229,56 +219,78 @@
           <div class="col-md-12">
             <div class="h50"></div>
           </div>
+ 
+<section class="row g-0" style="display:flex; flex-wrap:nowrap;">
 
-          <section class="banner-1">
-  <div class="container w_1920 pd0">
-    <div class="row">
-      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".2s">
-        <img class="w-full h-full mb--8" src="assets/images/gallery/direct_1.jpg" alt="" />
+  <!-- Image 1 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <img src="assets/images/gallery/direct_1.jpg"
+         alt=""
+         style="width:100%; height:100%; object-fit:cover;">
+  </div>
+
+  <!-- Content 1 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
+      <img src="assets/images/backgroup/bg-box-3.jpg"
+           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
+      <div style="position:relative; z-index:1; color:#fff;">
+        <h4 style="font-size:32px; margin-bottom:10px;">Meet The Founders</h4>
+        <p style="font-size:15px;">
+          Led by experienced chefs and operators, delivering global standards
+          with authentic Asian flavours.
+        </p>
       </div>
-
-      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".4s">
-        <div class="content-box pd-50 relative h-full tablet-center">
-          <div class="overlay absolute l-0 t-0 w-full h-full">
-            <img class="w-full h-full" src="assets/images/backgroup/bg-box-3.jpg" alt="" />
-          </div>
-          <div class="relative z-1">
-            <h4 class="fz-40 mb-10 text-spacing-1_5">Meet The Founders</h4>
-            <p class="fz-17 mb-42 white">
-              Founded by two industry veterans with years of experience as a
-              Head Chef and Operations Lead, having worked with multiple top
-              food brands across India and abroad. Their combined expertise
-              brings global standards, consistency, and authentic flavours
-              to every dish we serve.
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".6s">
-        <img class="w-full h-full mb--8" src="assets/images/gallery/direct_2.jpg" alt="" />
-      </div>
-
-      <div class="col-lg-3 col-md-6 pd0 wow fadeIn" data-wow-delay=".8s">
-        <div class="content-box pd-50 relative h-full tablet-center">
-          <div class="overlay absolute l-0 t-0 w-full h-full">
-            <img class="w-full h-full" src="assets/images/backgroup/bg-box-4.jpg" alt="" />
-          </div>
-          <div class="relative z-1">
-            <h4 class="fz-40 mb-10 text-spacing-1_5">Driven by Experience</h4>
-            <p class="fz-17 mb-42 white">
-              With hands-on leadership in kitchens and large-scale operations,
-              our founders ensure quality, hygiene, and customer satisfaction
-              at every level — blending culinary creativity with operational
-              excellence.
-            </p>
-          </div>
-        </div>
-      </div>
-
     </div>
   </div>
+
+  <!-- Image 2 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <img src="assets/images/gallery/direct_2.jpg"
+         alt=""
+         style="width:100%; height:100%; object-fit:cover;">
+  </div>
+
+  <!-- Content 2 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
+      <img src="assets/images/backgroup/bg-box-4.jpg"
+           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
+      <div style="position:relative; z-index:1; color:#fff;">
+        <h4 style="font-size:32px; margin-bottom:10px;">Driven by Experience</h4>
+        <p style="font-size:15px;">
+          Precision, hygiene, and consistency backed by years of kitchen and
+          operational leadership.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Image 3 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <img src="assets/images/gallery/direct_3.jpeg"
+         alt=""
+         style="width:100%; height:100%; object-fit:cover;">
+  </div>
+
+  <!-- Content 3 -->
+  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
+      <img src="assets/images/backgroup/bg-box-3.jpg"
+           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
+      <div style="position:relative; z-index:1; color:#fff;">
+        <h4 style="font-size:32px; margin-bottom:10px;">Passion in Every Plate</h4>
+        <p style="font-size:15px;">
+          Fresh ingredients, authentic recipes, and bold flavours in every dish.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  
+
 </section>
+
 
 
     <div class="col-md-12">

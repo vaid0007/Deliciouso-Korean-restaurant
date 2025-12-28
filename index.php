@@ -974,6 +974,123 @@ with fresh ingredients and bold flavours.
         </div>
       </section>
 
+      <section style="background:linear-gradient(135deg,#020617,#0f172a); margin-top:50px; padding:80px 0;">
+  <div class="container">
+
+    <!-- Heading -->
+    <div class="row mb-5">
+      <div class="col text-center">
+        <h2 style="color:#fff; font-size:44px; font-weight:800; letter-spacing:1px;">
+          Franchise With Korean Deliciouso
+        </h2>
+        <p style="color:#cbd5e1; max-width:820px; margin:18px auto 0; font-size:17px;">
+          Join a fast-growing Pan-Asian food brand and build a profitable business
+          with strong operational support, standardized recipes, and modern appeal.
+        </p>
+      </div>
+    </div>
+
+    <!-- Cards -->
+    <div class="row g-3">
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#166534,#14532d);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">💼 Franchise Fee</h5>
+          <h3 style="color:#bbf7d0; font-weight:800;">₹5,00,000</h3>
+          <p style="color:#e5e7eb; font-size:14px;">
+            One-time, non-refundable fee including brand usage, recipes,
+            SOPs, staff training & opening support.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#dc2626,#991b1b);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">💰 Investment</h5>
+          <h3 style="color:#fee2e2; font-weight:800;">₹12–18 Lakhs</h3>
+          <p style="color:#fee2e2; font-size:14px;">
+            Total investment depending on location, outlet size, and format.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#166534,#14532d);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">🤝 Support Provided</h5>
+          <p style="color:#e5e7eb; font-size:14px;">
+            Vendor guidance, kitchen training, SOPs, launch assistance,
+            and ongoing operational support.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#dc2626,#991b1b);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">📋 Your Role</h5>
+          <p style="color:#fee2e2; font-size:14px;">
+            Daily operations, staff management, quality control,
+            and maintaining brand standards.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#166534,#14532d);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">📜 Agreement</h5>
+          <p style="color:#e5e7eb; font-size:14px;">
+            5-year franchise agreement, renewable on mutual consent.
+          </p>
+        </div>
+      </div>
+
+      <!-- Card -->
+      <div class="col-lg-4 col-md-6">
+        <div style="background:linear-gradient(180deg,#020617,#020617);
+                    padding:30px; border-radius:18px; height:100%;
+                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
+          <h5 style="color:#fff; font-weight:700;">📊 Royalty</h5>
+          <h3 style="color:#38bdf8; font-weight:800;">6%</h3>
+          <p style="color:#cbd5e1; font-size:14px;">
+            Monthly royalty on gross sales.
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- CTA -->
+    <div class="row mt-5">
+      <div class="col text-center">
+        <a href="contact.php"
+           style="display:inline-block; padding:16px 38px;
+                  background:linear-gradient(135deg,#22c55e,#16a34a);
+                  color:#fff; font-size:18px; font-weight:700;
+                  border-radius:50px; text-decoration:none;
+                  box-shadow:0 15px 30px rgba(34,197,94,0.4);">
+          Apply for Franchise
+        </a>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
       <section class="pt-60 pb5">
         <div class="container w_1650">
           <div class="row">
