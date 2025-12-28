@@ -439,6 +439,46 @@
   </div>
 </div>
 
+              <div class="swiper-slide">
+  <div class="product-item">
+    <div class="inner">
+      <div class="overlay">
+        <img src="assets/images/backgroup/bg-box.png" alt="" />
+      </div>
+      <div class="overlay-2"></div>
+
+      <div class="content">
+        <!-- Japanese Street Food Highlight -->
+        <span class="sub-title mb-10" style="display:block; color:#6d4c41; font-weight:600;">
+          Japanese Street Food Special
+        </span>
+
+        <h5 class="title mb-20 color-3 pb-20 ic-botom">
+          <a href="#">Crispy Teriyaki Chicken Roll</a>
+        </h5>
+
+        <p class="desc">
+          A deliciously crispy chicken roll glazed with rich teriyaki sauce,
+          layered with fresh veggies and wrapped in a soft roll for a perfect
+          balance of crunch and savory flavor.
+        </p>
+        <ul>
+          <li>Crispy Chicken with Teriyaki <br/>Glaze</li>
+          <li>Fresh Veggies Wrapped in Soft </br>Roll</li>
+        </ul>
+        <div class="flex">
+          <a href="menu-restaurant.php" class="tf-button">Order now</a>
+        </div>
+      </div>
+
+      <div class="image">
+        <img src="assets/images/common/comboa12.png" alt="" />
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
                   <div class="swiper-slide">
   <div class="product-item">

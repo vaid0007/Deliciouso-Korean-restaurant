@@ -559,14 +559,15 @@ with fresh ingredients and bold flavours.
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
-    Ninja Garlic Ramen.
-  </h4>
+  Veg Soya Tofu Ramen
+</h4>
 
-  <p class="white">
-    A rich and comforting bowl of ramen infused with garlic flavours,
-    served with noodles, broth, and toppings that create a deeply
-    satisfying Japanese-style experience.
-  </p>
+<p class="white">
+  A wholesome and flavorful bowl of ramen made with tender soya tofu,
+  fresh vegetables, and slurp-worthy noodles in a savory broth for a
+  comforting Japanese-style veg experience.
+</p>
+
 </div>
 
 
@@ -1482,13 +1483,14 @@ with fresh ingredients and bold flavours.
                 </a>
                 <h6 class="title center color-3 mb-0">
                   <a href="blog-details.html">
-                    Ramen Love: A Comfort Bowl for Every Mood
-                  </a>
-                </h6>
-                <p class="desc center">
-                  From rich garlic broth to spicy toppings, explore why
-                  ramen remains one of the most loved comfort foods.
-                </p>
+  Veg Soya Tofu Ramen: A Wholesome Comfort Bowl
+</a>
+</h6>
+<p class="desc center">
+  Enjoy a nourishing bowl of ramen made with soya tofu, fresh vegetables,
+  and a savory broth that delivers comfort and flavor in every bite.
+</p>
+
                 <div class="btn-post flex justify-center">
                   <a href="blog.php" class="tf-button">read more</a>
                 </div>
