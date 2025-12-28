@@ -147,7 +147,7 @@
                   <div class="swiper-slide">
                     <div class="slide-inner">
                       <div class="image">
-                        <img src="assets/images/common/slider_1.png" alt="" />
+                        <img src="assets/images/common/slider_1aaa.png" alt="" />
                       </div>
                       <div class="content">
 
@@ -459,7 +459,7 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_2.jpg" alt="" />
-                  <img src="assets/images/common/item-02.png" alt="" class="item-1">
+                  <img src="assets/images/common/item-02aa.png" alt="" class="item-1">
                 </div>
                <div class="content">
   <h4 class="title mb-12">
@@ -506,7 +506,7 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_3.jpg" alt="" />
-                  <img src="assets/images/common/item-03.png" alt="" class="item-1">
+                  <img src="assets/images/common/item-03aa.png" alt="" class="item-1">
                 </div>
                <div class="content">
   <h4 class="title mb-12">
@@ -555,7 +555,7 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_4.jpg" alt="" />
-                  <img src="assets/images/common/item-04.png" alt="" class="item-1">
+                  <img src="assets/images/common/item-04aa.png" alt="" class="item-1">
                 </div>
                 <div class="content">
   <h4 class="title mb-12">
@@ -899,7 +899,7 @@ with fresh ingredients and bold flavours.
         </div>
       </div>
       <div class="image">
-        <img src="assets/images/common/comboa4.png" alt="" />
+        <img src="assets/images/common/comboa4aa.png" alt="" />
       </div>
     </div>
   </div>
@@ -921,18 +921,18 @@ with fresh ingredients and bold flavours.
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
                     <a
-                      href="assets/images/common/item_7.jpg"
+                      href="assets/images/common/item_7a.png"
                       class="gallery-img img flex"
                     >
-                      <img src="assets/images/common/item_7.jpg" alt="" />
+                      <img src="assets/images/common/item_7a.png" alt="" />
                     </a>
                   </div>
                   <div class="swiper-slide">
                     <a
-                      href="assets/images/common/item_8.jpg"
+                      href="assets/images/common/item_8a.png"
                       class="gallery-img img flex"
                     >
-                      <img src="assets/images/common/item_8.jpg" alt="" />
+                      <img src="assets/images/common/item_8a.png" alt="" />
                     </a>
                   </div>
                   <div class="swiper-slide">
@@ -1437,7 +1437,7 @@ with fresh ingredients and bold flavours.
             <div class="swiper-slide">
               <div class="post">
                 <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_1.jpg" alt="" />
+                  <img src="assets/images/post/post_1a.jpg" alt="" />
                   <ul class="tag flex items-center">
                     <li>
                       <i class="fas fa-calendar-alt"></i>
@@ -1469,7 +1469,7 @@ with fresh ingredients and bold flavours.
             <div class="swiper-slide">
               <div class="post">
                 <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_2.jpg" alt="" />
+                  <img src="assets/images/post/post_2a.jpg" alt="" />
                   <ul class="tag flex items-center">
                     <li>
                       <i class="fas fa-calendar-alt"></i>
@@ -1501,7 +1501,7 @@ with fresh ingredients and bold flavours.
             <div class="swiper-slide">
               <div class="post">
                 <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_3.jpg" alt="" />
+                  <img src="assets/images/post/post_3a.jpg" alt="" />
                   <ul class="tag flex items-center">
                     <li>
                       <i class="fas fa-calendar-alt"></i>
@@ -1727,7 +1727,7 @@ with fresh ingredients and bold flavours.
                   </div>
                   <div class="swiper-slide">
                     <div class="product-3">
-                      <img src="assets/images/common/item_20.jpg" alt="" />
+                      <img src="assets/images/common/item_20a.jpg" alt="" />
                       <div class="action">
                         <a 
     class="flex icon"
@@ -1768,7 +1768,7 @@ with fresh ingredients and bold flavours.
                   </div>
                   <div class="swiper-slide">
                     <div class="product-3">
-                      <img src="assets/images/common/item_21.jpg" alt="" />
+                      <img src="assets/images/common/item_21a.jpg" alt="" />
                       <div class="action">
                         <a 
                         class="flex icon"

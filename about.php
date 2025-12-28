@@ -94,7 +94,7 @@
           <div class="col-md-12">
             <div class="page-title-inner hidden">
               <div class="bg-page-title-inner">
-                <img class="parallax" src="assets/images/backgroup/page-title.jpg" alt="" />
+                <img class="parallax" src="assets/images/backgroup/page-titlea.jpg" alt="" />
               </div>
               <div class="overlay"></div>
               <div class="breadcrumb flex flex-column items-center wow fadeIn" data-wow-delay=".2s">

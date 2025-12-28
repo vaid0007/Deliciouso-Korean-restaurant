@@ -94,7 +94,7 @@
                 <div class="bg-page-title-inner">
                   <img
                     class="parallax"
-                    src="assets/images/backgroup/contact_banner.jpg"
+                    src="assets/images/backgroup/page-titled.jpg"
                     alt=""
                   />
                 </div>
