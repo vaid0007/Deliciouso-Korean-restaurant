@@ -146,9 +146,10 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
                     <div class="slide-inner">
-                      <div class="image">
-                        <img src="assets/images/common/slider_1aaa.png" alt="" />
-                      </div>
+                      <img src="assets/images/common/slider_1aaa.png"
+     alt=""
+     style="border-radius:30px;">
+
                       <div class="content">
 
                       <h1 class="mb-40" style="text-transform:none;">
