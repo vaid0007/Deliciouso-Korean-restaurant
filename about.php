@@ -818,7 +818,7 @@ Enjoy quick and reliable delivery right to your doorstep. We ensure your food
                   </div>
                   <div class="swiper-slide">
                     <div class="product-3">
-                      <img src="assets/images/common/item_20.jpg" alt="" />
+                      <img src="assets/images/common/item_20a.jpg" alt="" />
                       <div class="action">
                         <a 
     class="flex icon"
@@ -859,7 +859,7 @@ Enjoy quick and reliable delivery right to your doorstep. We ensure your food
                   </div>
                   <div class="swiper-slide">
                     <div class="product-3">
-                      <img src="assets/images/common/item_21.jpg" alt="" />
+                      <img src="assets/images/common/item_21a.jpg" alt="" />
                       <div class="action">
                         <a 
                         class="flex icon"
