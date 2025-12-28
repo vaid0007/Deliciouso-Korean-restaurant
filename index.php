@@ -39,7 +39,7 @@
   <meta property="og:title" content="Deliciouso – Korean & Pan Asian Food" />
   <meta
     property="og:description"
-    content="Experience authentic Korean and Pan Asian flavors at Korean Deliciouso. Fresh ingredients, bold taste and affordable pricing."
+    content="Experience authentic Korean and Pan Asian flavours at Korean Deliciouso. Fresh ingredients, bold taste and affordable pricing."
   />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.koreandeliciouso.com/" />
@@ -150,14 +150,15 @@
                         <img src="assets/images/common/slider_1.png" alt="" />
                       </div>
                       <div class="content">
-  <p class="mb-14 uppercase white font_600">
-    ASIAN FLAVOUR SPECIAL
-  </p>
 
-  <h1 class="mb-40" style="text-transform:none;">
-    Up To 20% <br class="show-desktop" />
-    Off Asian Dishes
+                      <h1 class="mb-40" style="text-transform:none;">
+    ASIAN FLAVOUR <br class="show-desktop" />
+     SPECIAL
   </h1>
+  <p class="mb-14 uppercase white font_600">
+     
+    Asian Dishes
+  </p>
 
   <div class="flex">
     <a href="menu-restaurant.php" class="tf-button">
@@ -175,14 +176,14 @@
                         <img src="assets/images/common/slider_2.jpg" alt="" />
                       </div>
                       <div class="content">
-  <p class="mb-14 uppercase white font_600">
-    CRISPY CHICKEN SPECIAL
-  </p>
 
-  <h2 class="mb-40" style="text-transform:none;">
-    Fresh Ingredients. <br class="show-desktop" />
-    Crispy Chicken Bowls.
-  </h2>
+                      <h1 class="mb-40" style="text-transform:none;">
+    KATSU CHICKEN <br class="show-desktop" />
+     SIZZLER
+  </h1>
+  <p class="mb-14 uppercase white font_600">
+     Fresh Ingredients Crispy Chicken Bowls.
+  </p>
 
   <div class="flex">
     <a href="menu-restaurant.php" class="tf-button">
@@ -199,14 +200,14 @@
                         <img src="assets/images/common/slider_3.jpg" alt="" />
                       </div>
                         <div class="content">
-  <p class="mb-14 uppercase white font_600">
-    KOREAN CORN DOGS
-  </p>
 
-  <h3 class="mb-40" style="text-transform:none;">
-    Crispy Outside. <br class="show-desktop" />
-    Cheesy Inside.
-  </h3>
+  <h1 class="mb-40" style="text-transform:none;">
+    KOREAN CORN <br class="show-desktop" />
+     DOGS
+  </h1>
+  <p class="mb-14 uppercase white font_600">
+     Crispy Outside Cheesy Inside.
+  </p>
 
   <div class="flex">
     <a href="menu-restaurant.php" class="tf-button">
@@ -260,7 +261,7 @@
                            </h5>
                             <p class="color-5">
                               Our Korean dishes are prepared with authentic spices and high-quality 
-                              ingredients, bringing you rich flavors and a true traditional taste.
+                              ingredients, bringing you rich flavours and taste.
                             </p>
                           </div>
 
@@ -329,16 +330,16 @@
                               </svg>
                             </div>
                             <h5 class="mb-0">
-                              <a href="about.html">Friendly Services</a>
+                              <a href="about.html">Services</a>
                             </h5>
                           </div>
                           <div class="hover-effect">
                             <h5 class="mb-20">
-  <a href="about.html">Friendly Services</a>
+  <a href="about.html">Services</a>
 </h5>
 <p class="color-5">
   Our team is dedicated to providing warm, welcoming, and customer-focused service
-  to make every experience smooth, enjoyable, and satisfying.
+  to make every experience enjoyable.
 </p>
 
                           </div>
@@ -363,16 +364,16 @@
                               </svg>
                             </div>
                             <h5 class="mb-0">
-                              <a href="about.html">Super Fast Order</a>
+                              <a href="about.html">Fast Order</a>
                             </h5>
                           </div>
                           <div class="hover-effect">
                             <h5 class="mb-20">
-  <a href="about.html">Super Fast Order</a>
+  <a href="about.html">Fast Order</a>
 </h5>
 <p class="color-5">
   Place your order in seconds with our smooth and effortless process. Quick,
-  simple, and designed to get your food to you without any delays.
+    and designed to get your food without any delays.
 </p>
 
                           </div>
@@ -401,7 +402,7 @@
                   The Deliciouso menu is diverse and extensive, with delicious choices
 for you, your family, and friends. <br class="show-desktop" />
 From Korean favorites to modern street food, every dish is crafted
-with fresh ingredients and bold flavors.
+with fresh ingredients and bold flavours.
 
                 </p>
               </div>
@@ -466,7 +467,7 @@ with fresh ingredients and bold flavors.
   </h4>
 
   <p class="white">
-    A hot and sour Thai soup known for its bold, aromatic flavors,
+    A hot and sour Thai soup known for its bold, aromatic flavours,
     prepared with lemongrass, lime juice, chili peppers, and fish sauce
     to deliver the perfect balance of spice and tang.
   </p>
@@ -562,7 +563,7 @@ with fresh ingredients and bold flavors.
   </h4>
 
   <p class="white">
-    A rich and comforting bowl of ramen infused with garlic flavors,
+    A rich and comforting bowl of ramen infused with garlic flavours,
     served with noodles, broth, and toppings that create a deeply
     satisfying Japanese-style experience.
   </p>
@@ -656,8 +657,8 @@ with fresh ingredients and bold flavors.
 
   <p class="white">
     Classic Thai stir-fried noodles cooked with tangy, sweet, and savory
-    flavors, mixed with vegetables and sauces for a well-balanced,
-    flavorful meal.
+    flavours, mixed with vegetables and sauces for a well-balanced,
+    flavourful meal.
   </p>
 </div>
 
@@ -990,7 +991,7 @@ with fresh ingredients and bold flavors.
                   alt=""
                 />
                 <div class="image wow fadeInLeft" data-wow-delay=".3s">
-                  <img src="assets/images/common/item_39.jpg" alt="" />
+                  <img src="assets/images/gallery/IMG-20251216-WA0023.jpg" alt="" />
                 </div>
                 <div class="content wow fadeIn" data-wow-delay=".5s">
                   <h2 class="mb-24 color-3 text-spacing-1">
@@ -1000,7 +1001,7 @@ with fresh ingredients and bold flavors.
 
 <p class="mb-22">
   At Korean Deliciouso, every dish carries the depth, warmth, and soul of
-  authentic Asian flavors. From sizzling chicken to handcrafted dimsum,
+  authentic Asian flavours. From sizzling chicken to handcrafted dimsum,
   each bite is crafted with freshness, passion, and tradition. We blend
   modern cooking with classic Korean techniques to give you a truly
   unforgettable dining experience.
@@ -1055,32 +1056,7 @@ with fresh ingredients and bold flavors.
                           ></path>
                         </g>
                       </svg>
-                      <span>activities for kids</span>
-                    </li>
-                    <li>
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        version="1.1"
-                        xmlns:xlink="http://www.w3.org/1999/xlink"
-                        width="512"
-                        height="512"
-                        x="0"
-                        y="0"
-                        viewBox="0 0 408.576 408.576"
-                        style="enable-background: new 0 0 512 512"
-                        xml:space="preserve"
-                      >
-                        <g>
-                          <path
-                            d="M204.288 0C91.648 0 0 91.648 0 204.288s91.648 204.288 204.288 204.288 204.288-91.648 204.288-204.288S316.928 0 204.288 0zm114.176 150.528-130.56 129.536c-7.68 7.68-19.968 8.192-28.16.512L90.624 217.6c-8.192-7.68-8.704-20.48-1.536-28.672 7.68-8.192 20.48-8.704 28.672-1.024l54.784 50.176L289.28 121.344c8.192-8.192 20.992-8.192 29.184 0s8.192 20.992 0 29.184z"
-                            fill="#bb0001"
-                            data-original="#000000"
-                            class=""
-                            opacity="1"
-                          ></path>
-                        </g>
-                      </svg>
-                      <span>100% Local ingredients</span>
+                      <span>100% imported and Local ingredients</span>
                     </li>
                     <li>
                       <svg
@@ -1107,6 +1083,30 @@ with fresh ingredients and bold flavors.
                       </svg>
                       <span>Club connect members</span>
                     </li>
+                    <li>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="512"
+    height="512"
+    x="0"
+    y="0"
+    viewBox="0 0 408.576 408.576"
+    style="enable-background: new 0 0 512 512"
+    xml:space="preserve"
+  >
+    <g>
+      <path
+        d="M204.288 0C91.648 0 0 91.648 0 204.288s91.648 204.288 204.288 204.288 204.288-91.648 204.288-204.288S316.928 0 204.288 0zm114.176 150.528-130.56 129.536c-7.68 7.68-19.968 8.192-28.16.512L90.624 217.6c-8.192-7.68-8.704-20.48-1.536-28.672 7.68-8.192 20.48-8.704 28.672-1.024l54.784 50.176L289.28 121.344c8.192-8.192 20.992-8.192 29.184 0s8.192 20.992 0 29.184z"
+        fill="#bb0001"
+        opacity="1"
+      ></path>
+    </g>
+  </svg>
+  <span>Hygienic & quality assured food</span>
+</li>
+
                   </ul>
                   <div class="wrap-button flex-wrap">
                     <a
@@ -1121,140 +1121,6 @@ with fresh ingredients and bold flavors.
                     >
                   </div>
                 </div>
-              </div>
-            </div>
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".3s">
-              <div class="icon-box style1 radius-20 gradient-3 mobile-mb30">
-                <div class="top">
-                  <div class="left">
-                    <h4>Gift Vouchers For Friends</h4>
-                  </div>
-                  <div class="icon">
-                    <img src="assets/images/common/item_12.png" alt="" />
-                  </div>
-                </div>
-                <p>
-                  Give gift vouchers to your friends and relatives to enjoy our
-                  fast food, Nunc id ullamcorper.
-                </p>
-                <a class="action" href="menu-restaurant.php"
-                  >buy gift now
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    version="1.1"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="512"
-                    height="512"
-                    x="0"
-                    y="0"
-                    viewBox="0 0 24 24"
-                    style="enable-background: new 0 0 512 512"
-                    xml:space="preserve"
-                  >
-                    <g>
-                      <path
-                        fill="#0c0c0c"
-                        fill-rule="evenodd"
-                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                        clip-rule="evenodd"
-                        data-original="#000000"
-                        class=""
-                        opacity="1"
-                      ></path>
-                    </g>
-                  </svg>
-                </a>
-              </div>
-            </div>
-
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".5s">
-              <div class="icon-box style1 radius-20 gradient-4 mobile-mb30">
-                <div class="top">
-                  <div class="left">
-                    <h4>
-                      First Order <br class="show-desktop" />
-                      First Discount
-                    </h4>
-                  </div>
-                  <div class="icon">
-                    <img src="assets/images/common/item_13.png" alt="" />
-                  </div>
-                </div>
-                <p>
-                  20% discount on first order, Nam ut augue pulvinar turpis
-                  malesuada condimentum.
-                </p>
-                <a class="action" href="menu-restaurant.php"
-                  >order now
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    version="1.1"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="512"
-                    height="512"
-                    x="0"
-                    y="0"
-                    viewBox="0 0 24 24"
-                    style="enable-background: new 0 0 512 512"
-                    xml:space="preserve"
-                  >
-                    <g>
-                      <path
-                        fill="#0c0c0c"
-                        fill-rule="evenodd"
-                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                        clip-rule="evenodd"
-                        data-original="#000000"
-                        class=""
-                        opacity="1"
-                      ></path>
-                    </g>
-                  </svg>
-                </a>
-              </div>
-            </div>
-
-            <div class="col-md-4 wow fadeIn" data-wow-delay=".7s">
-              <div class="icon-box style1 radius-20 gradient-5">
-                <div class="top">
-                  <div class="left">
-                    <h4>New Season New Food</h4>
-                  </div>
-                  <div class="icon">
-                    <img src="assets/images/common/item_14.png" alt="" />
-                  </div>
-                </div>
-                <p>
-                  Discover new items at the store this summer, Aliquam faucibus
-                  lacus et dolor iaculis!
-                </p>
-                <a class="action" href="menu-restaurant.php"
-                  >discovery new food
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    version="1.1"
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    width="512"
-                    height="512"
-                    x="0"
-                    y="0"
-                    viewBox="0 0 24 24"
-                    style="enable-background: new 0 0 512 512"
-                    xml:space="preserve"
-                  >
-                    <g>
-                      <path
-                        fill="#0c0c0c"
-                        fill-rule="evenodd"
-                        d="M12.346 7.507a.75.75 0 0 1 1.059-.072l4.588 4a.75.75 0 0 1 0 1.13l-4.588 4a.75.75 0 1 1-.986-1.13l3.08-2.685H6.5a.75.75 0 0 1 0-1.5h8.998l-3.08-2.685a.75.75 0 0 1-.072-1.058z"
-                        clip-rule="evenodd"
-                        data-original="#000000"
-                        class=""
-                        opacity="1"
-                      ></path>
-                    </g>
-                  </svg>
-                </a>
               </div>
             </div>
 
@@ -1415,7 +1281,7 @@ with fresh ingredients and bold flavors.
       <img src="assets/images/icon/quote.png" alt="" />
     </div>
     <p class="color-3 mb-28">
-      Absolutely love this place! Portions are generous and the flavors
+      Absolutely love this place! Portions are generous and the flavours
       are spot on. You can really tell they care about cleanliness and
       food safety.
     </p>
@@ -1556,7 +1422,7 @@ with fresh ingredients and bold flavors.
           <p class="sub-title">Latest from Deliciouso</p>
           <h2 class="mb-20">What’s New Today?</h2>
           <p>
-            Freshly prepared Korean and Asian dishes made with bold flavors,
+            Freshly prepared Korean and Asian dishes made with bold flavours,
             premium ingredients, and a passion for great food.
           </p>
         </div>
@@ -1652,7 +1518,7 @@ with fresh ingredients and bold flavors.
                 </h6>
                 <p class="desc center">
                   Learn what makes Tom Yum soup a Thai classic, packed
-                  with aromatic herbs, bold spice, and refreshing flavors.
+                  with aromatic herbs, bold spice, and refreshing flavours.
                 </p>
                 <div class="btn-post flex justify-center">
                   <a href="blog.php" class="tf-button">read more</a>

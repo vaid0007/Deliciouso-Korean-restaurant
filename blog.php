@@ -284,7 +284,7 @@
           </h4><h6></h6>
           <p class="desc center">
             Learn what makes Tom Yum soup a Thai classic, known for its
-            hot, sour flavors and aromatic herbs.
+            hot, sour flavours and aromatic herbs.
           </p>
           <div class="btn-post flex justify-center">
             <a href="blog.php" class="tf-button">read more</a>

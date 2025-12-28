@@ -225,12 +225,6 @@
 
       <div class="col-lg-4 col-md-6">
         <div class="gallery-item">
-          <img src="assets/images/gallery/IMG-20251216-WA0007.jpg" alt="Gallery Image">
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6">
-        <div class="gallery-item">
           <img src="assets/images/gallery/IMG-20251216-WA0008.jpg" alt="Gallery Image">
         </div>
       </div>
@@ -324,16 +318,6 @@
       <div class="col-lg-4 col-md-6">
         <div class="gallery-item">
           <img src="assets/images/gallery/IMG-20251216-WA0024.jpg" alt="Gallery Image">
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6">
-        <div class="gallery-item">
-          <img src="assets/images/gallery/IMG-20251219-WA0032.jpg" alt="Gallery Image">
-        </div>
-      </div>
-      <div class="col-lg-4 col-md-6">
-        <div class="gallery-item">
-          <img src="assets/images/gallery/WhatsApp Image 2025-12-19 at 16.02.53_7ac1575b.jpg" alt="Gallery Image">
         </div>
       </div>
     </div>

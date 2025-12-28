@@ -250,23 +250,23 @@
       />
     </div>
     <div class="content relative">
-      <h4 class="uppercase color-main mb-20">
-        Special Food
-      </h4>
-      <h2 class="text-spacing-1 mb-25">
-        Korean BBQ Skewers Platter
-      </h2>
-      <p class="mb-30 white">
-        Juicy grilled chicken skewers glazed with sweet and spicy Korean BBQ
-        sauce, served with rice, veggies, and dipping sauces.
-      </p>
-      <div class="flex">
-        <ul class="flex items-center">
-          <li class="white">350 Gr / 850 Cal</li>
+  <h4 class="uppercase color-main mb-20">
+    Special Food
+  </h4>
+  <h2 class="text-spacing-1 mb-25">
+    Korean Rice Cake (Tteokbokki)
+  </h2>
+  <p class="mb-30 white">
+    Soft chewy rice cakes cooked in spicy-sweet Korean gochujang sauce,
+    served with vegetables and savory toppings.
+  </p>
+  <div class="flex">
+    <ul class="flex items-center">
+      <li class="white">300 Gr / 780 Cal</li>
+    </ul>
+  </div>
+</div>
 
-        </ul>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -521,7 +521,7 @@
                         <img src="assets/images/common/item_25.png" alt="" />
                       </div>
                       <h6 class="center color-3 mb-0">
-                        handcrafted dumplings(momo)
+                        Handcrafted dumplings(momo)
                       </h6>
                     </div>
                   </li>

@@ -62,16 +62,7 @@
               </h5>
               <ul class="list center mb-30">
                 <li>
-                  <span>Monday – Thursday: <span>8.00am – 9.00pm</span></span>
-                </li>
-                <li>
-                  <span>Friday – Saturday : <span>9.00am – 10.00pm</span></span>
-                </li>
-                <li>
-                  <span>Sunday: <span>8.00 – 11.00pm</span></span>
-                </li>
-                <li>
-                  <span>Holiday: <span class="color-main">Closed</span></span>
+                  <span>Monday – Sunday: <span>12.00pm – 11.00pm</span></span>
                 </li>
               </ul>
             </div>

@@ -40,7 +40,7 @@
   <meta property="og:title" content="About Korean Deliciouso – The Asian Way" />
   <meta
     property="og:description"
-    content="Know the story behind Korean Deliciouso, our commitment to quality, authentic Pan Asian flavors, and growing franchise opportunities across India."
+    content="Know the story behind Korean Deliciouso, our commitment to quality, authentic Pan Asian flavours, and growing franchise opportunities across India."
   />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://www.koreandeliciouso.com/about" />
@@ -140,13 +140,13 @@
 
       <p class="mb-15">
         Korean Deliciouso began with one simple idea: to share bold, comforting
-        Asian flavors with our community. We focus on fresh ingredients,
+        Asian flavours with our community. We focus on fresh ingredients,
         time-honored techniques, and recipes inspired by authentic Asian cuisines.
       </p>
 
       <p class="mb-20">
         From sizzling dishes to handcrafted specialties, every meal is prepared
-        with care, consistency, and respect for taste. We blend authentic flavors
+        with care, consistency, and respect for taste. We blend authentic flavours
         with modern presentation to create food everyone can enjoy.
       </p>
 
@@ -155,7 +155,7 @@
     <div class="inner-box gradient radius-20">
       <img class="icon" src="assets/images/common/quote.png" alt="" />
       <p class="font-1 fz-20 lh-1_75 white mb-28">
-        Korean Deliciouso is committed to authentic flavors, warm hospitality,
+        Korean Deliciouso is committed to authentic flavours, warm hospitality,
         and the highest standards of food safety and freshness.
       </p>
       <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
@@ -213,7 +213,7 @@
     <div class="inner-box gradient radius-20">
       <img class="icon" src="assets/images/common/quote.png" alt="" />
       <p class="font-1 fz-20 lh-1_75 white mb-28">
-        Korean Deliciouso is committed to authentic flavors, warm hospitality,
+        Korean Deliciouso is committed to authentic flavours, warm hospitality,
         and the highest standards of food safety and freshness.
       </p>
       <h6 class="color-2 italic text-spacing-0_5 color-main mb-0">
@@ -248,7 +248,7 @@
               Founded by two industry veterans with years of experience as a
               Head Chef and Operations Lead, having worked with multiple top
               food brands across India and abroad. Their combined expertise
-              brings global standards, consistency, and authentic flavors
+              brings global standards, consistency, and authentic flavours
               to every dish we serve.
             </p>
           </div>
@@ -441,7 +441,7 @@
                            </h5>
                             <p class="color-5">
                               Our Korean dishes are prepared with authentic spices and high-quality 
-                              ingredients, bringing you rich flavors and a true traditional taste.
+                              ingredients, bringing you rich flavours and taste.
                             </p>
                           </div>
 
@@ -462,9 +462,8 @@
                         <div class="hover-effect">
                           <h5 class="mb-20">Fast Delivery</h5>
                           <p class="color-5">
-                            We guarantee fast, reliable delivery so your Korean dishes
-                            arrive hot and ready to enjoy.
-                          </p>
+Enjoy quick and reliable delivery right to your doorstep. We ensure your food
+  arrives fresh, hot, and on time—every single order.                          </p>
                         </div>
                       </div>
                     </div>
@@ -488,10 +487,10 @@
                               </g>
                             </svg>
                           </div>
-                          <h5 class="mb-0">Friendly Services</h5>
+                          <h5 class="mb-0"> Services</h5>
                         </div>
                         <div class="hover-effect">
-                          <h5 class="mb-20">Friendly Services</h5>
+                          <h5 class="mb-20"> Services</h5>
                           <p class="color-5">
                             Our team welcomes guests with genuine Korean hospitality —
                             friendly, attentive service that makes every visit special.
@@ -581,7 +580,7 @@
       <img src="assets/images/icon/quote.png" alt="" />
     </div>
     <p class="color-3 mb-28">
-      Absolutely love this place! Portions are generous and the flavors
+      Absolutely love this place! Portions are generous and the flavours
       are spot on. You can really tell they care about cleanliness and
       food safety.
     </p>
