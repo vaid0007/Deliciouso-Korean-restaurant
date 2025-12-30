@@ -274,18 +274,22 @@
   </div>
 
   <!-- Content 3 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
-      <img src="assets/images/backgroup/bg-box-3.jpg"
-           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
-      <div style="position:relative; z-index:1; color:#fff;">
-        <h4 style="font-size:32px; margin-bottom:10px;">Passion in Every Plate</h4>
-        <p style="font-size:15px;">
-          Fresh ingredients, authentic recipes, and bold flavours in every dish.
-        </p>
-      </div>
+<div class="col-lg-2 col-md-4 col-12" style="padding:0;">
+  <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
+    <img src="assets/images/backgroup/bg-box-3.jpg"
+         style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
+    <div style="position:relative; z-index:1; color:#fff;">
+      <h4 style="font-size:32px; margin-bottom:10px;">
+        A Journey Through Flavours
+      </h4>
+      <p style="font-size:15px;">
+        My journey with food began with curiosity and grew into a lifelong passion,
+        shaping every dish I create today.
+      </p>
     </div>
   </div>
+</div>
+
 
   
 
