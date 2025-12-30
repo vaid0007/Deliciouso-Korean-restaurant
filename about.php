@@ -220,80 +220,174 @@
             <div class="h50"></div>
           </div>
  
-<section class="row g-0" style="display:flex; flex-wrap:nowrap;">
+
+          <section
+  class="row g-0"
+  style="
+    display:flex;
+    flex-wrap:wrap;
+    margin:0;
+  "
+>
 
   <!-- Image 1 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <img src="assets/images/gallery/direct_1.jpg"
-         alt=""
-         style="width:100%; height:100%; object-fit:cover;">
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="padding:0; min-height:260px;"
+  >
+    <img
+      src="assets/images/gallery/direct_1.jpg"
+      alt=""
+      style="width:100%; height:100%; object-fit:cover;"
+    />
   </div>
 
   <!-- Content 1 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
-      <img src="assets/images/backgroup/bg-box-3.jpg"
-           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
-      <div style="position:relative; z-index:1; color:#fff;">
-        <h4 style="font-size:32px; margin-bottom:10px;">Meet The Founders</h4>
-        <p style="font-size:15px;">
-          Led by experienced chefs and operators, delivering global standards
-          with authentic Asian flavours.
-        </p>
-      </div>
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="
+      padding:0;
+      min-height:260px;
+      position:relative;
+      display:flex;
+      align-items:center;
+    "
+  >
+    <img
+      src="assets/images/backgroup/bg-box-3.jpg"
+      style="
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        z-index:0;
+      "
+    />
+    <div
+      style="
+        position:relative;
+        z-index:1;
+        padding:40px;
+        color:#fff;
+      "
+    >
+      <h4 style="font-size:28px; margin-bottom:10px;">
+        Meet The Founders
+      </h4>
+      <p style="font-size:15px; margin:0;">
+        Led by experienced chefs and operators, delivering global standards
+        with authentic Asian flavours.
+      </p>
     </div>
   </div>
 
   <!-- Image 2 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <img src="assets/images/gallery/direct_2.jpg"
-         alt=""
-         style="width:100%; height:100%; object-fit:cover;">
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="padding:0; min-height:260px;"
+  >
+    <img
+      src="assets/images/gallery/direct_2.jpg"
+      alt=""
+      style="width:100%; height:100%; object-fit:cover;"
+    />
   </div>
 
   <!-- Content 2 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
-      <img src="assets/images/backgroup/bg-box-4.jpg"
-           style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
-      <div style="position:relative; z-index:1; color:#fff;">
-        <h4 style="font-size:32px; margin-bottom:10px;">Driven by Experience</h4>
-        <p style="font-size:15px;">
-          Precision, hygiene, and consistency backed by years of kitchen and
-          operational leadership.
-        </p>
-      </div>
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="
+      padding:0;
+      min-height:260px;
+      position:relative;
+      display:flex;
+      align-items:center;
+    "
+  >
+    <img
+      src="assets/images/backgroup/bg-box-4.jpg"
+      style="
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        z-index:0;
+      "
+    />
+    <div
+      style="
+        position:relative;
+        z-index:1;
+        padding:40px;
+        color:#fff;
+      "
+    >
+      <h4 style="font-size:28px; margin-bottom:10px;">
+        Driven by Experience
+      </h4>
+      <p style="font-size:15px; margin:0;">
+        Precision, hygiene, and consistency backed by years of kitchen and
+        operational leadership.
+      </p>
     </div>
   </div>
 
   <!-- Image 3 -->
-  <div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-    <img src="assets/images/gallery/direct_3.jpeg"
-         alt=""
-         style="width:100%; height:100%; object-fit:cover;">
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="padding:0; min-height:260px;"
+  >
+    <img
+      src="assets/images/gallery/direct_3.jpeg"
+      alt=""
+      style="width:100%; height:100%; object-fit:cover;"
+    />
   </div>
 
   <!-- Content 3 -->
-<div class="col-lg-2 col-md-4 col-12" style="padding:0;">
-  <div style="position:relative; height:100%; padding:40px; display:flex; align-items:center;">
-    <img src="assets/images/backgroup/bg-box-3.jpg"
-         style="position:absolute; inset:0; width:100%; height:100%; object-fit:cover; z-index:0;">
-    <div style="position:relative; z-index:1; color:#fff;">
-      <h4 style="font-size:32px; margin-bottom:10px;">
+  <div
+    class="col-lg-2 col-md-6 col-12"
+    style="
+      padding:0;
+      min-height:260px;
+      position:relative;
+      display:flex;
+      align-items:center;
+    "
+  >
+    <img
+      src="assets/images/backgroup/bg-box-3.jpg"
+      style="
+        position:absolute;
+        inset:0;
+        width:100%;
+        height:100%;
+        object-fit:cover;
+        z-index:0;
+      "
+    />
+    <div
+      style="
+        position:relative;
+        z-index:1;
+        padding:40px;
+        color:#fff;
+      "
+    >
+      <h4 style="font-size:28px; margin-bottom:10px;">
         A Journey Through Flavours
       </h4>
-      <p style="font-size:15px;">
+      <p style="font-size:15px; margin:0;">
         My journey with food began with curiosity and grew into a lifelong passion,
         shaping every dish I create today.
       </p>
     </div>
   </div>
-</div>
-
-
-  
 
 </section>
+
 
 
 

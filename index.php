@@ -1,80 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
-  
-<!-- Mirrored from themesflat.co/html/restaurant/fastfood/home-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:08:45 GMT -->
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Mirrored from themesflat.co/html/restaurant/fastfood/home-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:08:45 GMT -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- SEO Title -->
-  <title>Deliciouso – Korean & Pan Asian Food Restaurant in India</title>
+    <!-- SEO Title -->
+    <title>Deliciouso – Korean & Pan Asian Food Restaurant in India</title>
 
-  <!-- Meta Description -->
-  <meta
-    name="description"
-    content="Korean Deliciouso is a modern Pan Asian food brand offering authentic Korean, Chinese, Thai and Japanese dishes including Korean Corn Dogs, Ramen, Sushi, Rice Bowls, Sizzlers and Korean Rice Cakes at affordable prices."
-  />
+    <!-- Meta Description -->
+    <meta
+      name="description"
+      content="Korean Deliciouso is a modern Pan Asian food brand offering authentic Korean, Chinese, Thai and Japanese dishes including Korean Corn Dogs, Ramen, Sushi, Rice Bowls, Sizzlers and Korean Rice Cakes at affordable prices."
+    />
 
-  <!-- Meta Keywords -->
-  <meta
-    name="keywords"
-    content="Korean Deliciouso, Korean food India, Korean restaurant, Pan Asian food, Korean corn dog, ramen, sushi, rice bowls, Korean rice cakes, Thai food, Chinese food, Japanese food"
-  />
+    <!-- Meta Keywords -->
+    <meta
+      name="keywords"
+      content="Korean Deliciouso, Korean food India, Korean restaurant, Pan Asian food, Korean corn dog, ramen, sushi, rice bowls, Korean rice cakes, Thai food, Chinese food, Japanese food"
+    />
 
-  <!-- Author & Publisher -->
-  <meta name="author" content="Korean Deliciouso" />
-  <meta name="publisher" content="Korean Deliciouso" />
+    <!-- Author & Publisher -->
+    <meta name="author" content="Korean Deliciouso" />
+    <meta name="publisher" content="Korean Deliciouso" />
 
-  <!-- Robots -->
-  <meta name="robots" content="index, follow" />
+    <!-- Robots -->
+    <meta name="robots" content="index, follow" />
 
-  <!-- Canonical URL (change when live) -->
-  <link rel="canonical" href="https://www.koreandeliciouso.com/" />
+    <!-- Canonical URL (change when live) -->
+    <link rel="canonical" href="https://www.koreandeliciouso.com/" />
 
-  <!-- Language -->
-  <meta http-equiv="content-language" content="en" />
+    <!-- Language -->
+    <meta http-equiv="content-language" content="en" />
 
-  <!-- Open Graph -->
-  <meta property="og:title" content="Deliciouso – Korean & Pan Asian Food" />
-  <meta
-    property="og:description"
-    content="Experience authentic Korean and Pan Asian flavours at Korean Deliciouso. Fresh ingredients, bold taste and affordable pricing."
-  />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://www.koreandeliciouso.com/" />
-  <meta
-    property="og:image"
-    content="assets/images/logo/favicon.png"
-  />
+    <!-- Open Graph -->
+    <meta property="og:title" content="Deliciouso – Korean & Pan Asian Food" />
+    <meta
+      property="og:description"
+      content="Experience authentic Korean and Pan Asian flavours at Korean Deliciouso. Fresh ingredients, bold taste and affordable pricing."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.koreandeliciouso.com/" />
+    <meta property="og:image" content="assets/images/logo/favicon.png" />
 
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Deliciouso – Korean & Pan Asian Food" />
-  <meta
-    name="twitter:description"
-    content="Authentic Korean, Chinese, Thai & Japanese food by Korean Deliciouso."
-  />
-  <meta
-    name="twitter:image"
-    content="assets/images/logo/favicon.png"
-  />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Deliciouso – Korean & Pan Asian Food" />
+    <meta
+      name="twitter:description"
+      content="Authentic Korean, Chinese, Thai & Japanese food by Korean Deliciouso."
+    />
+    <meta name="twitter:image" content="assets/images/logo/favicon.png" />
 
-  <!-- Existing CSS (UNCHANGED) -->
-  <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
-  <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
-  <link rel="stylesheet" href="app/dist/app.css" />
-  <link rel="stylesheet" href="assets/font/font-awesome.css" />
+    <!-- Existing CSS (UNCHANGED) -->
+    <link rel="stylesheet" href="app/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="app/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="app/dist/app.css" />
+    <link rel="stylesheet" href="assets/font/font-awesome.css" />
 
-  <!-- Favicon (UNCHANGED) -->
-  <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
-  <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png" />
+    <!-- Favicon (UNCHANGED) -->
+    <link rel="shortcut icon" href="assets/images/logo/favicon.png" />
+    <link
+      rel="apple-touch-icon-precomposed"
+      href="assets/images/logo/favicon.png"
+    />
 
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-  />
-</head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
+  </head>
 
   <body class="body header-fixed main counter-scroll home1">
     <!-- preloade -->
@@ -83,9 +79,8 @@
     </div>
     <!-- preload -->
     <div id="wrapper">
- 
       <?php include 'header.php'; ?>
-      
+
       <section class="slider-page relative wow fadeIn" data-wow-delay=".3s">
         <div class="btn-prev-product reverse swiper-btn">
           <svg
@@ -146,76 +141,73 @@
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
                     <div class="slide-inner">
-                      <img src="assets/images/common/slider_1aaa.png"
-     alt=""
-     style="border-radius:30px;">
-                      <div class="content">
-
-                      <h1 class="mb-40" style="text-transform:none;">
-    ASIAN FLAVOUR <br class="show-desktop" />
-     SPECIAL
-  </h1>
-  <p class="mb-14 uppercase white font_600">
-     
-    Asian Dishes
-  </p>
-
-  <div class="flex">
-    <a href="menu-restaurant.php" class="tf-button">
-      VIEW DETAIL
-    </a>
-  </div>
-</div>
-
-
-                    </div>
-                  </div>
-                  <div class="swiper-slide">
-                    <div class="slide-inner">
                       <div class="image">
                         <img src="assets/images/common/slider_2.jpg" alt="" />
                       </div>
                       <div class="content">
+                        <h1 class="mb-40" style="text-transform: none">
+                          KATSU CHICKEN <br class="show-desktop" />
+                          SIZZLER
+                        </h1>
+                        <p class="mb-14 uppercase white font_600">
+                          Fresh Ingredients Crispy Chicken Bowls.
+                        </p>
 
-                      <h1 class="mb-40" style="text-transform:none;">
-    KATSU CHICKEN <br class="show-desktop" />
-     SIZZLER
-  </h1>
-  <p class="mb-14 uppercase white font_600">
-     Fresh Ingredients Crispy Chicken Bowls.
-  </p>
-
-  <div class="flex">
-    <a href="menu-restaurant.php" class="tf-button">
-      VIEW DETAIL
-    </a>
-  </div>
-</div>
-
+                        <div class="flex">
+                          <a href="menu-restaurant.php" class="tf-button">
+                            VIEW DETAIL
+                          </a>
+                        </div>
+                      </div>
                     </div>
-                  </div>
+                  </div>                
                   <div class="swiper-slide">
                     <div class="slide-inner">
                       <div class="image">
                         <img src="assets/images/common/slider_3.jpg" alt="" />
                       </div>
-                        <div class="content">
+                      <div class="content">
+                        <h1 class="mb-40" style="text-transform: none">
+                          KOREAN CORN <br class="show-desktop" />
+                          DOGS
+                        </h1>
+                        <p class="mb-14 uppercase white font_600">
+                          Crispy Outside Cheesy Inside.
+                        </p>
 
-  <h1 class="mb-40" style="text-transform:none;">
-    KOREAN CORN <br class="show-desktop" />
-     DOGS
-  </h1>
-  <p class="mb-14 uppercase white font_600">
-     Crispy Outside Cheesy Inside.
-  </p>
-
-  <div class="flex">
-    <a href="menu-restaurant.php" class="tf-button">
-      VIEW DETAIL
-    </a>
-  </div>
+                        <div class="flex">
+                          <a href="menu-restaurant.php" class="tf-button">
+                            VIEW DETAIL
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="swiper-slide">
+                    <div class="slide-inner">
+                      <div class="image">
+  <img
+    src="assets/images/common/slider_1aaa.png"
+    alt=""
+    style="border-radius:30px;"
+  />
 </div>
 
+                      <div class="content">
+                        <h1 class="mb-40" style="text-transform: none">
+                          ASIAN FLAVOUR <br class="show-desktop" />
+                          SPECIAL
+                        </h1>
+                        <p class="mb-14 uppercase white font_600">
+                          Asian Dishes
+                        </p>
+
+                        <div class="flex">
+                          <a href="menu-restaurant.php" class="tf-button">
+                            VIEW DETAIL
+                          </a>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -249,22 +241,22 @@
                         <div class="box">
                           <div class="inner">
                             <div class="icon mb-28">
-                           <img src="assets/images/icon/ic.png" alt="">
+                              <img src="assets/images/icon/ic.png" alt="" />
                             </div>
                             <h5 class="mb-0">
                               <a href="about.html">Quality Product</a>
                             </h5>
                           </div>
                           <div class="hover-effect">
-                           <h5 class="mb-20">
-                             <a href="about.html">Quality Product</a>
-                           </h5>
+                            <h5 class="mb-20">
+                              <a href="about.html">Quality Product</a>
+                            </h5>
                             <p class="color-5">
-                              Our Korean dishes are prepared with authentic spices and high-quality 
-                              ingredients, bringing you rich flavours and taste.
+                              Our Korean dishes are prepared with authentic
+                              spices and high-quality ingredients, bringing you
+                              rich flavours and taste.
                             </p>
                           </div>
-
                         </div>
                       </div>
                       <div class="swiper-slide">
@@ -289,13 +281,13 @@
                           </div>
                           <div class="hover-effect">
                             <h5 class="mb-20">
-  <a href="about.html">Fast Delivery</a>
-</h5>
-<p class="color-5">
-  Enjoy quick and reliable delivery right to your doorstep. We ensure your food
-  arrives fresh, hot, and on time—every single order.
-</p>
-
+                              <a href="about.html">Fast Delivery</a>
+                            </h5>
+                            <p class="color-5">
+                              Enjoy quick and reliable delivery right to your
+                              doorstep. We ensure your food arrives fresh, hot,
+                              and on time—every single order.
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -335,13 +327,13 @@
                           </div>
                           <div class="hover-effect">
                             <h5 class="mb-20">
-  <a href="about.html">Services</a>
-</h5>
-<p class="color-5">
-  Our team is dedicated to providing warm, welcoming, and customer-focused service
-  to make every experience enjoyable.
-</p>
-
+                              <a href="about.html">Services</a>
+                            </h5>
+                            <p class="color-5">
+                              Our team is dedicated to providing warm,
+                              welcoming, and customer-focused service to make
+                              every experience enjoyable.
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -369,13 +361,13 @@
                           </div>
                           <div class="hover-effect">
                             <h5 class="mb-20">
-  <a href="about.html">Fast Order</a>
-</h5>
-<p class="color-5">
-  Place your order in seconds with our smooth and effortless process. Quick,
-    and designed to get your food without any delays.
-</p>
-
+                              <a href="about.html">Fast Order</a>
+                            </h5>
+                            <p class="color-5">
+                              Place your order in seconds with our smooth and
+                              effortless process. Quick, and designed to get
+                              your food without any delays.
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -399,11 +391,11 @@
                 <p class="sub-title">discovery menu</p>
                 <h2 class="mb-16">What Eats Today?</h2>
                 <p class="fz-17">
-                  The Deliciouso menu is diverse and extensive, with delicious choices
-for you, your family, and friends. <br class="show-desktop" />
-From Korean favorites to modern street food, every dish is crafted
-with fresh ingredients and bold flavours.
-
+                  The Deliciouso menu is diverse and extensive, with delicious
+                  choices for you, your family, and friends.
+                  <br class="show-desktop" />
+                  From Korean favorites to modern street food, every dish is
+                  crafted with fresh ingredients and bold flavours.
                 </p>
               </div>
             </div>
@@ -411,21 +403,22 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_1.jpg" alt="" />
-                  <img src="assets/images/common/item-01.png" alt="" class="item-1">
+                  <img
+                    src="assets/images/common/item-01.png"
+                    alt=""
+                    class="item-1"
+                  />
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">
-  Toro Fries.
-</h4>
+                  <h4 class="title mb-12">Toro Fries.</h4>
 
-<p class="white">
-  Crispy and golden torpedo-shaped fries seasoned to perfection, served hot
-  and crunchy. A bold and satisfying snack or side dish, perfect with dips,
-  burgers, or as a standalone treat.
-</p>
-
-</div>
-
+                  <p class="white">
+                    Crispy and golden torpedo-shaped fries seasoned to
+                    perfection, served hot and crunchy. A bold and satisfying
+                    snack or side dish, perfect with dips, burgers, or as a
+                    standalone treat.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -459,20 +452,22 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_2.jpg" alt="" />
-                  <img src="assets/images/common/item-02aa.png" alt="" class="item-1">
+                  <img
+                    src="assets/images/common/item-02aa.png"
+                    alt=""
+                    class="item-1"
+                  />
                 </div>
-               <div class="content">
-  <h4 class="title mb-12">
-    Tom Yum Soup.
-  </h4>
+                <div class="content">
+                  <h4 class="title mb-12">Tom Yum Soup.</h4>
 
-  <p class="white">
-    A hot and sour Thai soup known for its bold, aromatic flavours,
-    prepared with lemongrass, lime juice, chili peppers, and fish sauce
-    to deliver the perfect balance of spice and tang.
-  </p>
-</div>
-
+                  <p class="white">
+                    A hot and sour Thai soup known for its bold, aromatic
+                    flavours, prepared with lemongrass, lime juice, chili
+                    peppers, and fish sauce to deliver the perfect balance of
+                    spice and tang.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -506,21 +501,21 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_3.jpg" alt="" />
-                  <img src="assets/images/common/item-03aa.png" alt="" class="item-1">
+                  <img
+                    src="assets/images/common/item-03aa.png"
+                    alt=""
+                    class="item-1"
+                  />
                 </div>
-               <div class="content">
-  <h4 class="title mb-12">
-    Korean Chicken Wings.
-  </h4>
+                <div class="content">
+                  <h4 class="title mb-12">Korean Chicken Wings.</h4>
 
-  <p class="white">
-    Crispy and juicy chicken wings tossed in a sweet and spicy Korean
-    glaze, delivering a bold flavor with the perfect balance of heat
-    and crunch.
-  </p>
-</div>
-
-
+                  <p class="white">
+                    Crispy and juicy chicken wings tossed in a sweet and spicy
+                    Korean glaze, delivering a bold flavor with the perfect
+                    balance of heat and crunch.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -555,21 +550,21 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_4.jpg" alt="" />
-                  <img src="assets/images/common/item-04aa.png" alt="" class="item-1">
+                  <img
+                    src="assets/images/common/item-04aa.png"
+                    alt=""
+                    class="item-1"
+                  />
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">
-  Veg Soya Tofu Ramen
-</h4>
+                  <h4 class="title mb-12">Veg Soya Tofu Ramen</h4>
 
-<p class="white">
-  A wholesome and flavorful bowl of ramen made with tender soya tofu,
-  fresh vegetables, and slurp-worthy noodles in a savory broth for a
-  comforting Japanese-style veg experience.
-</p>
-
-</div>
-
+                  <p class="white">
+                    A wholesome and flavorful bowl of ramen made with tender
+                    soya tofu, fresh vegetables, and slurp-worthy noodles in a
+                    savory broth for a comforting Japanese-style veg experience.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -603,19 +598,21 @@ with fresh ingredients and bold flavours.
               <div class="item-box">
                 <div class="image">
                   <img src="assets/images/common/item_5.jpg" alt="" />
-                  <img src="assets/images/common/slider_31.png" alt="" class="item-1">
+                  <img
+                    src="assets/images/common/slider_31.png"
+                    alt=""
+                    class="item-1"
+                  />
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">
-    Crispy Cheese Corn Dog.
-  </h4>
+                  <h4 class="title mb-12">Crispy Cheese Corn Dog.</h4>
 
-  <p class="white">
-    A popular Korean street food made with a crunchy coating and gooey
-    melted cheese inside, perfectly fried for a crispy and cheesy bite.
-  </p>
-</div>
-
+                  <p class="white">
+                    A popular Korean street food made with a crunchy coating and
+                    gooey melted cheese inside, perfectly fried for a crispy and
+                    cheesy bite.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -649,20 +646,21 @@ with fresh ingredients and bold flavours.
               <div class="item-box mobile-mb-0">
                 <div class="image">
                   <img src="assets/images/common/item_6.jpg" alt="" />
-                  <img src="assets/images/common/item-06.png" alt="" class="item-1 t1">
+                  <img
+                    src="assets/images/common/item-06.png"
+                    alt=""
+                    class="item-1 t1"
+                  />
                 </div>
                 <div class="content">
-  <h4 class="title mb-12">
-    Pad Thai Noodles.
-  </h4>
+                  <h4 class="title mb-12">Pad Thai Noodles.</h4>
 
-  <p class="white">
-    Classic Thai stir-fried noodles cooked with tangy, sweet, and savory
-    flavours, mixed with vegetables and sauces for a well-balanced,
-    flavourful meal.
-  </p>
-</div>
-
+                  <p class="white">
+                    Classic Thai stir-fried noodles cooked with tangy, sweet,
+                    and savory flavours, mixed with vegetables and sauces for a
+                    well-balanced, flavourful meal.
+                  </p>
+                </div>
 
                 <a class="link" href="menu-restaurant.php">
                   <svg
@@ -788,124 +786,147 @@ with fresh ingredients and bold flavours.
               <div class="swiper-container sl-product-1">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Veg Manchurian Combo</a>
-        </h5>
-        <p class="desc">
-          Classic Indo-Chinese veg combo with perfectly balanced flavours.
-        </p>
-        <ul>
-          <li>Veg Fried Rice / Noodles</li>
-          <li>Wok Tossed Veg Manchurian</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa1.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
+                    <div class="product-item">
+                      <div class="inner">
+                        <div class="overlay">
+                          <img
+                            src="assets/images/backgroup/bg-box.png"
+                            alt=""
+                          />
+                        </div>
+                        <div class="overlay-2"></div>
+                        <div class="content">
+                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
+                            <a href="#">Veg Manchurian Combo</a>
+                          </h5>
+                          <p class="desc">
+                            Classic Indo-Chinese veg combo with perfectly
+                            balanced flavours.
+                          </p>
+                          <ul>
+                            <li>Veg Fried Rice / Noodles</li>
+                            <li>Wok Tossed Veg Manchurian</li>
+                          </ul>
+                          <div class="flex">
+                            <a href="menu-restaurant.php" class="tf-button"
+                              >Order now</a
+                            >
+                          </div>
+                        </div>
+                        <div class="image">
+                          <img src="assets/images/common/comboa1.png" alt="" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
                   <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Chilli Paneer Combo</a>
-        </h5>
-        <p class="desc">
-          Spicy paneer tossed in bold sauces served with fried rice or noodles.
-        </p>
-        <ul>
-          <li>Veg Fried Rice / Noodles</li>
-          <li>3 Pepper Chilli Paneer</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa2..png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
-
-                  <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Kung Pao Chicken Combo</a>
-        </h5>
-        <p class="desc">
-          A fiery chicken combo tossed with peanuts and oriental spices.
-        </p>
-        <ul>
-          <li>Chicken Fried Rice / Noodles</li>
-          <li>Kung Pao Chicken</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa3.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
-
+                    <div class="product-item">
+                      <div class="inner">
+                        <div class="overlay">
+                          <img
+                            src="assets/images/backgroup/bg-box.png"
+                            alt=""
+                          />
+                        </div>
+                        <div class="overlay-2"></div>
+                        <div class="content">
+                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
+                            <a href="#">Chilli Paneer Combo</a>
+                          </h5>
+                          <p class="desc">
+                            Spicy paneer tossed in bold sauces served with fried
+                            rice or noodles.
+                          </p>
+                          <ul>
+                            <li>Veg Fried Rice / Noodles</li>
+                            <li>3 Pepper Chilli Paneer</li>
+                          </ul>
+                          <div class="flex">
+                            <a href="menu-restaurant.php" class="tf-button"
+                              >Order now</a
+                            >
+                          </div>
+                        </div>
+                        <div class="image">
+                          <img src="assets/images/common/comboa2..png" alt="" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
                   <div class="swiper-slide">
-  <div class="product-item">
-    <div class="inner">
-      <div class="overlay">
-        <img src="assets/images/backgroup/bg-box.png" alt="" />
-      </div>
-      <div class="overlay-2"></div>
-      <div class="content">
-        <h5 class="title mb-20 color-3 pb-20 ic-botom">
-          <a href="#">Schezwan Chicken Combo</a>
-        </h5>
-        <p class="desc">
-          Hot & spicy Schezwan chicken paired with fried rice or noodles.
-        </p>
-        <ul>
-          <li>Chicken Fried Rice / Noodles</li>
-          <li>Schezwan Chicken</li>
-        </ul>
-        <div class="flex">
-          <a href="menu-restaurant.php" class="tf-button">Order now</a>
-        </div>
-      </div>
-      <div class="image">
-        <img src="assets/images/common/comboa4aa.png" alt="" />
-      </div>
-    </div>
-  </div>
-</div>
+                    <div class="product-item">
+                      <div class="inner">
+                        <div class="overlay">
+                          <img
+                            src="assets/images/backgroup/bg-box.png"
+                            alt=""
+                          />
+                        </div>
+                        <div class="overlay-2"></div>
+                        <div class="content">
+                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
+                            <a href="#">Kung Pao Chicken Combo</a>
+                          </h5>
+                          <p class="desc">
+                            A fiery chicken combo tossed with peanuts and
+                            oriental spices.
+                          </p>
+                          <ul>
+                            <li>Chicken Fried Rice / Noodles</li>
+                            <li>Kung Pao Chicken</li>
+                          </ul>
+                          <div class="flex">
+                            <a href="menu-restaurant.php" class="tf-button"
+                              >Order now</a
+                            >
+                          </div>
+                        </div>
+                        <div class="image">
+                          <img src="assets/images/common/comboa3.png" alt="" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
-
+                  <div class="swiper-slide">
+                    <div class="product-item">
+                      <div class="inner">
+                        <div class="overlay">
+                          <img
+                            src="assets/images/backgroup/bg-box.png"
+                            alt=""
+                          />
+                        </div>
+                        <div class="overlay-2"></div>
+                        <div class="content">
+                          <h5 class="title mb-20 color-3 pb-20 ic-botom">
+                            <a href="#">Schezwan Chicken Combo</a>
+                          </h5>
+                          <p class="desc">
+                            Hot & spicy Schezwan chicken paired with fried rice
+                            or noodles.
+                          </p>
+                          <ul>
+                            <li>Chicken Fried Rice / Noodles</li>
+                            <li>Schezwan Chicken</li>
+                          </ul>
+                          <div class="flex">
+                            <a href="menu-restaurant.php" class="tf-button"
+                              >Order now</a
+                            >
+                          </div>
+                        </div>
+                        <div class="image">
+                          <img
+                            src="assets/images/common/comboa4aa.png"
+                            alt=""
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -974,122 +995,185 @@ with fresh ingredients and bold flavours.
         </div>
       </section>
 
-      <section style="background:linear-gradient(135deg,#020617,#0f172a); margin-top:50px; padding:80px 0;">
-  <div class="container">
+      <section
+        style="
+          background: linear-gradient(135deg, #020617, #0f172a);
+          margin-top: 50px;
+          padding: 80px 0;
+        "
+      >
+        <div class="container">
+          <!-- Heading -->
+          <div class="row mb-5">
+            <div class="col text-center">
+              <h2
+                style="
+                  color: #fff;
+                  font-size: 44px;
+                  font-weight: 800;
+                  letter-spacing: 1px;
+                "
+              >
+                Franchise With Korean Deliciouso
+              </h2>
+              <p
+                style="
+                  color: #cbd5e1;
+                  max-width: 820px;
+                  margin: 18px auto 0;
+                  font-size: 17px;
+                "
+              >
+                Join a fast-growing Pan-Asian food brand and build a profitable
+                business with strong operational support, standardized recipes,
+                and modern appeal.
+              </p>
+            </div>
+          </div>
 
-    <!-- Heading -->
-    <div class="row mb-5">
-      <div class="col text-center">
-        <h2 style="color:#fff; font-size:44px; font-weight:800; letter-spacing:1px;">
-          Franchise With Korean Deliciouso
-        </h2>
-        <p style="color:#cbd5e1; max-width:820px; margin:18px auto 0; font-size:17px;">
-          Join a fast-growing Pan-Asian food brand and build a profitable business
-          with strong operational support, standardized recipes, and modern appeal.
-        </p>
-      </div>
-    </div>
+          <!-- Cards -->
+          <div class="row g-3">
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #166534, #14532d);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">💼 Franchise Fee</h5>
+                <h3 style="color: #bbf7d0; font-weight: 800">₹5,00,000</h3>
+                <p style="color: #e5e7eb; font-size: 14px">
+                  One-time, non-refundable fee including brand usage, recipes,
+                  SOPs, staff training & opening support.
+                </p>
+              </div>
+            </div>
 
-    <!-- Cards -->
-    <div class="row g-3">
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #dc2626, #991b1b);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">💰 Investment</h5>
+                <h3 style="color: #fee2e2; font-weight: 800">₹12–18 Lakhs</h3>
+                <p style="color: #fee2e2; font-size: 14px">
+                  Total investment depending on location, outlet size, and
+                  format.
+                </p>
+              </div>
+            </div>
 
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#166534,#14532d);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">💼 Franchise Fee</h5>
-          <h3 style="color:#bbf7d0; font-weight:800;">₹5,00,000</h3>
-          <p style="color:#e5e7eb; font-size:14px;">
-            One-time, non-refundable fee including brand usage, recipes,
-            SOPs, staff training & opening support.
-          </p>
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #166534, #14532d);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">
+                  🤝 Support Provided
+                </h5>
+                <p style="color: #e5e7eb; font-size: 14px">
+                  Vendor guidance, kitchen training, SOPs, launch assistance,
+                  and ongoing operational support.
+                </p>
+              </div>
+            </div>
+
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #dc2626, #991b1b);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">📋 Your Role</h5>
+                <p style="color: #fee2e2; font-size: 14px">
+                  Daily operations, staff management, quality control, and
+                  maintaining brand standards.
+                </p>
+              </div>
+            </div>
+
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #166534, #14532d);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">📜 Agreement</h5>
+                <p style="color: #e5e7eb; font-size: 14px">
+                  5-year franchise agreement, renewable on mutual consent.
+                </p>
+              </div>
+            </div>
+
+            <!-- Card -->
+            <div class="col-lg-4 col-md-6">
+              <div
+                style="
+                  background: linear-gradient(180deg, #020617, #020617);
+                  padding: 30px;
+                  border-radius: 18px;
+                  height: 100%;
+                  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.35);
+                "
+              >
+                <h5 style="color: #fff; font-weight: 700">📊 Royalty</h5>
+                <h3 style="color: #38bdf8; font-weight: 800">6%</h3>
+                <p style="color: #cbd5e1; font-size: 14px">
+                  Monthly royalty on gross sales.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- CTA -->
+          <div class="row mt-5">
+            <div class="col text-center">
+              <a
+                href="contact.php"
+                style="
+                  display: inline-block;
+                  padding: 16px 38px;
+                  background: linear-gradient(135deg, #22c55e, #16a34a);
+                  color: #fff;
+                  font-size: 18px;
+                  font-weight: 700;
+                  border-radius: 50px;
+                  text-decoration: none;
+                  box-shadow: 0 15px 30px rgba(34, 197, 94, 0.4);
+                "
+              >
+                Apply for Franchise
+              </a>
+            </div>
+          </div>
         </div>
-      </div>
-
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#dc2626,#991b1b);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">💰 Investment</h5>
-          <h3 style="color:#fee2e2; font-weight:800;">₹12–18 Lakhs</h3>
-          <p style="color:#fee2e2; font-size:14px;">
-            Total investment depending on location, outlet size, and format.
-          </p>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#166534,#14532d);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">🤝 Support Provided</h5>
-          <p style="color:#e5e7eb; font-size:14px;">
-            Vendor guidance, kitchen training, SOPs, launch assistance,
-            and ongoing operational support.
-          </p>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#dc2626,#991b1b);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">📋 Your Role</h5>
-          <p style="color:#fee2e2; font-size:14px;">
-            Daily operations, staff management, quality control,
-            and maintaining brand standards.
-          </p>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#166534,#14532d);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">📜 Agreement</h5>
-          <p style="color:#e5e7eb; font-size:14px;">
-            5-year franchise agreement, renewable on mutual consent.
-          </p>
-        </div>
-      </div>
-
-      <!-- Card -->
-      <div class="col-lg-4 col-md-6">
-        <div style="background:linear-gradient(180deg,#020617,#020617);
-                    padding:30px; border-radius:18px; height:100%;
-                    box-shadow:0 20px 40px rgba(0,0,0,0.35);">
-          <h5 style="color:#fff; font-weight:700;">📊 Royalty</h5>
-          <h3 style="color:#38bdf8; font-weight:800;">6%</h3>
-          <p style="color:#cbd5e1; font-size:14px;">
-            Monthly royalty on gross sales.
-          </p>
-        </div>
-      </div>
-
-    </div>
-
-    <!-- CTA -->
-    <div class="row mt-5">
-      <div class="col text-center">
-        <a href="contact.php"
-           style="display:inline-block; padding:16px 38px;
-                  background:linear-gradient(135deg,#22c55e,#16a34a);
-                  color:#fff; font-size:18px; font-weight:700;
-                  border-radius:50px; text-decoration:none;
-                  box-shadow:0 15px 30px rgba(34,197,94,0.4);">
-          Apply for Franchise
-        </a>
-      </div>
-    </div>
-
-  </div>
-</section>
-
+      </section>
 
       <section class="pt-60 pb5">
         <div class="container w_1650">
@@ -1109,21 +1193,25 @@ with fresh ingredients and bold flavours.
                   alt=""
                 />
                 <div class="image wow fadeInLeft" data-wow-delay=".3s">
-                  <img src="assets/images/gallery/IMG-20251216-WA0023.jpg" alt="" />
+                  <img
+                    src="assets/images/gallery/IMG-20251216-WA0023.jpg"
+                    alt=""
+                  />
                 </div>
                 <div class="content wow fadeIn" data-wow-delay=".5s">
                   <h2 class="mb-24 color-3 text-spacing-1">
-  There is a Whole <br class="show-desktop" />
-  Universe in Every Bite.
-</h2>
+                    There is a Whole <br class="show-desktop" />
+                    Universe in Every Bite.
+                  </h2>
 
-<p class="mb-22">
-  At Korean Deliciouso, every dish carries the depth, warmth, and soul of
-  authentic Asian flavours. From sizzling chicken to handcrafted dimsum,
-  each bite is crafted with freshness, passion, and tradition. We blend
-  modern cooking with classic Korean techniques to give you a truly
-  unforgettable dining experience.
-</p>
+                  <p class="mb-22">
+                    At Korean Deliciouso, every dish carries the depth, warmth,
+                    and soul of authentic Asian flavours. From sizzling chicken
+                    to handcrafted dimsum, each bite is crafted with freshness,
+                    passion, and tradition. We blend modern cooking with classic
+                    Korean techniques to give you a truly unforgettable dining
+                    experience.
+                  </p>
 
                   <ul class="mb-30 icon-list">
                     <li>
@@ -1202,29 +1290,28 @@ with fresh ingredients and bold flavours.
                       <span>Club connect members</span>
                     </li>
                     <li>
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    version="1.1"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="512"
-    height="512"
-    x="0"
-    y="0"
-    viewBox="0 0 408.576 408.576"
-    style="enable-background: new 0 0 512 512"
-    xml:space="preserve"
-  >
-    <g>
-      <path
-        d="M204.288 0C91.648 0 0 91.648 0 204.288s91.648 204.288 204.288 204.288 204.288-91.648 204.288-204.288S316.928 0 204.288 0zm114.176 150.528-130.56 129.536c-7.68 7.68-19.968 8.192-28.16.512L90.624 217.6c-8.192-7.68-8.704-20.48-1.536-28.672 7.68-8.192 20.48-8.704 28.672-1.024l54.784 50.176L289.28 121.344c8.192-8.192 20.992-8.192 29.184 0s8.192 20.992 0 29.184z"
-        fill="#bb0001"
-        opacity="1"
-      ></path>
-    </g>
-  </svg>
-  <span>Hygienic & quality assured food</span>
-</li>
-
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        version="1.1"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        width="512"
+                        height="512"
+                        x="0"
+                        y="0"
+                        viewBox="0 0 408.576 408.576"
+                        style="enable-background: new 0 0 512 512"
+                        xml:space="preserve"
+                      >
+                        <g>
+                          <path
+                            d="M204.288 0C91.648 0 0 91.648 0 204.288s91.648 204.288 204.288 204.288 204.288-91.648 204.288-204.288S316.928 0 204.288 0zm114.176 150.528-130.56 129.536c-7.68 7.68-19.968 8.192-28.16.512L90.624 217.6c-8.192-7.68-8.704-20.48-1.536-28.672 7.68-8.192 20.48-8.704 28.672-1.024l54.784 50.176L289.28 121.344c8.192-8.192 20.992-8.192 29.184 0s8.192 20.992 0 29.184z"
+                            fill="#bb0001"
+                            opacity="1"
+                          ></path>
+                        </g>
+                      </svg>
+                      <span>Hygienic & quality assured food</span>
+                    </li>
                   </ul>
                   <div class="wrap-button flex-wrap">
                     <a
@@ -1378,85 +1465,85 @@ with fresh ingredients and bold flavours.
                 <div class="swiper-container mb-38 sl-testimonial">
                   <div class="swiper-wrapper">
                     <div class="swiper-slide">
-  <div class="testimonial-item">
-    <div class="icon">
-      <img src="assets/images/icon/quote.png" alt="" />
-    </div>
-    <p class="color-3 mb-28">
-      The food quality here is outstanding. Everything tastes fresh and
-      flavorful, especially the Korean dishes. Hygiene standards are
-      excellent, and the staff is always friendly.
-    </p>
-    <p class="name color-3">
-      <span>-</span> Rahul Mehta <span>-</span>
-    </p>
-  </div>
-</div>
+                      <div class="testimonial-item">
+                        <div class="icon">
+                          <img src="assets/images/icon/quote.png" alt="" />
+                        </div>
+                        <p class="color-3 mb-28">
+                          The food quality here is outstanding. Everything
+                          tastes fresh and flavorful, especially the Korean
+                          dishes. Hygiene standards are excellent, and the staff
+                          is always friendly.
+                        </p>
+                        <p class="name color-3">
+                          <span>-</span> Rahul Mehta <span>-</span>
+                        </p>
+                      </div>
+                    </div>
 
                     <div class="swiper-slide">
-  <div class="testimonial-item">
-    <div class="icon">
-      <img src="assets/images/icon/quote.png" alt="" />
-    </div>
-    <p class="color-3 mb-28">
-      Absolutely love this place! Portions are generous and the flavours
-      are spot on. You can really tell they care about cleanliness and
-      food safety.
-    </p>
-    <p class="name color-3">
-      <span>-</span> Neha Kapoor <span>-</span>
-    </p>
-  </div>
-</div>
+                      <div class="testimonial-item">
+                        <div class="icon">
+                          <img src="assets/images/icon/quote.png" alt="" />
+                        </div>
+                        <p class="color-3 mb-28">
+                          Absolutely love this place! Portions are generous and
+                          the flavours are spot on. You can really tell they
+                          care about cleanliness and food safety.
+                        </p>
+                        <p class="name color-3">
+                          <span>-</span> Neha Kapoor <span>-</span>
+                        </p>
+                      </div>
+                    </div>
 
                     <div class="swiper-slide">
-  <div class="testimonial-item">
-    <div class="icon">
-      <img src="assets/images/icon/quote.png" alt="" />
-    </div>
-    <p class="color-3 mb-28">
-      One of the best Asian food spots in town. The corn dogs and ramen
-      are my favorites. Fast service, clean kitchen, and great value
-      for money.
-    </p>
-    <p class="name color-3">
-      <span>-</span> Arjun Singh <span>-</span>
-    </p>
-  </div>
-</div>
+                      <div class="testimonial-item">
+                        <div class="icon">
+                          <img src="assets/images/icon/quote.png" alt="" />
+                        </div>
+                        <p class="color-3 mb-28">
+                          One of the best Asian food spots in town. The corn
+                          dogs and ramen are my favorites. Fast service, clean
+                          kitchen, and great value for money.
+                        </p>
+                        <p class="name color-3">
+                          <span>-</span> Arjun Singh <span>-</span>
+                        </p>
+                      </div>
+                    </div>
 
                     <div class="swiper-slide">
-  <div class="testimonial-item">
-    <div class="icon">
-      <img src="assets/images/icon/quote.png" alt="" />
-    </div>
-    <p class="color-3 mb-28">
-      A perfect place to dine with family and friends. The food is
-      delicious, well-presented, and always served hot. Highly
-      recommended!
-    </p>
-    <p class="name color-3">
-      <span>-</span> Simran Kaur <span>-</span>
-    </p>
-  </div>
-</div>
+                      <div class="testimonial-item">
+                        <div class="icon">
+                          <img src="assets/images/icon/quote.png" alt="" />
+                        </div>
+                        <p class="color-3 mb-28">
+                          A perfect place to dine with family and friends. The
+                          food is delicious, well-presented, and always served
+                          hot. Highly recommended!
+                        </p>
+                        <p class="name color-3">
+                          <span>-</span> Simran Kaur <span>-</span>
+                        </p>
+                      </div>
+                    </div>
 
                     <div class="swiper-slide">
-  <div class="testimonial-item">
-    <div class="icon">
-      <img src="assets/images/icon/quote.png" alt="" />
-    </div>
-    <p class="color-3 mb-28">
-      Great ambiance, amazing food, and top-notch hygiene. The staff
-      wears gloves and follows cleanliness seriously, which makes the
-      experience even better.
-    </p>
-    <p class="name color-3">
-      <span>-</span> Daniel Foster <span>-</span>
-    </p>
-  </div>
-</div>
-
+                      <div class="testimonial-item">
+                        <div class="icon">
+                          <img src="assets/images/icon/quote.png" alt="" />
+                        </div>
+                        <p class="color-3 mb-28">
+                          Great ambiance, amazing food, and top-notch hygiene.
+                          The staff wears gloves and follows cleanliness
+                          seriously, which makes the experience even better.
+                        </p>
+                        <p class="name color-3">
+                          <span>-</span> Daniel Foster <span>-</span>
+                        </p>
+                      </div>
+                    </div>
                   </div>
                 </div>
 
@@ -1530,129 +1617,127 @@ with fresh ingredients and bold flavours.
       </section>
 
       <section class="tf-section pb-130">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div
-          class="tf-title center pb-30 mb-75 wow fadeInUp"
-          data-wow-delay=".2s"
-        >
-          <p class="sub-title">Latest from Deliciouso</p>
-          <h2 class="mb-20">What’s New Today?</h2>
-          <p>
-            Freshly prepared Korean and Asian dishes made with bold flavours,
-            premium ingredients, and a passion for great food.
-          </p>
-        </div>
-      </div>
-
-      <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
-        <div class="swiper-container sl-post">
-          <div class="swiper-wrapper">
-
-            <!-- Post 1 -->
-            <div class="swiper-slide">
-              <div class="post">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_1a.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i>
-                      <span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i>
-                      <span>Korean Food, Street Food</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html">
-                    Why Korean Corn Dogs Are Everyone’s Favorite
-                  </a>
-                </h6>
-                <p class="desc center">
-                  Discover what makes Korean corn dogs so irresistible,
-                  from their crispy coating to their cheesy, flavorful
-                  fillings.
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <div
+                class="tf-title center pb-30 mb-75 wow fadeInUp"
+                data-wow-delay=".2s"
+              >
+                <p class="sub-title">Latest from Deliciouso</p>
+                <h2 class="mb-20">What’s New Today?</h2>
+                <p>
+                  Freshly prepared Korean and Asian dishes made with bold
+                  flavours, premium ingredients, and a passion for great food.
                 </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog.blog" class="tf-button">read more</a>
-                </div>
               </div>
             </div>
 
-            <!-- Post 2 -->
-            <div class="swiper-slide">
-              <div class="post">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_2a.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i>
-                      <span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i>
-                      <span>Ramen, Asian Cuisine</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html">
-  Veg Soya Tofu Ramen: A Wholesome Comfort Bowl
-</a>
-</h6>
-<p class="desc center">
-  Enjoy a nourishing bowl of ramen made with soya tofu, fresh vegetables,
-  and a savory broth that delivers comfort and flavor in every bite.
-</p>
+            <div class="col-md-12 wow fadeIn" data-wow-delay=".3s">
+              <div class="swiper-container sl-post">
+                <div class="swiper-wrapper">
+                  <!-- Post 1 -->
+                  <div class="swiper-slide">
+                    <div class="post">
+                      <a href="blog-details.html" class="flex image mb-22">
+                        <img src="assets/images/post/post_1a.jpg" alt="" />
+                        <ul class="tag flex items-center">
+                          <li>
+                            <i class="fas fa-calendar-alt"></i>
+                            <span>August 24, 2023</span>
+                          </li>
+                          <li>
+                            <i class="fas fa-tag"></i>
+                            <span>Korean Food, Street Food</span>
+                          </li>
+                        </ul>
+                      </a>
+                      <h6 class="title center color-3 mb-0">
+                        <a href="blog-details.html">
+                          Why Korean Corn Dogs Are Everyone’s Favorite
+                        </a>
+                      </h6>
+                      <p class="desc center">
+                        Discover what makes Korean corn dogs so irresistible,
+                        from their crispy coating to their cheesy, flavorful
+                        fillings.
+                      </p>
+                      <div class="btn-post flex justify-center">
+                        <a href="blog.blog" class="tf-button">read more</a>
+                      </div>
+                    </div>
+                  </div>
 
-                <div class="btn-post flex justify-center">
-                  <a href="blog.php" class="tf-button">read more</a>
+                  <!-- Post 2 -->
+                  <div class="swiper-slide">
+                    <div class="post">
+                      <a href="blog-details.html" class="flex image mb-22">
+                        <img src="assets/images/post/post_2a.jpg" alt="" />
+                        <ul class="tag flex items-center">
+                          <li>
+                            <i class="fas fa-calendar-alt"></i>
+                            <span>August 24, 2023</span>
+                          </li>
+                          <li>
+                            <i class="fas fa-tag"></i>
+                            <span>Ramen, Asian Cuisine</span>
+                          </li>
+                        </ul>
+                      </a>
+                      <h6 class="title center color-3 mb-0">
+                        <a href="blog-details.html">
+                          Veg Soya Tofu Ramen: A Wholesome Comfort Bowl
+                        </a>
+                      </h6>
+                      <p class="desc center">
+                        Enjoy a nourishing bowl of ramen made with soya tofu,
+                        fresh vegetables, and a savory broth that delivers
+                        comfort and flavor in every bite.
+                      </p>
+
+                      <div class="btn-post flex justify-center">
+                        <a href="blog.php" class="tf-button">read more</a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Post 3 -->
+                  <div class="swiper-slide">
+                    <div class="post">
+                      <a href="blog-details.html" class="flex image mb-22">
+                        <img src="assets/images/post/post_3a.jpg" alt="" />
+                        <ul class="tag flex items-center">
+                          <li>
+                            <i class="fas fa-calendar-alt"></i>
+                            <span>August 24, 2023</span>
+                          </li>
+                          <li>
+                            <i class="fas fa-tag"></i>
+                            <span>Thai Food, Soups</span>
+                          </li>
+                        </ul>
+                      </a>
+                      <h6 class="title center color-3 mb-0">
+                        <a href="blog-details.html">
+                          Tom Yum Soup: The Perfect Balance of Spice & Tang
+                        </a>
+                      </h6>
+                      <p class="desc center">
+                        Learn what makes Tom Yum soup a Thai classic, packed
+                        with aromatic herbs, bold spice, and refreshing
+                        flavours.
+                      </p>
+                      <div class="btn-post flex justify-center">
+                        <a href="blog.php" class="tf-button">read more</a>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-
-            <!-- Post 3 -->
-            <div class="swiper-slide">
-              <div class="post">
-                <a href="blog-details.html" class="flex image mb-22">
-                  <img src="assets/images/post/post_3a.jpg" alt="" />
-                  <ul class="tag flex items-center">
-                    <li>
-                      <i class="fas fa-calendar-alt"></i>
-                      <span>August 24, 2023</span>
-                    </li>
-                    <li>
-                      <i class="fas fa-tag"></i>
-                      <span>Thai Food, Soups</span>
-                    </li>
-                  </ul>
-                </a>
-                <h6 class="title center color-3 mb-0">
-                  <a href="blog-details.html">
-                    Tom Yum Soup: The Perfect Balance of Spice & Tang
-                  </a>
-                </h6>
-                <p class="desc center">
-                  Learn what makes Tom Yum soup a Thai classic, packed
-                  with aromatic herbs, bold spice, and refreshing flavours.
-                </p>
-                <div class="btn-post flex justify-center">
-                  <a href="blog.php" class="tf-button">read more</a>
-                </div>
-              </div>
-            </div>
-
           </div>
         </div>
-      </div>
-
-    </div>
-  </div>
-</section>
-
+      </section>
 
       <section>
         <div class="container">
@@ -1662,11 +1747,7 @@ with fresh ingredients and bold flavours.
                 class="subscribe style1 flex items-center radius-20 gradient-6"
               >
                 <div class="icon">
-                  <img
-                    class="ring"
-                    src="assets/images/icon/ring.png"
-                    alt=""
-                  />
+                  <img class="ring" src="assets/images/icon/ring.png" alt="" />
                 </div>
                 <div class="content">
                   <h4 class="mb-12 text-spacing-0_5">
@@ -1723,12 +1804,12 @@ with fresh ingredients and bold flavours.
                     <div class="product-3">
                       <img src="assets/images/common/item_17.jpg" alt="" />
                       <div class="action">
-                        <a 
-    class="flex icon"
-    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+                        <a
+                          class="flex icon"
+                          href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1764,12 +1845,12 @@ with fresh ingredients and bold flavours.
                     <div class="product-3">
                       <img src="assets/images/common/item_18.jpg" alt="" />
                       <div class="action">
-                        <a 
-    class="flex icon"
-    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+                        <a
+                          class="flex icon"
+                          href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1805,12 +1886,12 @@ with fresh ingredients and bold flavours.
                     <div class="product-3">
                       <img src="assets/images/common/item_19.jpg" alt="" />
                       <div class="action">
-                        <a 
-    class="flex icon"
-    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+                        <a
+                          class="flex icon"
+                          href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1846,12 +1927,12 @@ with fresh ingredients and bold flavours.
                     <div class="product-3">
                       <img src="assets/images/common/item_20a.jpg" alt="" />
                       <div class="action">
-                        <a 
-    class="flex icon"
-    href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+                        <a
+                          class="flex icon"
+                          href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -1887,12 +1968,12 @@ with fresh ingredients and bold flavours.
                     <div class="product-3">
                       <img src="assets/images/common/item_21a.jpg" alt="" />
                       <div class="action">
-                        <a 
-                        class="flex icon"
-                        href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                         >
+                        <a
+                          class="flex icon"
+                          href="https://www.instagram.com/korea_ndelicicious01?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             version="1.1"
@@ -2006,5 +2087,5 @@ with fresh ingredients and bold flavours.
     </script>
   </body>
 
-<!-- Mirrored from themesflat.co/html/restaurant/fastfood/home-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:09:43 GMT -->
+  <!-- Mirrored from themesflat.co/html/restaurant/fastfood/home-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Dec 2025 07:09:43 GMT -->
 </html>
