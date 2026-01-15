@@ -105,7 +105,7 @@
                 >
                   <h1 class="title center">Contact Us</h1>
                   <ul>
-                    <li><a href="home-01.html">Home</a></li>
+                    <li><a href="about.php">Home</a></li>
                     <li>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
@@ -181,13 +181,13 @@
                             </div>
                             <h5 class="mb-20">Address Restaurant</h5>
                             <p class="color-5">
-                              12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, N.D-05
+                              12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, New Delhi- 110005
                             </p>
                           </div>
                           <div class="hover-effect w-full">
                             <h5 class="mb-20">Address Restaurant</h5><h6></h6>
                             <p class="color-5">
-                              12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, N.D-05
+                              12A/2, Shop No.3, Saraswati Marg, W.E.A., Karol Bagh, New Delhi- 110005
                             </p>
                           </div>
                         </div>
@@ -244,7 +244,7 @@
                             <h5 class="mb-20">Phone Number</h5><h4></h4>
                             <p class="color-5">
                               Support: 7982213237 <br />
-                              order: 9632705378 <br />
+                              Order: 9632705378 <br />
                               Order1: 7973945446
                             </p>
                           </div>
@@ -252,7 +252,7 @@
                             <h5 class="mb-20">Phone Number</h5>
                             <p class="color-5">
                               Support: 7982213237 <br />
-                              order: 9632705378 <br />
+                              Order: 9632705378 <br />
                               Order1: 7973945446
                             </p>
                           </div>
@@ -287,15 +287,15 @@
                             </div>
                             <h5 class="mb-20">Open Hour Time</h5>
                             <p class="color-5">
-                              Monday - Friday: 8.00am - 22.00pm <br />
-                              Holiday: Closes
+                              Monday - Friday : 8.00am - 10.00pm <br />
+                              Holidays : Closed
                             </p>
                           </div>
                           <div class="hover-effect w-full">
                             <h5 class="mb-20">Open Hour Time</h5>
                             <p class="color-5">
-                              Monday - Friday: 8.00am - 22.00pm <br />
-                              Holiday: Closes
+                              Monday - Friday: 8.00am - 10.00pm <br />
+                              Holidays : Closed
                             </p>
                           </div>
                         </div>

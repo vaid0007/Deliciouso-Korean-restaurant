@@ -141,7 +141,7 @@
                 >
                   <h1 class="title center">Gallery</h1><h3></h3>
                   <ul>
-                    <li><a href="home-01.html">Home</a></li>
+                    <li><a href="about.php">Home</a></li>
                     <li>
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
